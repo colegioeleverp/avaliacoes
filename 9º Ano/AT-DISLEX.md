@@ -1,6 +1,6 @@
 # Avaliação Teste — 9º Ano
 
-> **3º Bimestre · Bloco 1** · 31 questões
+> **3º Bimestre · Bloco 1** · 35 questões
 > Nome: ______________________________  Turma: ______  Data: ____/____/____
 
 ---
@@ -447,3 +447,58 @@ a) I é ácido, II é neutro, III e IV são básicos, e o pH sozinho não mede o
 b) IV é o mais perigoso — está mais longe de 7  
 c) I pode ser bebido sem cuidado — sucos são alimentos  
 d) III e IV oferecem o mesmo risco — os dois são básicos
+
+---
+## Inglês
+
+### QUESTÃO 32
+
+Os advérbios marcam graus de certeza.
+
+**Assinale a ordem, do mais certo ao menos certo.**
+
+a) certainly — probably — possibly — unlikely  
+b) probably — certainly — possibly — unlikely  
+c) unlikely — possibly — probably — certainly  
+d) certainly — possibly — probably — unlikely
+
+---
+
+### QUESTÃO 33
+
+Leia: *He must be sleeping* e *He must call his mother*. O modal é o mesmo, o sentido não.
+
+**Assinale o que separa as duas.**
+
+a) a primeira é obrigação; a segunda, conclusão  
+b) a primeira é conclusão; a segunda, obrigação  
+c) as duas são conclusões, e muda só o tempo  
+d) as duas são obrigações, e a primeira é mais educada
+
+---
+
+### QUESTÃO 34
+
+Leia. A situação é hipotética.
+
+> Lucas is not answering his phone. His car is in front of his house. The lights and the television are on. Yesterday he said he would travel to the beach.
+
+**Assinale a leitura certa.**
+
+a) Lucas não está em casa, porque disse que ia viajar  
+b) Lucas viajou, e alguém deixou tudo ligado  
+c) nada se conclui, porque as pistas se contradizem  
+d) as pistas dizem que Lucas está em casa, apesar do aviso
+
+---
+
+### QUESTÃO 35
+
+A frase *She must reading in her room* está errada.
+
+**Assinale o que falta nela.**
+
+a) o *-ing* no verbo  
+b) o sujeito depois do modal  
+c) o verbo *be* antes do verbo com *-ing*  
+d) trocar *must* por *can't*

@@ -1,9 +1,7 @@
 # Avaliação Teste — 6º Ano
 
-> **3º Bimestre · Bloco 1** · 26 questões
+> **3º Bimestre · Bloco 1** · 30 questões
 > Nome: ______________________________  Turma: ______  Data: ____/____/____
-
-> **Nota de produção — não é instrução ao aluno.** A tabela da coordenação prevê 30 questões para o 6º ano. Esta prova traz 26 porque o bloco de Inglês não foi produzido: não existe conteúdo de Inglês nesta rodada.
 
 ---
 ## Português
@@ -369,3 +367,58 @@ a) as satrapias deixavam de precisar de sátrapas
 b) as ordens do rei chegavam rápido às províncias distantes  
 c) o comércio ficava proibido na estrada  
 d) os povos conquistados adotavam os costumes persas
+
+---
+## Inglês
+
+### QUESTÃO 27
+
+*Good* e *bad* não usam *-er* nem *more*.
+
+**Assinale o comparativo certo de *good* e *bad*.**
+
+a) gooder — badder  
+b) more good — more bad  
+c) better — worse  
+d) worse — better
+
+---
+
+### QUESTÃO 28
+
+*Safe* termina em *-e*. *Busy* termina em *-y*.
+
+**Assinale a forma comparativa certa.**
+
+a) safer — busier  
+b) more safe — busier  
+c) more safe — more busy  
+d) safer — busyer
+
+---
+
+### QUESTÃO 29
+
+Leia. A situação é hipotética.
+
+> Nina is faster than Beto. Beto is faster than Caio. Nina has trained for two months, Beto for six months, and Caio for one year.
+
+**Assinale a leitura certa.**
+
+a) Caio corre mais que Nina, porque treina há mais tempo  
+b) Beto corre mais que Nina, e Caio corre mais que Beto  
+c) os três correm igual, porque treinam no mesmo clube  
+d) Nina corre mais que Caio, mesmo Caio treinando há mais tempo
+
+---
+
+### QUESTÃO 30
+
+*Pretty* e *careful* têm duas sílabas. Um usa *-er*, o outro usa *more*.
+
+**Assinale a razão.**
+
+a) *pretty* tem menos letras, e o número de letras decide  
+b) *pretty* termina em *-y*, e *-y* com duas sílabas usa *-er*  
+c) *careful* fala de pessoa, e adjetivo de pessoa usa *more*  
+d) os dois aceitam as duas formas, e a escolha é livre

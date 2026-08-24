@@ -11,11 +11,11 @@
 
 | Item | Situação |
 |---|---|
-| **Inglês** | **fora desta rodada.** Não existe conteúdo de Inglês em `~/conteudos-segundo-semestre/`, e a tabela da coordenação pede 4 questões. Elas **não foram produzidas e não foram compensadas** em outra disciplina. A ausência é registrada aqui e não é defeito de produção |
+| **Inglês** | ⚠️ **pendente, e a razão registrada antes estava errada.** Até 24/08/2026 este campo dizia que não existia conteúdo de Inglês. **Existe:** a pasta `Inglês - Ok` está no Drive desde **14/08/2026** e traz capítulo-fonte e caderno da 1ª série. O bloco **não foi produzido** porque a rodada de 24/08 cobriu só o 6º ao 9º ano — é **pendência de produção, não ausência de conteúdo**, e as 4 questões continuam faltando. O 6º, 7º, 8º e 9º ano já receberam o bloco e fecham os totais previstos |
 | **Operações** | ✅ **confirmado pela coordenação em 19/08/2026.** O bloco foi produzido a partir de `Operações/1ª Série/bl1_Operacoes_1serie.md`, que cobre do 6º ano à 3ª série e é o que o Drive imprime sob "Matemática". Confirmar com a coordenação |
 | **Geometria e Física** | um bloco, duas pastas: `Geometria/` e `Física/`. A divisão das 5 questões está registrada em 1.3 |
 | **Estudos Sociais** | um bloco, **quatro** pastas: `História/`, `Geografia/`, `Filosofia/` e `Sociologia/`. A divisão das 6 questões e o critério estão registrados em 1.6 |
-| **Total da prova** | **36 questões de 40.** As 4 que faltam são as de Inglês |
+| **Total da prova** | **36 questões de 40.** As 4 que faltam são as de Inglês — **pendência de produção desde 24/08/2026**, quando se descobriu que o conteúdo existia. Ver o campo de Inglês acima |
 | **Notação matemática** | escrita em LaTeX entre `$$…$$`, como nos capítulos-fonte de Operações, Geometria, Física e Química. Nenhuma questão depende de gráfico, figura ou desenho: todas as leituras de gráfico foram convertidas em registros verbais impressos |
 
 **Cadernos de casa disponíveis na 1ª série:** Português, Geometria, Matemática Financeira, Biologia, Química, História, Geografia, Filosofia e Sociologia — **e também Operações e Física**, que a pasta `CADERNO/` não tem mas o Drive tem, nos documentos `OPERAÇÕES_1série_3BIMESTRE_Bloco 1_CADERNO DE ATIVIDADE PARA CASA` (30 atividades) e `FÍSICA_1SÉRIE_3BIMESTRE_Bloco 1_CADERNO DE ATIVIDADE` (27 atividades).
@@ -314,7 +314,7 @@ Capítulo e carga: **1 — Tabela periódica** (6 aulas). É o único capítulo 
 | 6 | **Diferente da questão do caderno** — conferido questão a questão | detalhado em 3.3 |
 | 7 | Caso novo em N2 e N3 | **sim.** Detalhado em 3.4 |
 | 8 | Qualidade do distrator | **108 distratores.** Nenhum absurdo, nenhum "todas as anteriores", todos do mesmo campo conceitual da resposta certa, comprimentos equivalentes dentro de cada questão, e motivo próprio registrado na grade da seção 2 |
-| 9 | Soma fecha o total | **sim.** 36 questões × 1 ponto. A prova soma 36 de 40 previstos: faltam as 4 de Inglês, registradas na seção 0 |
+| 9 | Soma fecha o total | **sim.** 36 questões × 1 ponto. A prova soma 36 de 40 previstos: faltam as 4 de Inglês, registradas na seção 0. **O conteúdo existe** — o bloco está pendente de produção, não impedido |
 | 10 | **Mede sozinha todos os essenciais** | **sim.** 28 essenciais declarados, 28 medidos. Nenhuma disciplina deixou essencial de fora |
 | 11 | **Questões de interpretação da faixa** | **sim.** A 1ª série está na faixa do Ensino Médio: 2 por bloco, e 1 no bloco de 3 questões (briefing §4). São 13 no total — Q02, Q06, Q09, Q12, Q15, Q17, Q20, Q23, Q26, Q28, Q32, Q35, Q36. **Todas em N2 ou N3**, e todas com um distrator que extrapola o suporte, identificado na grade da seção 2 |
 
@@ -370,7 +370,7 @@ Capítulo e carga: **1 — Tabela periódica** (6 aulas). É o único capítulo 
 
 | Item | Situação | Quem decide |
 |---|---|---|
-| **Inglês** | 4 questões previstas, 0 produzidas. Não existe conteúdo-fonte | coordenação |
+| **Inglês** | 4 questões previstas, 0 produzidas. ⚠️ **O conteúdo-fonte existe** — corrigido em 24/08/2026. É pendência de produção | produção |
 | **Física sem caderno** | 6 aulas, 7 assuntos, **2 questões e nenhum treino registrado**. A 2ª e a 3ª leis de Newton, a tração e a lei de Hooke ficam fora de qualquer instrumento. **É a maior lacuna desta prova** | coordenação |
 | **Operações sem caderno** | 12 aulas, 11 assuntos, 6 questões e nenhum treino registrado. Medido sem treino em todas as seis | coordenação |
 | **Estudos Sociais com quatro pastas** | 24 aulas, 26 assuntos, 6 questões. O piso de 1 por capítulo consome o volume inteiro e impede que Clima (7 aulas) e História 2 (5 aulas) recebam a segunda questão a que a proporção lhes daria direito | coordenação |

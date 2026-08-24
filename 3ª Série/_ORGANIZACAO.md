@@ -25,7 +25,7 @@ As duas decisões não conversam. Esta produção resolveu o conflito **produzin
 
 ### 0.2 Inglês está fora — e a prova não fecha 40 questões
 
-Não existe conteúdo de Inglês em `~/conteudos-segundo-semestre/`. As 4 questões que a tabela da coordenação reserva à disciplina **não foram produzidas, e não foram compensadas em outra disciplina**. A prova tem **36 questões**, e não as 40 do parâmetro. Isso é esperado nesta rodada e está declarado no briefing `_PRODUCAO-AT-Bloco1.md` §3.
+**A ausência da 3ª série é real, e foi conferida.** Em 24/08/2026 descobriu-se que a premissa de que *não existia conteúdo de Inglês no pipeline* era falsa para os demais anos: a pasta `Inglês - Ok` está no Drive desde 14/08/2026 e cobre do 1º ano à 2ª série do Ensino Médio. **A 3ª série é a única exceção** — não há capítulo nem caderno de Inglês para ela, conferido arquivo a arquivo naquela data. As 4 questões que a tabela da coordenação reserva à disciplina **não foram produzidas, e não foram compensadas em outra disciplina.** Aqui a ausência não é pendência de produção: é falta de conteúdo, e resolvê-la depende da coordenação.
 
 ### 0.3 O bloco de Operações
 

@@ -1,6 +1,6 @@
 # Avaliação Teste — 7º Ano
 
-> **3º Bimestre · Bloco 1** · 26 questões
+> **3º Bimestre · Bloco 1** · 30 questões
 > Nome: ______________________________  Turma: ______  Data: ____/____/____
 
 ---
@@ -354,3 +354,58 @@ a) o Brasil deixou de manter ferrovias para carga
 b) as hidrovias deixaram de operar depois dos anos 1950  
 c) uma greve de caminhoneiros interrompe o abastecimento em várias regiões  
 d) o transporte de cargas no Brasil é o mais barato entre todos os modais
+
+---
+## Inglês
+
+### QUESTÃO 27
+
+*For* e *since* aparecem os dois com o Present Perfect.
+
+**Assinale a diferença entre os dois.**
+
+a) *for* marca um período, *since* marca o ponto de início  
+b) *for* marca o ponto de início, *since* marca o período  
+c) *for* é do passado, *since* é do presente  
+d) *for* é da frase afirmativa, *since* é da negativa
+
+---
+
+### QUESTÃO 28
+
+Leia: *I have lived in Recife for six years* e *I lived in Recife for six years*.
+
+**Assinale a diferença entre as duas frases.**
+
+a) na primeira, a pessoa saiu de Recife; na segunda, ficou  
+b) a primeira conta de hoje; a segunda, do nascimento  
+c) as duas dizem o mesmo, e a escolha é livre  
+d) na primeira, a pessoa ainda mora em Recife; na segunda, não
+
+---
+
+### QUESTÃO 29
+
+Leia. A situação é hipotética.
+
+> Pedro has worked at the same bookshop since 2019. He has been the shop's manager since last March. He worked as a waiter from 2015 to 2018.
+
+**Assinale a leitura certa.**
+
+a) Pedro é garçom e trabalha na livraria ao mesmo tempo  
+b) Pedro virou gerente porque estuda inglês desde 2015  
+c) Pedro está na livraria desde 2019 e não é mais garçom  
+d) Pedro é gerente desde 2019, quando entrou na livraria
+
+---
+
+### QUESTÃO 30
+
+O verbo *write* é irregular.
+
+**Assinale a frase certa.**
+
+a) She has written three books since 2020  
+b) She has wrote three books since 2020  
+c) She have written three books since 2020  
+d) She has write three books since 2020

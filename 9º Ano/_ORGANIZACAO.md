@@ -2,7 +2,7 @@
 
 > Para o professor e a coordenação. Não vai na folha do aluno.
 > As provas estão nesta mesma pasta. A visão por conteúdo, em linguagem corrida, está em `_MAPA-<Disciplina>.md`.
-> **3º Bimestre · Bloco 1.** Produzido: a AT do ano — sete blocos de disciplina, 31 questões. A AC não entra nesta rodada.
+> **3º Bimestre · Bloco 1.** Produzido: a AT do ano — oito blocos de disciplina, 35 questões. A AC não entra nesta rodada.
 
 
 > **O bloco de Operações.** A prova chamou esta linha de *Matemática 1* durante a produção; a coordenação fixou **Operações** como o nome em uso, e a renomeação foi aplicada em 19/08/2026. Segue em aberto o que não é de nome: **o caderno de casa não cobre Operações**, que está fora do escopo dele — essas questões medem conteúdo sem treino registrado.
@@ -11,7 +11,8 @@
 
 | Item | Situação |
 |---|---|
-| **Inglês** | **fora desta rodada.** Não existe conteúdo de Inglês em `~/conteudos-segundo-semestre/`, e a tabela da coordenação pede 4 questões. Elas **não foram produzidas e não foram compensadas** em outra disciplina. A ausência é registrada aqui e não é defeito de produção |
+| **Inglês** | ✅ **dentro, desde 24/08/2026 — premissa falsa corrigida.** O registro anterior dizia que não existia conteúdo de Inglês no pipeline, e a prova saiu com 31 das 35 questões. O conteúdo existe desde antes da rodada: a pasta `Inglês - Ok` está no Drive desde **14/08/2026**, cinco dias antes da decisão de 19/08 que declarou a ausência definitiva — **mesma classe de erro da premissa de Operações e Física**, corrigida em 22/08. O bloco foi produzido: Q32–Q35 |
+| **Carga horária do bloco de Inglês** | ⚠️ **não informada na fonte.** O documento do Drive não traz o número de aulas do capítulo. Como o bloco tem **um capítulo só**, a distribuição não depende dele e nada foi estimado |
 | **Operações** | ✅ **confirmado pela coordenação em 19/08/2026.** O bloco foi produzido a partir de `Operações/9º Ano/bl1_Operacoes_9ano.md`, que cobre do 6º ano à 3ª série e é o que o Drive imprime sob "Matemática". Confirmar com a coordenação |
 | **Geometria e Física** | um bloco, duas pastas: `Geometria/` e `Física/`. A divisão das 5 questões está registrada em 1.3 |
 | **Ciências / Biologia** | no 9º ano a pasta é `Biologia/`, como prevê o briefing |
@@ -190,13 +191,31 @@ Capítulo e carga: **1 — Ácidos e bases** (3 aulas). É o único capítulo do
 
 **Fora da prova:** ácidos e bases do cotidiano, **nomenclatura** e classificação por número de H⁺ e por força. A nomenclatura é o único assunto do bloco que **não aparece nem no caderno nem na prova** — está registrado no `_MAPA-Química.md` como ponto cego.
 
+### 1.8 Inglês — questões 32 a 35
+
+Capítulo do bloco: **1 — Modais de dedução, e os graus de certeza**. A carga em aulas não vem informada na fonte do Drive; como o bloco tem um capítulo só, as 4 questões vão todas para ele e nenhuma proporção precisou ser calculada.
+
+| | Essencial | Cap |
+|---|---|---:|
+| I1 | Os graus de certeza, e as palavras que marcam cada um | 1 |
+| I2 | *must* como dedução e *must* como obrigação — o que a estrutura revela | 1 |
+
+| Q | Cap | Essencial | Conteúdo | Nível | Formato |
+|---|---:|:---:|---|---|---|
+| 32 | 1 | I1 | A escala dos advérbios de probabilidade, do mais ao menos certo | N1 | OBJ |
+| 33 | 1 | I2 | O mesmo modal em duas frases, com dois sentidos | N2 | OBJ |
+| 34 | 1 | — | Cena impressa com quatro evidências e uma intenção declarada | **N3** | **INT** |
+| 35 | 1 | — | Uma frase mal formada, e a peça que falta nela | N2 | OBJ |
+
+**Fora da prova:** as fórmulas de probabilidade em oração — *there's a good chance that*, *it's unlikely that* — e as fórmulas de incerteza — *I'm not sure, but*. São conteúdo do capítulo, não têm atividade de caderno e não couberam nas quatro questões. Ficam registradas no `_MAPA-Inglês.md`.
+
 ---
 
 ## 2. Gabarito e grade
 
 ### AT · cada questão vale 1 ponto. **A1 — sem crédito parcial.**
 
-**Distribuição das letras:** a = 8 · b = 8 · c = 8 · d = 7. As alternativas foram reordenadas depois de escritas justamente para isso — na primeira versão, 23 das 31 respostas caíam em **a**, e quem marcasse tudo na mesma letra acertaria 74% da prova. Nenhuma sequência tem mais de duas questões seguidas com a mesma letra.
+**Distribuição das letras:** a = 9 · b = 9 · c = 9 · d = 8. **Atualizada em 24/08/2026** com a entrada do bloco de Inglês, cuja chave — a · b · d · c — foi escolhida para manter as quatro letras equilibradas. As alternativas foram reordenadas depois de escritas justamente para isso — na primeira versão, 23 das 31 respostas caíam em **a**, e quem marcasse tudo na mesma letra acertaria 74% da prova. Nenhuma sequência tem mais de duas questões seguidas com a mesma letra.
 
 #### Português
 
@@ -264,6 +283,15 @@ Capítulo e carga: **1 — Ácidos e bases** (3 aulas). É o único capítulo do
 | 30 | **a** | **b** é o resultado do meio ácido · **c** mistura as duas respostas: acerta o tornassol e erra a fenolftaleína · **d** supõe o sabão neutro, e o capítulo o situa na faixa básica |
 | 31 | **a** | **b** **extrapola o suporte** — o pH indica caráter, e o capítulo diz que o risco depende também de concentração e composição; distrator obrigatório · **c** **acrescenta** à medida uma conclusão sobre ser seguro beber, que ela não autoriza · **d** **achata a diferença** entre dois líquidos básicos, tratando pH 10 e pH 13 como equivalentes |
 
+#### Inglês
+
+| Q | Letra | Por que cada distrator cai |
+|---|:---:|---|
+| 32 | **a** | **b** troca de lugar os dois primeiros, pondo *probably* acima de *certainly* — é o distrator que discrimina, porque a diferença entre os dois é a mais fina da escala · **c** **inverte a escala inteira**, do menos certo para o mais certo · **d** troca o par do meio, *probably* por *possibly*. Cada um erra num ponto diferente da mesma escala, e a marcação diz **onde** a ordem se desfez |
+| 33 | **b** | **a** **inverte as duas leituras**, chamando de obrigação a que é dedução e vice-versa — é o distrator que discrimina, e o mais tentador, porque *must* é ensinado antes como obrigação · **c** troca a diferença de sentido por uma de tempo verbal · **d** trata as duas como graus de certeza diferentes, quando só a primeira é dedução. Nenhum é absurdo: os três são leituras possíveis de quem viu o modal nos dois usos e não separou a estrutura |
+| 34 | **d** | **a** **extrapola a cena** — ela registra o que Lucas disse ontem, e a alternativa toma a intenção declarada como fato consumado, contra quatro evidências físicas do presente; é o distrator obrigatório da questão de interpretação · **b** **acrescenta** uma pessoa que a cena não menciona para explicar as luzes acesas · **c** **achata** o conjunto ao declarar que as evidências se contradizem e nada permitem concluir, quando o capítulo ensina justamente a pesar evidências de peso diferente |
+| 35 | **c** | **a** afirma que falta o *-ing*, que está escrito na frase — é o distrator do aluno que lê o comando e não a frase · **b** inventa uma regra de posição do sujeito que o capítulo não enuncia · **d** inventa uma restrição do modal, como se *must* não aceitasse ação em andamento, o que contraria a estrutura ensinada no capítulo |
+
 ---
 
 ## 3. Conferência da matriz
@@ -279,14 +307,15 @@ Capítulo e carga: **1 — Ácidos e bases** (3 aulas). É o único capítulo do
 | Biologia | 5 | 2 caps · 4+2 = 6 | 3·2 ok | 2 = **40%** ok | 2 = **40%** ok | 1 = **20%** ok | 5 de 5 | 1 · Q20 · N3 |
 | Estudos Sociais | 5 | 4 caps · 5+4+5+4 = 18 | 2·1·1·1 — ver nota | 2 = **40%** ok | 2 = **40%** ok | 1 = **20%** ok | 5 de 5 | 1 · Q27 · N3 |
 | Química | 4 | 1 cap · 3 | 4 ok | 1 = **25%** ⚠️ | 2 = **50%** ok | 1 = **25%** ok | 2 de 2 | 1 · Q31 · N3 |
-| **AT inteira** | **31** | — | — | **11 = 35,5%** ok | **13 = 41,9%** ok | **7 = 22,6%** ok | **29 de 29** | **7 de 7** |
+| Inglês | 4 | 1 cap · carga não informada | 4 — capítulo único | 1 = **25%** ⚠️ | 2 = **50%** ok | 1 = **25%** ok | 2 de 2 | 1 · Q34 · N3 |
+| **AT inteira** | **35** | — | — | **12 = 34,3%** ok | **15 = 42,9%** ok | **8 = 22,9%** ok | **31 de 31** | **8 de 8** |
 
 **Bandas do `07` §3.2:** N1 30–40% · N2 40–50% · N3 20–30%.
 
-⚠️ **Os dois desvios de banda são aritméticos, não de desenho, e não têm solução dentro do volume dado.**
+⚠️ **Os três desvios de banda são aritméticos, não de desenho, e não têm solução dentro do volume dado.**
 
 - **Matemática Financeira, 2 questões.** A banda de N1 exige entre 0,6 e 0,8 questão e a de N3, entre 0,4 e 0,6. Nenhum inteiro serve. Como o bloco de 2 questões precisa levar 1 questão de interpretação (briefing §4), que só existe em N2 ou N3, a única combinação possível é **1 N2 + 1 N3** — que é a adotada. A alternativa, 1 N1 + 1 N2, deixaria N3 em 0% e derrubaria N3 da prova inteira para 6 questões, ou 19,4%, abaixo da banda.
-- **Química, 4 questões.** A banda de N1 exige entre 1,2 e 1,6 questão. Não existe inteiro nesse intervalo: 1 dá 25% e 2 dá 50%. Adotou-se **1**, o desvio menor, e N2 e N3 ficam dentro.
+- **Química e Inglês, 4 questões cada.** A banda de N1 exige entre 1,2 e 1,6 questão. Não existe inteiro nesse intervalo: 1 dá 25% e 2 dá 50%. Adotou-se **1** nos dois blocos, o desvio menor, e N2 e N3 ficam dentro.
 - **A prova inteira fica dentro das três bandas**, e é essa a leitura que vale para a nota do aluno, já que a AT é uma folha só.
 
 **Nota sobre a distribuição de Estudos Sociais.** É a única do 9º ano que a proporção não determina sozinha: quatro capítulos, cinco questões, e empate entre Europa e Potências asiáticas na fração de sobra. A quinta questão foi para a Europa porque três dos quatro capítulos tratam da Ásia. Registrado também em 1.6 e no `_MAPA-Estudos Sociais.md`.
@@ -295,17 +324,17 @@ Capítulo e carga: **1 — Ácidos e bases** (3 aulas). É o único capítulo do
 
 | # | Verificação | Resultado |
 |---|---|---|
-| 1 | Matriz antes dos enunciados | **sim**, nas sete disciplinas. Em cada uma o `_MAPA` foi escrito primeiro, a matriz depois e os enunciados por último |
-| 2 | Bandas N1/N2/N3 | **sim na prova inteira** (35,5 / 41,9 / 22,6). **Não em dois blocos** — Matemática Financeira e Química —, por impossibilidade aritmética documentada em 3.1 |
-| 3 | Distribuição por capítulo e registro do que ficou fora | **sim.** Toda distribuição está calculada em 1.1–1.7, e cada seção lista os assuntos deixados de fora. A única não determinada pela proporção — Estudos Sociais — está registrada três vezes |
-| 4 | Respondível só com a folha | **31 de 31.** Nenhuma questão pede consulta, internet, outra pessoa ou material além de lápis, caneta e régua. **Duas admitem calculadora comum** — a 12 e a 16 —, e nas duas o roteiro do cálculo e o valor aproximado necessário (`√3 ≈ 1,73`; o fator 1,02) estão impressos no enunciado |
-| 5 | Fonte impressa | **sim.** As 7 questões de interpretação trazem o suporte em citação na própria questão. As demais não usam fonte externa |
+| 1 | Matriz antes dos enunciados | **sim**, nas oito disciplinas. Em cada uma o `_MAPA` foi escrito primeiro, a matriz depois e os enunciados por último |
+| 2 | Bandas N1/N2/N3 | **sim na prova inteira** (34,3 / 42,9 / 22,9). **Não em três blocos** — Matemática Financeira, Química e Inglês —, por impossibilidade aritmética documentada em 3.1 |
+| 3 | Distribuição por capítulo e registro do que ficou fora | **sim.** Toda distribuição está calculada em 1.1–1.8, e cada seção lista os assuntos deixados de fora. A única não determinada pela proporção — Estudos Sociais — está registrada três vezes |
+| 4 | Respondível só com a folha | **35 de 35.** Nenhuma questão pede consulta, internet, outra pessoa ou material além de lápis, caneta e régua. **Duas admitem calculadora comum** — a 12 e a 16 —, e nas duas o roteiro do cálculo e o valor aproximado necessário (`√3 ≈ 1,73`; o fator 1,02) estão impressos no enunciado |
+| 5 | Fonte impressa | **sim.** As 8 questões de interpretação trazem o suporte em citação na própria questão. As demais não usam fonte externa |
 | 6 | **Diferente da questão do caderno** — conferido questão a questão | detalhado na tabela abaixo |
 | 7 | Caso novo em N2 e N3 | **sim**, com uma ressalva registrada abaixo, na questão 02 |
-| 8 | Qualidade do distrator | **93 distratores.** Nenhum absurdo, nenhum "todas as anteriores", todos do mesmo campo conceitual da resposta certa, e motivo próprio registrado na grade da seção 2. **Comprimento conferido questão a questão:** em nenhuma das 31 a alternativa correta é a mais longa por mais de 8 caracteres, e nenhuma questão de alternativas longas tem a maior com mais de uma vez e meia a menor. Seis questões — 03, 04, 09, 17, 18 e 19 — foram reescritas só por esse motivo |
-| 9 | Soma fecha o total | **sim.** 31 questões × 1 ponto. A prova soma 31 de 35 previstos: faltam as 4 de Inglês, registradas na seção 0 |
-| 10 | **Mede sozinha todos os essenciais** | **sim.** 29 essenciais declarados, 29 medidos. Nenhuma disciplina deixou essencial de fora |
-| 11 | **Questões de interpretação da faixa** | **sim.** O 9º ano leva 1 por bloco (briefing §4). Sete blocos, sete questões — Q03, Q09, Q15, Q17, Q20, Q27, Q31. **Todas em N3**, e todas com um distrator que extrapola o suporte, identificado na grade da seção 2 |
+| 8 | Qualidade do distrator | **105 distratores.** Nenhum absurdo, nenhum "todas as anteriores", todos do mesmo campo conceitual da resposta certa, e motivo próprio registrado na grade da seção 2. **Comprimento conferido questão a questão:** em nenhuma das 31 a alternativa correta é a mais longa por mais de 8 caracteres, e nenhuma questão de alternativas longas tem a maior com mais de uma vez e meia a menor. Seis questões — 03, 04, 09, 17, 18 e 19 — foram reescritas só por esse motivo |
+| 9 | Soma fecha o total | **sim.** 35 questões × 1 ponto. **A prova soma os 35 previstos pela tabela da coordenação**, o que não acontecia até 24/08, quando faltava o bloco de Inglês |
+| 10 | **Mede sozinha todos os essenciais** | **sim.** 31 essenciais declarados, 31 medidos. Nenhuma disciplina deixou essencial de fora |
+| 11 | **Questões de interpretação da faixa** | **sim.** O 9º ano leva 1 por bloco (briefing §4). Oito blocos, oito questões — Q03, Q09, Q15, Q17, Q20, Q27, Q31, Q34. **Todas em N3**, e todas com um distrator que extrapola o suporte, identificado na grade da seção 2 |
 
 #### Checagem #6 — questão a questão, contra a folha do caderno
 
@@ -318,6 +347,7 @@ Capítulo e carga: **1 — Ácidos e bases** (3 aulas). É o único capítulo do
 | **Biologia** | 20 atividades, 2 capítulos | **Q18** pede a definição de homóloga. As ATIV 02 e 07 do Cap. 1 tratam do mesmo conceito pela **asa do morcego e a do inseto**; a questão evita as asas por inteiro · **Q19** dá dois fósseis em camadas, e a ATIV 04 dá **duas datações já feitas** e pede a escolha entre elas — o caminho inverso · **Q20** imprime a comparação de uma proteína em quatro espécies; a ATIV 08 pede um texto argumentativo sobre o código genético, e a ATIV 10 é alternativa sobre o *Tiktaalik*, ambos evitados · **Q21** pede a explicação de Lamarck para a girafa; as ATIV 01, 02 e 03 do Cap. 2 mandam **montar tabela, esquema e verbetes** sobre a mesma girafa — mesmo conteúdo, formato oposto · **Q22 — reescrita em 22/08/2026.** O caso dos caramujos era novo, mas o **conjunto de distratores era o da ATIV 09 do Cap. 2 instanciado nele**: a alternativa correta repetia *"diferenças hereditárias que já existiam"* e uma das erradas, *"elimina os mais fracos, sobrevivem os mais fortes"*. O caso ficou; as quatro alternativas saíram inteiras, e no lugar entraram três eixos que o caderno não usa — acaso sem agente seletivo, sobrevivência que não vira descendência, e inversão de causa e efeito. Conferida contra as quatro atividades de alternativas do caderno de Biologia: ATIV 09 do Cap. 2 (criação sob demanda · indivíduo que se transforma · mais fortes), ATIV 10 do Cap. 2 (herança do adquirido, em conclusão mais razão), ATIV 09 do Cap. 1 (estrutura vestigial) e ATIV 10 do Cap. 1 (*Tiktaalik*): nenhum dos três eixos novos aparece em nenhuma delas. **É o bloco em que esta checagem mais trabalho deu — cinco atividades do caderno já são questões de alternativas sobre os cinco essenciais** |
 | **Estudos Sociais** | 32 atividades, 4 capítulos | **Q23** pede a razão de Schuman; a ATIV 04 do Cap. 1 pede a leitura do **Anexo biográfico** sobre ele — outro objeto e outra tarefa · **Q24** pergunta o efeito da chegada de migrantes, e a ATIV 08 é alternativa sobre o **envelhecimento**, com o migrante apenas num distrator; o foco foi deslocado de propósito · **Q25** pede a explicação da diferença de densidade, e a ATIV 06 do Cap. 2 manda **diagnosticar por escrito** a frase "a Ásia é a mais populosa porque tem o maior território" — que aqui reaparece como distrator, não como tarefa · **Q26** descreve um país e pede o nome do arranjo. A ATIV 07 do Cap. 3 dá **quatro descrições de modelos** e pede qual é o socialismo de mercado: **o caminho foi invertido e os distratores trocados**, justamente por causa desta checagem · **Q27** imprime o relatório de um país exportador; a ATIV 08 do Cap. 4 é alternativa sobre a alta de 1973 e a OPEP como cartel, e a ATIV 06 pede a decisão sobre um contrato de dez anos — a questão evita 1973 e o contrato |
 | **Química** | 10 atividades, 1 capítulo | **Q28** pede a definição de base; a ATIV 03 manda **escrever verbetes** sobre quatro substâncias — mesmo conteúdo, formato oposto · **Q29** dá o Ca(OH)₂ e pergunta o que acontece na água. A ATIV 09 dá **quatro casos** e pergunta qual é dissociação, usando NaOH: caminho invertido e substância trocada · **Q30** testa dois indicadores numa solução de **sabão**. A ATIV 07 faz exatamente esse teste com **vinagre**: material trocado e sentido invertido, de ácido para básico, por causa desta checagem · **Q31** imprime quatro medidas de pH e pede a leitura; a ATIV 10 é alternativa sobre **afirmações a respeito da escala**, sem medidas impressas. **Três das quatro questões precisaram mudar de caminho: os três formatos mais naturais deste capítulo já estão ocupados pelo caderno** |
+| **Inglês** | 7 atividades, caderno no Drive | **Conferido em 24/08/2026, quando o bloco foi produzido.** **Q32** cobra a **escala** dos advérbios; a ATIV 07 trata só da **posição** deles na frase e a ATIV 01 liga os **modais** — não os advérbios — a faixas de porcentagem. A ordem entre *certainly*, *probably*, *possibly* e *unlikely* não é treinada · **Q33** mede a diferença entre `must` de dedução e `must` de obrigação, e **nenhuma das 7 atividades toca nessa distinção**, embora o capítulo lhe dedique um quadro próprio. Conteúdo do capítulo sem treino registrado · **Q34** ⚠️ **sobreposição de tarefa declarada:** as ATIV 02, 05 e 06 também dão evidência e pedem a dedução. O que muda é o material — cada atividade dá **uma** evidência e pede **um** modal, enquanto a prova imprime **quatro evidências físicas e uma intenção declarada no dia anterior**, e pede a leitura do conjunto. Nenhuma atividade põe evidências em conflito, que é exatamente o que a questão mede · **Q35** dá a frase montada com defeito e pede a peça que falta; as ATIV 03 e 04 **montam** a estrutura a partir de lacunas e tabela, e **nenhuma das 7 é de achar erro**. ⚠️ **Reescrita antes de fechar:** a primeira versão usava *He must working late tonight*, e *must be working late* é o item 2 da ATIV 07 — passou a usar *She must reading in her room*, com um verbo que não aparece em atividade nenhuma |
 
 #### Checagem #7 — caso novo nas questões de N2 e N3
 
@@ -342,6 +372,9 @@ Capítulo e carga: **1 — Ácidos e bases** (3 aulas). É o único capítulo do
 | 27 | relatório anual de um país do golfo Pérsico | a criação da OPEP em 1960 e a alta de preços de 1973 |
 | 29 | Ca(OH)₂ colocado em água | NaOH colocado em água |
 | 30 | solução de sabão testada com dois indicadores | tabela de indicadores em meio ácido |
+| 33 | *He must be sleeping* e *He must call his mother* | ⚠️ **reescrita antes de fechar.** A primeira versão usava *She must be tired* e *She must study*, que são **o par de exemplos do quadro do capítulo** que separa dedução de obrigação. Trocado por um par novo |
+| 34 | Lucas, o carro na frente de casa, as luzes, a televisão e a viagem anunciada | não — cena montada para a questão. O capítulo usa evidências isoladas: as luzes acesas, o carro na garagem, os casacos de inverno |
+| 35 | *She must reading in her room* | não — frase montada para a questão, com um verbo que não aparece em nenhuma das 7 atividades |
 | 31 | quatro líquidos medidos: pH 2, 7, 10 e 13 | faixas 0–6, 7 e 8–14, com limão, água pura e leite de magnésia |
 
 ⚠️ **Ressalva na questão 02.** A alternativa correta — *Deve haver critérios objetivos para essa escolha* — mantém a estrutura da locução que o capítulo exemplifica com *Deve haver soluções*. A frase é nova, o contexto é novo e as outras três alternativas são novas, mas **a estrutura da alternativa correta vem do capítulo**. Registrado como o cruzamento mais apertado do bloco de Português. Foi mantido porque qualquer frase impessoal correta se parecerá estruturalmente com um exemplo do capítulo — a regra é a mesma —, e porque o que a questão de fato mede é a discriminação contra o verbo *existir*, contraste que não existe em exemplo nenhum.
@@ -358,6 +391,7 @@ Capítulo e carga: **1 — Ácidos e bases** (3 aulas). É o único capítulo do
 
 | Data | O que mudou |
 |---|---|
+| 24/08/2026 | **O bloco de Inglês entrou, e a prova fechou as 35 questões previstas.** A premissa de 19/08 — *"Inglês não tem conteúdo neste pipeline"* — era falsa, e é a mesma classe de erro de Operações e Física, corrigida dois dias antes: a pasta `Inglês - Ok` está no Drive desde **14/08/2026**. Foram produzidas **Q32 a Q35** — a escala dos advérbios de probabilidade, `must` de dedução contra `must` de obrigação, uma cena com evidências em conflito e uma frase mal formada. A numeração das 31 questões anteriores **não mudou**: Inglês é a última linha da tabela da coordenação. A chave das quatro — **a · b · d · c** — levou as letras a 9·9·9·8. As **quatro versões adaptadas** receberam o mesmo bloco. **Duas das quatro questões foram reescritas antes de fechar**, pelas checagens #6 e #7: a Q33 usava o par de exemplos do próprio capítulo e a Q35 repetia *must be working late*, item 2 da ATIV 07 do caderno. |
 | 19/08/2026 | Versão inicial. AT do 9º ano — sete blocos, 31 questões, sob o `07-AVALIACAO.md` e o briefing `_PRODUCAO-AT-Bloco1.md`. |
 | 19/08/2026 | **Operações · Cap. 2 — troca de essencial.** A matriz declarava *soma e produto das raízes* como segundo essencial do capítulo, ao lado do discriminante, e deixava a fórmula de Bhaskara fora da prova. Foi invertido: o essencial passou a ser **a fórmula aplicada**, e soma e produto foi para complementar. A razão é que um capítulo chamado "Fórmula de Bhaskara" não pode ser medido sem que o aluno resolva uma equação por ela. A perda está registrada em 1.2. |
 | 19/08/2026 | **Geometria · Q11 — recorte abandonado.** A questão media a troca de papéis entre cateto oposto e adjacente. A ATIV 07 do caderno é uma questão de alternativas sobre exatamente isso, com a resposta certa impressa na folha do aluno. Substituída pela definição das razões trigonométricas, dentro do mesmo essencial. |

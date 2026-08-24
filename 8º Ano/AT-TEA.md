@@ -1,6 +1,6 @@
 # Avaliação Teste — 8º Ano
 
-> **3º Bimestre · Bloco 1** · 26 questões
+> **3º Bimestre · Bloco 1** · 30 questões
 > Nome: ______________________________  Turma: ______  Data: ____/____/____
 
 ---
@@ -349,3 +349,59 @@ a) o Ato Adicional de 1834, que criou assembleias provinciais sem romper a unida
 b) a Constituição de 1824, que reservou as decisões locais ao Poder Moderador  
 c) a proclamação da República Rio-Grandense, que separou a província do Império  
 d) o Golpe da Maioridade de 1840, que devolveu às províncias a escolha do regente
+
+---
+
+## Inglês
+
+### QUESTÃO 27
+
+Na tabela de pronomes relativos do capítulo, *that* aparece com um uso mais amplo que o de *who* e o de *which*.
+
+**Esse uso mais amplo é que *that*:**
+
+a) serve só para pessoas, e por isso substitui *who*, mas nunca *which*  
+b) serve para pessoas e para coisas, ocupando o lugar dos outros dois  
+c) serve só para coisas, e por isso substitui *which*, mas nunca *who*  
+d) serve para lugares e para tempo, no lugar de *where* e de *when*
+
+---
+
+### QUESTÃO 28
+
+Compare estas duas frases: *My brother who lives in London is a doctor* e *My brother, who lives in London, is a doctor*.
+
+**A diferença que as vírgulas produzem é que:**
+
+a) sem as vírgulas, entende-se que há um irmão só, e a oração acrescenta um dado  
+b) as vírgulas trocam o pronome de *who* para *which*, porque separam a oração  
+c) sem as vírgulas, entende-se que há mais de um irmão, e a oração diz de qual  
+d) as vírgulas indicam que a frase está no passado, e sem elas ela fica no presente
+
+---
+
+### QUESTÃO 29
+
+Leia o texto a seguir, sobre a biblioteca de uma escola. A situação é hipotética.
+
+> The library which opened last month is next to the gym. The students who use it every day say it is very quiet. Mr. Alves, who works there in the afternoon, helps them find the books they need.
+
+**Uma das quatro leituras abaixo está de acordo com o texto. Assinale essa leitura.**
+
+a) o senhor Alves é o único funcionário da biblioteca, e por isso ela abre só à tarde  
+b) todos os alunos da escola usam a biblioteca todo dia e a consideram silenciosa  
+c) a biblioteca fica ao lado da quadra porque foi inaugurada no mês passado  
+d) a biblioteca fica ao lado da quadra, e quem trabalha nela à tarde é o senhor Alves
+
+---
+
+### QUESTÃO 30
+
+Em inglês, o pronome relativo pode sair da frase em alguns casos e em outros não.
+
+**Ele pode ser omitido quando:**
+
+a) vem seguido diretamente de um verbo, porque nesse caso é sujeito da oração  
+b) vem seguido de um sujeito e de um verbo, porque nesse caso é objeto da oração  
+c) a frase tem vírgulas, porque elas já separam a oração do resto da frase  
+d) o pronome é *which*, porque só *who* é obrigatório dentro da frase

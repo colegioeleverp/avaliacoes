@@ -2,7 +2,7 @@
 
 > Para o professor e a coordenação. Não vai na folha do aluno.
 > As provas estão nesta mesma pasta. A visão por conteúdo, em linguagem corrida, está em `_MAPA-<Disciplina>.md`.
-> **3º Bimestre · Bloco 1.** Produzido: as quatro Avaliações de Conteúdo do ano — Português, Matemática EF1, Ciências e Estudos Sociais — **40 questões** e 4 mapas.
+> **3º Bimestre · Bloco 1.** Produzido: as cinco Avaliações de Conteúdo do ano — Português, Matemática EF1, Ciências, Estudos Sociais e **Inglês** — **50 questões** e 5 mapas.
 
 ---
 
@@ -21,6 +21,8 @@
 | **Regra ortográfica da escola** | o cabeçalho das quatro folhas declara que *"os erros ortográficos serão sinalizados e descontados na nota final"*. O desconto incide **depois**, sobre o total, e **não redistribui** os pesos dos critérios de correção. São duas contas, não uma |
 | **Notação** | tudo em texto corrido — `18 = 12 + 6`, `▢ ÷ 4 = 6`, `(8, 5)`, `7h30` —, e não em fórmula. A folha é impressa e colada no Google Docs, e o caderno do 5º ano usa o mesmo padrão. Nenhuma questão depende de renderização |
 | **Nome da disciplina** | o arquivo e o cabeçalho usam **Matemática EF1**, como o caderno de casa da mesma série. *Operações* é o nome em uso do 6º ano em diante (`07` §2.1) e não se aplica aqui |
+
+| **Inglês** | ⚠️ **produzido em 24/08/2026, sob suposição não ratificada.** O conteúdo e o caderno de Inglês do 5º ano existem no Drive, na pasta `Inglês - Ok`, desde **14/08/2026** — e a rodada correu na premissa falsa de que não existiam. Corrigida a premissa, a AC1 de Inglês foi produzida com as quatro versões adaptadas. **O que não está ratificado é se Inglês entra na AC do EF1**: é a primeira pergunta do §0 do [`_BRIEFING-TEMPLATE.md`](../_BRIEFING-TEMPLATE.md) e **só se responde na coordenação**. Produziu-se sob a suposição de que entra, e a suposição fica declarada aqui. **Se a resposta for não, as cinco folhas de Inglês saem da pasta e nada mais muda** |
 
 ### 0.1 A arquitetura comum às quatro provas
 
@@ -186,6 +188,37 @@ Distribuição por capítulo: `4/9 × 10 = 4,4 → 4` · `5/9 × 10 = 5,6 → 6`
 **Questões por capítulo:** Cap. 1 → Q1, Q2, Q3, Q5 (4) · Cap. 2 → Q4, Q6, Q7, Q8, Q9, Q10 (6). Bate com 4 · 6.
 **O que ficou de fora:** *D. Pedro II e a maioridade*, *do Vale do Paraíba ao Oeste Paulista*, *a abolição como resultado de resistência* e *o legado cultural africano*. O último continua sem treino e sem medida, e é o ponto cego declarado no `_MAPA-Estudos Sociais.md`. *O tráfico atlântico e a lei de 1850*, que estava fora, **passou a ser medido** na afirmação 4 da `VF`.
 
+### 1.5 Inglês — 10 questões
+
+Capítulo do bloco: **1 — Comparativos com *-er*: comparar duas coisas**. A carga em aulas **não vem informada na fonte do Drive**; capítulo único, e as 10 questões vão todas para ele. Nada foi estimado.
+
+**Texto-base:** *At the pet shop* — três linhas em inglês, cena declarada como imaginada na própria folha. Ancora Q01 a Q03.
+
+| | Essencial | Cap |
+|---|---|---:|
+| E1 | O comparativo com *-er* e o *than* que liga os dois lados da comparação | 1 |
+| E2 | As três alterações de escrita do adjetivo curto — *-e*, consoante dobrada e *-y* | 1 |
+
+| Q | Bloco | Cap | Essencial | Conteúdo | Nível | Formato | Rubrica | Pontos |
+|---|---|---:|:---:|---|---|---|---|---:|
+| 1 | âncora | 1 | E1 | Duas comparações lidas no texto | N1 | RC | A2 | 1,0 |
+| 2 | âncora | 1 | E1 | O que o texto permite e o que ele não permite concluir | N2 | OBJ | A1 | 0,5 |
+| 3 | âncora | 1 | E1 · E2 | Uma frase comparativa · por que *bigger* dobra o **G** · o papel de *than* | N2 | ANA | A5 | 1,5 |
+| 4 | fechado | 1 | E2 | *safe* e *pretty* — as duas alterações, e o que mudou em cada uma | **N3** | EXP | A4 | 1,0 |
+| 5 | fechado | 1 | — | *good* e *bad*, que não seguem a regra do *-er* | N1 | RC | A2 | 1,0 |
+| 6 | fechado | 1 | E2 | Quatro adjetivos e as formas comparativas deles | N1 | ASS | A8 | 0,5 |
+| 7 | fechado | 1 | E2 | A grafia certa do comparativo de *pretty* | N1 | OBJ | A1 | 0,5 |
+| 8 | aplicação | 1 | E1 | Duas frases montadas a partir de palavras soltas | N1 | ORD | A11 | 1,0 |
+| 9 | aplicação | 1 | E1 | Duas comparações próprias, sobre objetos da sala de aula | N2 | RC | A2 | 1,0 |
+| 10 | produção | 1 | E1 · E2 | Texto de quatro a seis frases comparando duas pessoas ou dois animais | **N3** | PROD | A9 | 2,0 |
+| | | | | | | | **Total** | **10,0** |
+
+**Os irregulares entraram, e o caderno não os treina.** *good* → *better* e *bad* → *worse* aparecem no capítulo num quadro à parte e **em nenhuma das oito atividades**. A questão 5 é a única medida desse conteúdo.
+
+**Esta prova fecha em 40 · 30 · 30, e não em 40 · 25 · 35 como as outras quatro.** As três faixas continuam dentro das bandas do EF1 — o degrau do meio no limite superior, o de cima no inferior. A diferença vem de o bloco ter um capítulo só: sem um segundo capítulo para puxar uma análise a mais, a questão de 0,5 que nas outras provas cai no degrau de cima aqui não tem onde cair.
+
+**Fora da prova:** o vocabulário de adjetivos além dos que as questões usam — *tall*, *short*, *small*, *fast*, *slow*, *old*, *young*, *cheap* —, todo ele treinado no caderno. **Um assunto**, registrado no `_MAPA-Inglês.md`.
+
 ---
 
 ## 2. Gabarito e grade
@@ -255,20 +288,35 @@ Nas questões de `VF` e `ASS`, os 10 pontos da rubrica se repartem igualmente en
 
 ---
 
+### 2.5 Inglês
+
+| Q | Formato | Rubrica | Resposta esperada | O que decide a nota |
+|---|---|---|---|---|
+| 1 | RC | A2 | (a) **Rex** — ele é maior que Nick, e Nick é maior que Pim. (b) **Nick** | 0,5 por item. O item (a) exige encadear as duas comparações do texto: quem responde *Nick* parou na primeira frase |
+| 2 | OBJ | A1 | **c) Rex é mais velho do que Nick.** | **a** inverte a comparação de tamanho, que o texto dá ao contrário · **b** troca o dono da velocidade: o texto diz que Nick é mais rápido que Rex · **d** achata as diferenças que o texto afirma |
+| 3 | ANA | A5 | (a) *Rex is bigger than Pim* — aceita-se também a comparação invertida, com *smaller*, se a frase estiver correta. (b) porque *big* tem uma sílaba e termina em consoante–vogal–consoante, e nesse caso a última consoante **dobra** antes do *-er*. (c) *than* liga os dois lados da comparação: é o **do que** da frase em português | 0,5 por item. O item (b) só conta com a razão, não com a constatação: *"porque é assim que se escreve"* não vale. O item (c) aceita a resposta em português, desde que nomeie a função de ligação |
+| 4 | EXP | A4 | *safe* → **safer**: o adjetivo já termina em **-e**, então recebe só o **-r**. *pretty* → **prettier**: termina em **-y** depois de consoante, então o **y** vira **i** antes do *-er* | 0,5 por adjetivo, e cada um só conta com a forma **e** a explicação. Escrever a forma certa sem dizer o que mudou vale metade do item |
+| 5 | RC | A2 | *good* → **better** · *bad* → **worse**. A frase pode ser qualquer uma que use uma das duas formas com sentido de comparação, como *This book is better than that one* | 0,25 por forma e 0,5 pela frase. A frase só conta se comparar duas coisas — *This is better* sem o segundo termo não conta |
+| 6 | ASS | A8 | safe → **safer** · pretty → **prettier** · good → **better** · bad → **worse** | 0,125 por par |
+| 7 | OBJ | A1 | **c) She is prettier than her cousin.** | **a** trata um adjetivo curto como longo, usando *more* · **b** acrescenta o *-er* sem trocar o **y** por **i** — é o distrator que discrimina, porque a forma parece certa a quem só decorou "acrescente -er" · **d** junta os dois recursos, *more* e *-er*, na mesma palavra |
+| 8 | ORD | A11 | (a) **Rex is bigger than Pim.** (b) **Nick is faster than Rex.** | 0,5 por frase. A frase precisa sair completa e com o ponto final. Ordem interna errada não recebe crédito parcial |
+| 9 | RC | A2 | Duas frases comparativas corretas sobre objetos da sala, como *The board is bigger than the door* | 0,5 por frase. Cada uma precisa ter o comparativo **e** o *than*. Duas frases sobre o mesmo par de objetos contam como uma |
+| 10 | PROD | A9 | Texto de 4 a 6 frases comparando duas pessoas ou dois animais, com pelo menos **três comparativos diferentes** e *than* em todas as frases | 1,2 pelos requisitos — 0,4 pelo número de frases, 0,4 pelos três comparativos diferentes, 0,4 pelo *than* — e 0,8 pela coerência: as comparações não podem se contradizer entre si |
+
 ## 3. Conferência da matriz
 
 ### 3.1 Bandas, distribuição e essenciais
 
 Bandas do EF1 no formato de 10 (`07` §3.3.1): **N1 35–45% · N2 20–30% · N3 30–40%**, em pontos.
 
-| Verificação | Português | Matemática EF1 | Ciências | Estudos Sociais |
+| Verificação | Português | Matemática EF1 | Ciências | Estudos Sociais | Inglês |
 |---|---|---|---|---|
-| N1 | 4,0 = **40%** ok | 4,0 = **40%** ok | 4,0 = **40%** ok | 4,0 = **40%** ok |
-| N2 | 2,5 = **25%** ok | 2,5 = **25%** ok | 2,5 = **25%** ok | 2,5 = **25%** ok |
-| N3 | 3,5 = **35%** ok | 3,5 = **35%** ok | 3,5 = **35%** ok | 3,5 = **35%** ok |
-| Distribuição por capítulo | 3 · 3 · 3 + 1 ok | 2 · 3 · 3 · 2 ok | 6 · 4 ok | 4 · 6 ok |
-| Essenciais medidos | **5 de 5** | **5 de 5** | **4 de 4** | **4 de 4** |
-| Soma dos valores | 10,0 ok | 10,0 ok | 10,0 ok | 10,0 ok |
+| N1 | 4,0 = **40%** ok | 4,0 = **40%** ok | 4,0 = **40%** ok | 4,0 = **40%** ok | 4,0 = **40%** ok |
+| N2 | 2,5 = **25%** ok | 2,5 = **25%** ok | 2,5 = **25%** ok | 2,5 = **25%** ok | 3,0 = **30%** ok |
+| N3 | 3,5 = **35%** ok | 3,5 = **35%** ok | 3,5 = **35%** ok | 3,5 = **35%** ok | 3,0 = **30%** ok |
+| Distribuição por capítulo | 3 · 3 · 3 + 1 ok | 2 · 3 · 3 · 2 ok | 6 · 4 ok | 4 · 6 ok | 10, capítulo único ok |
+| Essenciais medidos | **5 de 5** | **5 de 5** | **4 de 4** | **4 de 4** | **2 de 2** |
+| Soma dos valores | 10,0 ok | 10,0 ok | 10,0 ok | 10,0 ok | 10,0 ok |
 
 **Por que as quatro fecharam em 40 · 25 · 35.** Não é padronização: é a única repartição confortável que a escada de pesos produz. O `07` §3.3.1 diz que *"o degrau de cima se preserva concentrando-o na interpretação e na produção final, que juntas valem 3,5 dos 10 pontos"* — 1,5 mais 2,0. Fixado o N3 em 3,5, e fixadas as sete questões fechadas ou curtas do formato, N1 chega a 4,0 e N2 ao que resta. As três caem no meio das bandas, a pelo menos 5 pontos percentuais de qualquer borda.
 
@@ -283,20 +331,20 @@ Bandas do EF1 no formato de 10 (`07` §3.3.1): **N1 35–45% · N2 20–30% · N
 
 ### 3.2 As 12 checagens do [`07`](../../METODOLOGIA/07-AVALIACAO.md) §7
 
-| # | Verificação | Português | Matemática EF1 | Ciências | Estudos Sociais |
+| # | Verificação | Português | Matemática EF1 | Ciências | Estudos Sociais | Inglês |
 |---|---|---|---|---|---|
-| 1 | Matriz antes dos enunciados | sim | sim | sim | sim |
-| 2 | Bandas de nível | 40/25/35 dentro | 40/25/35 dentro | 40/25/35 dentro | 40/25/35 dentro |
-| 3 | Distribuição por capítulo e registro do que ficou fora | sim, em 1.1 e no `_MAPA` | sim, em 1.2 e no `_MAPA` | sim, em 1.3 e no `_MAPA` | sim, em 1.4 e no `_MAPA` |
-| 4 | Respondível só com a folha | 10 de 10 | 10 de 10 | 10 de 10 | 10 de 10 |
-| 5 | Fonte impressa na questão | sim — texto-base antes da Q1 | não se aplica — sem texto-base (`07` §3.3.1) | sim — texto-base antes da Q1 | sim — texto-base antes da Q1 |
-| 6 | **Diferente da questão do caderno** | conferido em 3.3 | conferido em 3.3 | conferido em 3.3 | conferido em 3.3 |
-| 7 | Caso novo em N2 e N3 | conferido em 3.4 | conferido em 3.4 | conferido em 3.4 | conferido em 3.4 |
-| 8 | Qualidade do distrator | conferido em 3.5 | conferido em 3.5 | conferido em 3.5 | conferido em 3.5 |
-| 9 | Soma fecha o total | 10,0 | 10,0 | 10,0 | 10,0 |
-| 10 | **Mede sozinha todos os essenciais** | sim — E1 a E5 | sim — E1 a E5 | sim — E1 a E4 | sim — E1 a E4 |
-| 11 | Questões de interpretação da faixa | não se aplica — é regra da prova de alternativas | não se aplica | não se aplica | não se aplica |
-| 12 | Distribuição da chave e comprimento da correta | conferido em 3.5 | conferido em 3.5 | conferido em 3.5 | conferido em 3.5 |
+| 1 | Matriz antes dos enunciados | sim | sim | sim | sim | sim |
+| 2 | Bandas de nível | 40/25/35 dentro | 40/25/35 dentro | 40/25/35 dentro | 40/25/35 dentro | 40/30/30 dentro |
+| 3 | Distribuição por capítulo e registro do que ficou fora | sim, em 1.1 e no `_MAPA` | sim, em 1.2 e no `_MAPA` | sim, em 1.3 e no `_MAPA` | sim, em 1.4 e no `_MAPA` | sim, em 1.5 e no `_MAPA` |
+| 4 | Respondível só com a folha | 10 de 10 | 10 de 10 | 10 de 10 | 10 de 10 | 10 de 10 |
+| 5 | Fonte impressa na questão | sim — texto-base antes da Q1 | não se aplica — sem texto-base (`07` §3.3.1) | sim — texto-base antes da Q1 | sim — texto-base antes da Q1 | sim — texto-base antes da Q1 |
+| 6 | **Diferente da questão do caderno** | conferido em 3.3 | conferido em 3.3 | conferido em 3.3 | conferido em 3.3 | conferido em 3.3 |
+| 7 | Caso novo em N2 e N3 | conferido em 3.4 | conferido em 3.4 | conferido em 3.4 | conferido em 3.4 | conferido em 3.4 |
+| 8 | Qualidade do distrator | conferido em 3.5 | conferido em 3.5 | conferido em 3.5 | conferido em 3.5 | conferido em 3.5 |
+| 9 | Soma fecha o total | 10,0 | 10,0 | 10,0 | 10,0 | 10,0 |
+| 10 | **Mede sozinha todos os essenciais** | sim — E1 a E5 | sim — E1 a E5 | sim — E1 a E4 | sim — E1 a E4 | sim — E1 e E2 |
+| 11 | Questões de interpretação da faixa | não se aplica — é regra da prova de alternativas | não se aplica | não se aplica | não se aplica | não se aplica |
+| 12 | Distribuição da chave e comprimento da correta | conferido em 3.5 | conferido em 3.5 | conferido em 3.5 | conferido em 3.5 | conferido em 3.5 |
 
 **As checagens 8 e 12 passaram a ter objeto.** Na rodada de 5 questões elas ficavam vazias, porque não havia questão de alternativas na AC do EF1. Com o degrau de 0,5 da escada de pesos, cada prova tem **três objetivas** — 12 no total — e as duas medições de `07` §4.2 se aplicam a elas. A checagem 11 continua sem objeto: a questão de interpretação da faixa é regra da Avaliação Teste.
 
@@ -457,6 +505,15 @@ Regidas por [`METODOLOGIA/08-ADAPTACAO.md`](../../METODOLOGIA/08-ADAPTACAO.md). 
 
 **Texto-base nas três disciplinas que o têm** — cada um usado por duas ou mais questões, como manda o `08` §4.4. Em Matemática não há, igual à prova regular.
 
+| **Inglês** | | | | | |
+| 1 | ASS | N1 | E1 · E2 | Quatro adjetivos e as formas comparativas deles | 2,0 |
+| 2 | COMP | N1 | E1 | Quatro lacunas com o comparativo, tiradas do texto | 2,0 |
+| 3 | ORD | N2 | E1 | Duas frases montadas a partir de palavras soltas | 2,0 |
+| 4 | ERR | **N3** | E2 | *more heavy* e *happyer* — duas alterações erradas | 2,0 |
+| 5 | PROD | **N3** | E1 | Duas comparações próprias, sobre pessoas da família | 2,0 |
+
+**Inglês fecha em `N1 · N1 · N2 · N3 · N3`**, que é a composição das outras quatro. O formato é o que a coordenação pediu para a prova adaptada — **duas questões abertas e três de ligar, completar e ordenar**.
+
 ### 4.2 Gabaritos e grade de correção
 
 | Q | Rubrica | Resposta esperada | O que decide a nota |
@@ -487,6 +544,13 @@ Regidas por [`METODOLOGIA/08-ADAPTACAO.md`](../../METODOLOGIA/08-ADAPTACAO.md). 
 | 5 | A11 | Nas quatro linhas: **4 · 1 · 3 · 2** — a ordem é plantam e colhem · as sacas chegam ao porto · o café é vendido · o dinheiro paga ferrovias e melhorias | sequência inteira 2,0 · uma troca entre vizinhos 1,2 · duas ou mais 0 |
 
 **Matemática `DISCALC` tem gabarito próprio**, porque os números mudaram: a porta fica em **(5, 5)**, com as contas `2 + 3 = 5` e `1 + 4 = 5`; e a Q04 responde a) **2** · b) **3** · c) **5**. As questões 1, 3 e 5 seguem o gabarito acima. Nas outras três disciplinas o perfil `DISCALC` não muda nenhuma resposta.
+
+| **Inglês** | | | |
+| 1 | A8 | big → **bigger** · old → **older** · fast → **faster** · good → **better** | 0,5 por par. O par de *good* é o único irregular, e o que separa quem decorou a regra de quem sabe a exceção |
+| 2 | A10 | a) **bigger** · b) **bigger** · c) **older** · d) **faster** | 0,5 por lacuna. As quatro saem do texto impresso |
+| 3 | A11 | a) **Rex is bigger than Pim.** b) **Nick is faster than Rex.** | 1,0 por frase. Precisa sair completa e com o ponto final |
+| 4 | A6 | a) **My bag is heavier than yours** — *heavy* é adjetivo curto e troca o **y** por **i**. b) **She is happier than her sister** — mesma troca, que a forma errada não fez | 1,0 por frase, e só com a frase reescrita inteira |
+| 5 | A9 | Duas comparações próprias e corretas, com o comparativo e com *than* | 1,0 por frase. Cada uma precisa dos dois elementos. Duas frases sobre o mesmo par contam como uma |
 
 ### 4.3 O que cada perfil mudou
 
@@ -533,6 +597,7 @@ Regidas por [`METODOLOGIA/08-ADAPTACAO.md`](../../METODOLOGIA/08-ADAPTACAO.md). 
 
 | Data | O que mudou |
 |---|---|
+| 24/08/2026 | **A AC1 de Inglês entrou, com as quatro versões adaptadas.** A rodada correu na premissa de que não havia conteúdo de Inglês; a premissa era falsa — a pasta `Inglês - Ok` está no Drive desde **14/08/2026**, com capítulo-fonte e caderno de atividades do 5º ano. Produzidas a prova regular de 10 questões e as quatro adaptadas de 5, matriz em 1.5, gabarito em 2.5 e mapa próprio. As bandas fecham em **40 · 30 · 30** — as outras quatro provas do ano fecham em 40 · 25 · 35, e a diferença está explicada em 1.5: um capítulo só não dá onde pôr a meia questão do degrau de cima. ⚠️ **A produção assumiu que Inglês faz AC no EF1, e isso não está ratificado** — é a primeira pergunta do §0 do briefing, que só a coordenação responde. A suposição está declarada na seção 0. Fica registrado também que **o título do caderno de Inglês do 5º ano no Drive está trocado com o do 4º** — o arquivo do 5º se chama *MODAL CAN: ABILITIES* e traz comparativos; o conteúdo está certo, o nome não. |
 | 20/08/2026 | Versão inicial — as quatro Avaliações de Conteúdo do 5º ano, 20 questões, sob as bandas e os formatos do EF1. Quatro mapas escritos antes das matrizes e validados por `_validar-mapas.py` sem falha. |
 | 20/08/2026 | **Recorte novo: de 5 para 10 questões por prova**, no formato aprovado pela coordenação — escada de pesos de quatro degraus, quatro blocos, texto-base em Português, Ciências e Estudos Sociais, e os três formatos novos `VF`, `ASS` e `PROD`. As bandas de nível do EF1 mudaram junto (N1 35–45% · N2 20–30% · N3 30–40%) e as quatro provas fecharam em 40 · 25 · 35. **O conteúdo aprovado foi mantido:** **18 das 20 questões** da rodada anterior sobrevivem, com o valor ajustado à escada — algumas no mesmo formato, outras convertidas em objetiva ou absorvidas por uma afirmação de `VF` ou por um par da associação. As duas que saíram estão registradas em 3.9. As 20 novas cobrem conteúdos que estavam declarados como treinados e nunca medidos: *o sujeito ao longo de um texto*, *padrões numéricos*, *igualdade verdadeira e falsa* e *o tráfico atlântico e a lei de 1850*. As checagens 8 e 12 do `07` §7, que na rodada anterior ficavam sem objeto, passaram a valer para as 12 objetivas e estão conferidas em 3.5. **Fica pendente de confirmação da coordenação** a incompatibilidade aritmética registrada em 0.1: os limites de pontos por bloco do `07` §3.3.1 somam no máximo 9,5, e a prova vale 10,0. |
 | 22/08/2026 | **As 16 AC1 adaptadas do 5º ano** — 4 disciplinas × 4 perfis, sob a [`METODOLOGIA/08-ADAPTACAO.md`](../../METODOLOGIA/08-ADAPTACAO.md). Matriz, gabaritos e as 12 checagens na seção 4. Duas ordenações do caderno obrigaram a desviar, e o desvio está registrado em 4.5: as leis da abolição e os modos de operar nos dois lados da igualdade já são ordenados no caderno de casa, então a `ORD` da prova foi para o caminho do café e o diagnóstico de erro de Matemática, para o plano cartesiano. O `Material` encolheu para lápis e caneta — a régua e o lápis de cor serviam à produção final, que a adaptada não tem. |

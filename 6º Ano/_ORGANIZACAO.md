@@ -2,7 +2,7 @@
 
 > Para o professor e a coordenação. Não vai na folha do aluno.
 > A prova está nesta mesma pasta, em `AT.md`. A visão por conteúdo, em linguagem corrida, está em `_MAPA-<Disciplina>.md`.
-> **3º Bimestre · Bloco 1.** Produzido: a **Avaliação Teste inteira**, 26 questões em 6 blocos de disciplina. A Avaliação de Conteúdo não entra nesta rodada.
+> **3º Bimestre · Bloco 1.** Produzido: a **Avaliação Teste inteira**, 30 questões em 7 blocos de disciplina. A Avaliação de Conteúdo não entra nesta rodada.
 
 
 > **O bloco de Operações.** A prova chamou esta linha de *Matemática 1* durante a produção; a coordenação fixou **Operações** como o nome em uso, e a renomeação foi aplicada em 19/08/2026. Segue em aberto o que não é de nome: **o caderno de casa não cobre Operações**, que está fora do escopo dele — essas questões medem conteúdo sem treino registrado.
@@ -11,7 +11,8 @@
 
 | Item | Decisão | Origem |
 |---|---|---|
-| **Inglês** | ❌ **fora.** Não existe conteúdo de Inglês em `~/conteudos-segundo-semestre/`. As 4 questões previstas pela tabela da coordenação **não foram produzidas e não foram compensadas em outra disciplina**. É por isso que a prova tem 26 e não 30 questões | briefing `_PRODUCAO-AT-Bloco1.md` §2 e §3 |
+| **Inglês** | ✅ **dentro, a partir de 24/08/2026 — premissa falsa corrigida.** Até esta data o registro dizia que não existia conteúdo de Inglês no pipeline, e a prova saiu com 26 das 30 questões previstas. O conteúdo existe e sempre existiu: a pasta `Inglês - Ok` do Drive foi criada em **14/08/2026**, cinco dias antes da decisão de 19/08 que declarou a ausência como definitiva. O bloco foi produzido: Q27–Q30, e a prova passou a ter as **30 questões** da tabela da coordenação | auditoria de 24/08/2026 · mesma classe de erro da premissa de Operações e Física, corrigida em 22/08 |
+| **Carga horária do bloco de Inglês** | ⚠️ **não informada na fonte.** O documento do Drive não traz o número de aulas do capítulo, que é o dado com que a §1.1 distribui as questões. Como o bloco tem **um capítulo só**, a distribuição não depende dele — as 4 questões vão todas para o mesmo capítulo, e nada foi estimado. **Se o bloco de Inglês passar a ter mais de um capítulo, esse dado precisa vir da coordenação antes** | auditoria de 24/08/2026 |
 | **Bloco de Operações** | ✅ **confirmado pela coordenação em 19/08/2026.** Adotou-se `Operações/6º Ano/bl1_Operacoes_6ano.md`, que cobre a faixa e é o que o Drive imprime sob "Matemática". **Se a correspondência estiver errada, o bloco inteiro (Q06–Q10) precisa ser refeito** | briefing §2 |
 | **Geometria e Física ← duas pastas** | Um bloco, 4 questões, divididas pela carga de aulas: **Geometria 3 aulas → 1 questão** · **Física 6 aulas → 3 questões** | briefing §2 |
 | **Química** | não existe na faixa 6º–8º, como a própria tabela da coordenação indica. Nada a registrar além disso | tabela da AT |
@@ -31,6 +32,7 @@ Escrita **antes** dos enunciados, disciplina por disciplina. Na AT todas as ques
 | **Matemática Financeira** (2) | 1 Frequência e representação de dados (3) — 3 aulas | capítulo único | **2** |
 | **Ciências** (5) | 1 A célula, unidade da vida (6) · 2 Níveis de organização (3) — 9 aulas | 6/9×5=3,3→3 · 3/9×5=1,7→2 | **3 · 2** |
 | **Estudos Sociais** (5) | 1 Civilizações do Oriente Antigo (5) · 2 Sistemas terrestres (7) · 3 Império Persa (3) — 15 aulas | 5/15×5=1,7→2 · 7/15×5=2,3→2 · 3/15×5=1 | **2 · 2 · 1** |
+| **Inglês** (4) | 1 Comparative — adjetivos curtos e longos (carga não informada na fonte) | capítulo único | **4** |
 
 **Nenhum capítulo ficou fora da prova.** O que ficou de fora foram **assuntos** dentro dos capítulos, e cada um está nomeado no `_MAPA` da disciplina, na seção *Cobertura do bloco* e em *O que este mapa mostra*.
 
@@ -63,10 +65,12 @@ Declarados nos `_MAPA`, **antes** desta matriz. Como nesta rodada só existe a A
 | **S3** | Tempo atmosférico e clima | Est. Sociais · 2 | Q24 |
 | **S4** | Ação individual e ação coletiva diante das mudanças climáticas | Est. Sociais · 2 | Q25 |
 | **S5** | Administração do império persa — satrapias e Estrada Real | Est. Sociais · 3 | Q26 |
+| **I1** | A escolha entre *-er* e *more*, decidida pelo tamanho do adjetivo | Inglês · 1 | Q30 |
+| **I2** | As três alterações de escrita do adjetivo curto — *-e*, consoante dobrada e *-y* | Inglês · 1 | Q28 |
 
-**23 essenciais, 23 medidos.** As três questões restantes — Q06, Q14 e Q18 — foram para conteúdos **complementares**, com a escolha registrada no `_MAPA` de cada disciplina.
+**25 essenciais, 25 medidos.** As cinco questões restantes — Q06, Q14, Q18, Q27 e Q29 — foram para conteúdos **complementares**, com a escolha registrada no `_MAPA` de cada disciplina.
 
-> **Por que os essenciais não são cinco por bloco.** A regra permite **um ou dois por capítulo**. Blocos com poucos capítulos têm teto baixo: Operações tem 2 capítulos e portanto no máximo 4 essenciais, com 5 questões; Geometria e Física tem 2 capítulos, mas um deles com uma questão só, o que reduz o teto a 3. Nesses casos a questão que sobra vai para um complementar — e a escolha fica escrita.
+> **Por que os essenciais não são cinco por bloco.** A regra permite **um ou dois por capítulo**. Blocos com poucos capítulos têm teto baixo: Operações tem 2 capítulos e portanto no máximo 4 essenciais, com 5 questões; Geometria e Física tem 2 capítulos, mas um deles com uma questão só, o que reduz o teto a 3; **Inglês tem um capítulo só, e portanto teto de 2 essenciais para 4 questões.** Nesses casos a questão que sobra vai para um complementar — e a escolha fica escrita.
 
 ### 1.3 A matriz, questão a questão
 
@@ -98,6 +102,10 @@ Declarados nos `_MAPA`, **antes** desta matriz. Como nesta rodada só existe a A
 | 24 | Est. Sociais | 2 | S3 | Por que uma semana atípica não muda o clima | N1 | OBJ | A1 |
 | 25 | Est. Sociais | 2 | S4 | Caso impresso de lâmpadas, usina e floresta | **N3** | **INT** | A1 |
 | 26 | Est. Sociais | 3 | S5 | O que a Estrada Real significava para o governo | N2 | OBJ | A1 |
+| 27 | Inglês | 1 | — | Comparativo de *good* e *bad*, que fogem às duas regras | N1 | OBJ | A1 |
+| 28 | Inglês | 1 | I2 | *safe* e *busy* — as duas alterações de escrita num par só | N2 | OBJ | A1 |
+| 29 | Inglês | 1 | — | Cadeia de três comparações num texto impresso em inglês | **N3** | **INT** | A1 |
+| 30 | Inglês | 1 | I1 | Por que *pretty* usa *-er* e *careful* usa *more* | N2 | OBJ | A1 |
 
 ## 2. Gabarito e grade
 
@@ -107,10 +115,10 @@ Declarados nos `_MAPA`, **antes** desta matriz. Como nesta rodada só existe a A
 
 | Letra | Questões | Total |
 |:---:|---|---:|
-| a | 03 · 06 · 09 · 12 · 16 · 20 | 6 |
-| b | 01 · 04 · 10 · 14 · 18 · 22 · 26 | 7 |
-| c | 02 · 08 · 13 · 15 · 17 · 21 · 25 | 7 |
-| d | 05 · 07 · 11 · 19 · 23 · 24 | 6 |
+| a | 03 · 06 · 09 · 12 · 16 · 20 · 28 | 7 |
+| b | 01 · 04 · 10 · 14 · 18 · 22 · 26 · 30 | 8 |
+| c | 02 · 08 · 13 · 15 · 17 · 21 · 25 · 27 | 8 |
+| d | 05 · 07 · 11 · 19 · 23 · 24 · 29 | 7 |
 
 ### 2.2 Português
 
@@ -168,6 +176,15 @@ Declarados nos `_MAPA`, **antes** desta matriz. Como nesta rodada só existe a A
 | 25 | **c** | **a** **extrapola o caso** — ele mostra que a medida individual não basta, não que ela não sirva; é o distrator obrigatório da questão de interpretação · **b** **acrescenta** um número que o caso não traz, a emissão triplicada · **d** **achata as diferenças** entre morador, empresa e prefeitura, que o capítulo separa explicitamente |
 | 26 | **b** | **a** dispensa os sátrapas, como se a estrada substituísse a administração local — o capítulo mostra os dois funcionando juntos · **c** fecha a estrada ao comércio, quando o capítulo diz que ela o favorecia · **d** troca administração por imposição cultural, que é o oposto da política descrita |
 
+### 2.8 Inglês
+
+| Q | Letra | Por que cada distrator cai |
+|---|:---:|---|
+| 27 | **c** | **a** aplica a regra dos adjetivos curtos, *-er*, a um par que não a segue · **b** aplica a dos longos, *more*, ao mesmo par · **d** traz as duas formas certas **trocadas de lugar** — é o distrator que discrimina, porque separa quem sabe que *good* e *bad* são irregulares de quem sabe **qual forma é de qual**. Nenhum dos três é forma inventada sem razão: dois são as duas regras regulares do capítulo aplicadas onde não valem, e o terceiro é o par certo fora de ordem |
+| 28 | **a** | **b** trata *safe* como adjetivo longo e acerta *busy* · **c** trata os dois como longos, que é o erro de quem não reconhece nenhum dos dois como curto · **d** acerta a regra do *-e* e para antes da do *-y*, escrevendo *busyer* — é o distrator que discrimina, porque a troca de *y* por *i* é a alteração que mais se perde. Cada distrator falha num ponto diferente do par, e a marcação diz **qual das duas alterações** o aluno não tem |
+| 29 | **d** | **a** **extrapola o texto** — ele informa há quanto tempo cada um treina e em nenhum momento liga tempo de treino a velocidade; é o distrator obrigatório da questão de interpretação, e é o mais tentador porque a conclusão é razoável fora do texto · **b** **inverte a cadeia** das duas comparações, lendo *faster than* ao contrário · **c** **achata a diferença** entre os três, apagando as duas comparações que o texto afirma |
+| 30 | **b** | **a** troca o critério do capítulo, a sílaba, pelo número de letras — é o distrator que discrimina, porque *pretty* de fato tem menos letras que *careful* e a regra parece funcionar · **c** inventa um critério de sentido, o de que adjetivo de pessoa usaria *more* · **d** nega que exista regra e trata as duas formas como livres. Os três correspondem a três leituras erradas do mesmo quadro do capítulo, o que conta sílabas |
+
 ## 3. Conferência da matriz
 
 ### 3.1 Faixas de nível
@@ -180,15 +197,16 @@ Declarados nos `_MAPA`, **antes** desta matriz. Como nesta rodada só existe a A
 | Matemática Financeira | 2 | 0 = **0%** | 1 = **50%** | 1 = **50%** | ⚠️ N1 abaixo, N3 acima |
 | Ciências | 5 | 2 = **40%** | 2 = **40%** | 1 = **20%** | ✅ dentro |
 | Estudos Sociais | 5 | 2 = **40%** | 2 = **40%** | 1 = **20%** | ✅ dentro |
-| **PROVA INTEIRA** | **26** | **9 = 34,6%** | **11 = 42,3%** | **6 = 23,1%** | ✅ **dentro das três faixas** |
+| Inglês | 4 | 1 = **25%** | 2 = **50%** | 1 = **25%** | ⚠️ N1 abaixo |
+| **PROVA INTEIRA** | **30** | **10 = 33,3%** | **13 = 43,3%** | **7 = 23,3%** | ✅ **dentro das três faixas** |
 
 > **Os dois desvios são aritméticos, não de desenho, e não têm solução dentro do bloco.**
 >
-> **Bloco de 4 questões** (Geometria e Física): a faixa do degrau de baixo é 30–40%, o que exige entre 1,2 e 1,6 questão. Não existe inteiro nesse intervalo — 1 dá 25% e 2 dão 50%. Escolheu-se 1, que é o desvio menor, e o degrau do meio ficou em 50%, no limite superior da faixa, e não acima dela.
+> **Blocos de 4 questões** (Geometria e Física, e Inglês desde 24/08): a faixa do degrau de baixo é 30–40%, o que exige entre 1,2 e 1,6 questão. Não existe inteiro nesse intervalo — 1 dá 25% e 2 dão 50%. Escolheu-se 1 nos dois blocos, que é o desvio menor, e o degrau do meio ficou em 50%, no limite superior da faixa, e não acima dela.
 >
 > **Bloco de 2 questões** (Matemática Financeira): das duas, uma é obrigatoriamente a questão de interpretação, que só pode estar no degrau do meio ou no de cima. Ela ficou no de cima; a outra ficou no do meio. O degrau de baixo fica em zero, e não há arranjo de duas questões que evite isso sem violar a regra da interpretação.
 >
-> **A leitura que vale para a nota é a da prova inteira**, porque a AT é uma folha só: 34,6 / 42,3 / 23,1, dentro das três faixas.
+> **A leitura que vale para a nota é a da prova inteira**, porque a AT é uma folha só: 33,3 / 43,3 / 23,3, dentro das três faixas. A entrada do bloco de Inglês mexeu nos três números em menos de um ponto e meio, e não tirou nenhum da faixa.
 
 ### 3.2 Distribuição por capítulo e essenciais
 
@@ -200,23 +218,24 @@ Declarados nos `_MAPA`, **antes** desta matriz. Como nesta rodada só existe a A
 | Matemática Financeira | 2 | 2 ✅ | **2 de 2** ✅ |
 | Ciências | 3 · 2 | 3 · 2 ✅ | **4 de 4** ✅ |
 | Estudos Sociais | 2 · 2 · 1 | 2 · 2 · 1 ✅ | **5 de 5** ✅ |
-| **Total** | **26** | **26** ✅ | **23 de 23** ✅ |
+| Inglês | 4 | 4 ✅ | **2 de 2** ✅ |
+| **Total** | **30** | **30** ✅ | **25 de 25** ✅ |
 
 ## 4. As 11 checagens do `07-AVALIACAO.md` §7
 
 | # | Verificação | Resultado |
 |---|---|---|
 | 1 | Matriz antes dos enunciados | **sim.** Ordem seguida em cada disciplina: leitura do capítulo → leitura do caderno → `_MAPA` com os essenciais → matriz da §1.3 → enunciados |
-| 2 | Bandas N1/N2/N3 | **prova inteira: sim** — 34,6 / 42,3 / 23,1. **Dois blocos, não** — Geometria e Física (25/50/25) e Matemática Financeira (0/50/50). Os dois desvios são impossibilidades aritméticas de blocos de 4 e de 2 questões, explicadas na §3.1. **Declarado, não corrigido** |
-| 3 | Distribuição por capítulo e registro do que ficou fora | **sim.** Todos os 14 capítulos do bloco receberam pelo menos uma questão. Os assuntos que ficaram de fora estão nomeados um a um nos seis `_MAPA` |
-| 4 | Respondível só com a folha | **sim, nas 26.** Toda fonte, caso, gráfico e dado está impresso na própria questão. Nenhuma pede consulta, internet, outra pessoa ou material além de lápis, caneta e régua. As contas de Operações e 3 são de uma ou duas operações e cabem à mão |
-| 5 | Fonte impressa | **sim, nas 6 questões de interpretação** — Q03 bilhete, Q10 registro da feira, Q14 caso da oficina, Q16 gráfico de barras, Q19 descrições de observação, Q25 caso da prefeitura. Todas em citação, dentro do limite de 6 linhas |
-| 6 | **Diferente da questão do caderno**, conferido questão a questão | **sim onde há caderno; não se aplica em 8 questões.** Detalhamento na §5 |
-| 7 | Caso novo em N2 e N3 | **sim.** Nenhum dos 17 casos de N2 e N3 é exemplo do capítulo. Detalhamento na §6 |
-| 8 | Qualidade do distrator | **sim.** 78 distratores. Nenhum absurdo, nenhum "todas as anteriores", nenhum par que caia pelo mesmo motivo dentro da mesma questão, comprimentos equivalentes entre as quatro alternativas, e o motivo de queda de cada um registrado na §2. A chave está distribuída em 6 a 7 questões por letra (§2.1) |
-| 9 | Soma fecha o total | **sim.** 26 questões de 1 ponto cada, e a folha traz exatamente 26 enunciados numerados de 01 a 26, em numeração contínua atravessando as seis disciplinas |
-| 10 | **Este instrumento, sozinho, mede todos os essenciais** | **sim — 23 de 23.** É a condição mais importante desta rodada, porque a AC não foi produzida: o que a AT não medir não é medido em lugar nenhum |
-| 11 | **Questões de interpretação da faixa** | **sim — 1 por bloco de disciplina, 6 no total.** O 6º ano está na faixa 6º–8º, que pede 1 por bloco; o bloco de 2 questões de Matemática Financeira também leva 1, como manda a exceção do briefing. Todas em N3, todas com um distrator que vai além do que o suporte permite concluir, marcado em negrito na §2 |
+| 2 | Bandas N1/N2/N3 | **prova inteira: sim** — 33,3 / 43,3 / 23,3. **Três blocos, não** — Geometria e Física (25/50/25), Inglês (25/50/25) e Matemática Financeira (0/50/50). Os três desvios são impossibilidades aritméticas de blocos de 4 e de 2 questões, explicadas na §3.1. **Declarado, não corrigido** |
+| 3 | Distribuição por capítulo e registro do que ficou fora | **sim.** Todos os 15 capítulos do bloco receberam pelo menos uma questão. Os assuntos que ficaram de fora estão nomeados um a um nos sete `_MAPA` |
+| 4 | Respondível só com a folha | **sim, nas 30.** Toda fonte, caso, gráfico e dado está impresso na própria questão. Nenhuma pede consulta, internet, outra pessoa ou material além de lápis, caneta e régua. As contas de Operações e 3 são de uma ou duas operações e cabem à mão |
+| 5 | Fonte impressa | **sim, nas 7 questões de interpretação** — Q03 bilhete, Q10 registro da feira, Q14 caso da oficina, Q16 gráfico de barras, Q19 descrições de observação, Q25 caso da prefeitura, Q29 texto do clube de corrida. Todas em citação, dentro do limite de 6 linhas |
+| 6 | **Diferente da questão do caderno**, conferido questão a questão | **sim, nas 30.** O caderno de Inglês existe e foi conferido em 24/08. Detalhamento na §5 |
+| 7 | Caso novo em N2 e N3 | **sim.** Nenhum dos 20 casos de N2 e N3 é exemplo do capítulo. Detalhamento na §6 |
+| 8 | Qualidade do distrator | **sim.** 90 distratores. Nenhum absurdo, nenhum "todas as anteriores", nenhum par que caia pelo mesmo motivo dentro da mesma questão, comprimentos equivalentes entre as quatro alternativas, e o motivo de queda de cada um registrado na §2. A chave está distribuída em 7 a 8 questões por letra (§2.1) |
+| 9 | Soma fecha o total | **sim.** 30 questões de 1 ponto cada, e a folha traz exatamente 30 enunciados numerados de 01 a 30, em numeração contínua atravessando as sete disciplinas. **É o total previsto pela tabela da coordenação para o 6º ano** — o que não acontecia até 24/08, quando faltava o bloco de Inglês |
+| 10 | **Este instrumento, sozinho, mede todos os essenciais** | **sim — 25 de 25.** É a condição mais importante desta rodada, porque a AC não foi produzida: o que a AT não medir não é medido em lugar nenhum |
+| 11 | **Questões de interpretação da faixa** | **sim — 1 por bloco de disciplina, 7 no total.** O 6º ano está na faixa 6º–8º, que pede 1 por bloco; o bloco de 2 questões de Matemática Financeira também leva 1, como manda a exceção do briefing. Todas em N3, todas com um distrator que vai além do que o suporte permite concluir, marcado em negrito na §2 |
 
 ## 5. Checagem #6 — a conferência contra o caderno, questão a questão
 
@@ -243,7 +262,12 @@ Declarados nos `_MAPA`, **antes** desta matriz. Como nesta rodada só existe a A
 | 25 | Est. Sociais Cap. 2, todas as 8 | **nenhuma atividade do caderno trata da divisão de responsabilidades entre pessoas, empresas e governos**. Conteúdo do capítulo sem treino registrado |
 | 26 | Est. Sociais Cap. 3, ATIV 02, 03 e 05 | a ATIV 02 manda **desenhar** o mapa com satrapias e a Estrada Real; a 03 pede **tabela** comparativa; a 05 pede **verbetes**. A prova dá o dado da estrada e cobra o efeito prático dela sobre o governo do território |
 
-**Resumo da checagem #6.** **Atualizado em 22/08/2026.** As 26 questões estão conferidas contra a folha do caderno — as 8 que faltavam (Q06–Q10 de Operações, Q12–Q14 de Física) foram conferidas nesta data, quando se descobriu que os dois cadernos existiam. **6 questões reescritas** por sobreposição: Q03, Q16, Q21, Q23 e Q24 na rodada de 19/08, e **Q07** nesta · **3 sobreposições parciais mantidas e declaradas** — Q11 e Q19, em que o ponto de contato é um distrator e não a tarefa, e **Q13 de Física**, que continua em aberto.
+| 27 | Inglês, todas as 11 | **nenhuma atividade do caderno trata dos comparativos irregulares.** As 11 giram em torno de *-er* e *more*; *good*, *bad*, *better* e *worse* não aparecem em nenhuma. Conteúdo do capítulo sem treino registrado |
+| 28 | Inglês, ATIV 01, 03, 04, 06 e 08 | as atividades trabalham as alterações de escrita **uma de cada vez e com outros adjetivos** — *large* para o *-e* (ATIV 03), *funny*, *happy* e *easy* para o *-y* (ATIV 01, 03, 04, 06 e 08). ⚠️ **Sobreposição de regra declarada:** as duas alterações que a prova cobra são treinadas no caderno. O que muda é que **nenhum dos dois adjetivos da prova aparece em atividade nenhuma** — *safe* e *busy* estão só nas tabelas do capítulo — e que a prova cobra **as duas num par só**, obrigando a decidir duas regras na mesma marcação, o que nenhuma atividade pede |
+| 29 | Inglês, todas as 11 | **as 11 atividades são de forma, não de leitura**: completar, classificar, ordenar palavras, achar erro de escrita, escrever frase. **Nenhuma imprime um texto e pergunta o que ele permite concluir.** A prova imprime um texto novo e cobra o encadeamento de duas comparações mais o que o texto **não** autoriza concluir |
+| 30 | Inglês, ATIV 02, 03 e 08 | a ATIV 02 manda **separar em duas colunas**, curtos e longos; a ATIV 03 **entrega a regra pronta** numa coluna própria — *"Curto: termina em Y → I+er"*, *"Longo: 2 sílabas (não termina em Y)"* — e pede só a aplicação; a ATIV 08 manda completar e **identificar** se é curto ou longo. Nos três casos o critério vem dado. A prova **não dá o critério** e pergunta pela razão de dois adjetivos de mesmo número de sílabas seguirem regras diferentes. *pretty* e *careful* não aparecem em atividade nenhuma |
+
+**Resumo da checagem #6.** **Atualizado em 24/08/2026.** As 26 questões estão conferidas contra a folha do caderno — as 8 que faltavam (Q06–Q10 de Operações, Q12–Q14 de Física) foram conferidas nesta data, quando se descobriu que os dois cadernos existiam. **6 questões reescritas** por sobreposição: Q03, Q16, Q21, Q23 e Q24 na rodada de 19/08, e **Q07** em 22/08 · **4 sobreposições parciais mantidas e declaradas** — Q11 e Q19, em que o ponto de contato é um distrator e não a tarefa, **Q28 de Inglês**, em que as duas regras são treinadas mas nenhum dos adjetivos e nenhuma das tarefas coincide, e **Q13 de Física**, que continua em aberto. **As 4 questões de Inglês foram conferidas em 24/08/2026**, quando o bloco foi produzido: nenhuma precisou de reescrita.
 
 ## 6. Checagem #7 — o caso novo em N2 e N3
 
@@ -267,6 +291,10 @@ Declarados nos `_MAPA`, **antes** desta matriz. Como nesta rodada só existe a A
 | 25 | prefeitura, lâmpadas, usina de carvão e estrada na floresta | não — o capítulo cita a lâmpada econômica em uma linha, sem o caso |
 | 26 | a Estrada Real | ⚠️ **dado do capítulo, usado como suporte** — os 2.700 km e os postos com cavalos são informação impressa no enunciado; o que se pede é a consequência, que o capítulo não enuncia nessa forma. **Declarado** |
 
+| 28 | *safe* e *busy* na forma comparativa | não — os dois estão nas tabelas de vocabulário do capítulo, mas nenhum aparece em exemplo resolvido nem em atividade |
+| 29 | clube de corrida de uma escola, com Nina, Beto e Caio | não — texto montado para a questão. Os dois textos de leitura do capítulo comparam membros de uma família e três animais |
+| 30 | *pretty* e *careful*, dois adjetivos de duas sílabas | não — os dois constam das listas do capítulo, e o quadro de contagem de sílabas usa *tall*, *happy*, *beautiful*, *interesting* e *expensive* como exemplos |
+
 ## 7. Nota sobre dados
 
 **Nenhum dado, estatística, fonte, lei ou autor foi inventado.**
@@ -274,13 +302,14 @@ Declarados nos `_MAPA`, **antes** desta matriz. Como nesta rodada só existe a A
 - **Números reais, todos vindos do capítulo:** os cerca de **2.700 km** da Estrada Real, entre Sardes e Susã (Q26).
 - **Números que são parâmetros de cenário hipotético, declarados como tal na própria questão:** os 40 itens dos estandes (Q10), os 3 kg da caixa (Q13), as contagens 9, 15 e 6 da pesquisa de lanche (Q15), as 30 retiradas e as quatro barras do gráfico (Q16). Nenhum é apresentado como estatística do Brasil ou de qualquer lugar.
 - **Objetos matemáticos:** as frações de Q06 a Q11 e os resultados de Q08, Q09, Q10 e Q15 foram conferidos um a um — 5/6 = 15/18 e 8/9 = 16/18 · 1/3 + 2/5 = 5/15 + 6/15 = 11/15 · 3/5 de 40 = 24 e 3/4 de 40 = 30 · 9 + 15 + 6 = 30 e 9/30 = 30% · **3/7 = 9/21**, a amplificação da Q07 reescrita em 22/08.
+- **O texto em inglês da Q29** é hipotético e declarado como tal na própria questão. *Green Park School* é nome inventado para a questão, e não uma escola real; os tempos de treino são parâmetros do cenário, não estatística.
 - **Nenhuma questão traz camada devocional acrescentada.** O capítulo de Ciências fecha com uma citação bíblica em 1 Coríntios; ela não foi transportada para a prova.
 
 ## 8. AT paralela — os quatro perfis
 
 Regida por [`METODOLOGIA/08-ADAPTACAO.md`](../../METODOLOGIA/08-ADAPTACAO.md) §3.1.1. Produzida em **22/08/2026**, junto com a dos outros seis anos.
 
-**São as mesmas questões, na mesma ordem, com o mesmo gabarito.** A chave não muda de letra em nenhuma versão — conferido alternativa a alternativa, nos sete anos. **O gabarito da AT regular vale para as quatro**, e por isso não há grade nova.
+**São as mesmas questões, na mesma ordem, com o mesmo gabarito.** **Atualizado em 24/08/2026:** as quatro versões receberam o bloco de Inglês junto com a regular e voltaram a ter as mesmas 30 questões e os mesmos 7 blocos. A chave não muda de letra em nenhuma versão — conferido alternativa a alternativa, nos sete anos. **O gabarito da AT regular vale para as quatro**, e por isso não há grade nova.
 
 ### 8.1 A regra do comando, e por que ela mudou
 
@@ -298,10 +327,10 @@ O ganho de posição fixa e destaque visual é o mesmo; o risco de quebrar a que
 
 | Perfil | Na folha |
 |---|---|
-| **`TDAH`** | contexto separado do comando · comando em negrito na mesma posição, nas 26 questões · bloco *Como responder* no cabeçalho |
+| **`TDAH`** | contexto separado do comando · comando em negrito na mesma posição, nas 30 questões · bloco *Como responder* no cabeçalho |
 | **`TEA`** | tudo do `TDAH`, mais: o bloco *Como responder* declara que **só uma alternativa está certa** · *"A leitura que o caso permite é:"* vira *"Uma das quatro leituras abaixo está de acordo com o caso. Assinale essa leitura."*, que remove a dúvida sobre haver ou não resposta certa |
 | **`DISLEX`** | **produzido à mão**, com encurtamento questão a questão: enunciados e alternativas ao mínimo, suportes citados condensados. **−31% de texto** em relação à regular |
-| **`DISCALC`** | tudo do `TDAH`, mais **tabuada impressa no início da prova**, com a regra de uso declarada ao aluno: liberada em qualquer questão **exceto nas 09 e 15**, que são as de resposta numérica — ali a conta é o que se avalia |
+| **`DISCALC`** | tudo do `TDAH`, mais **tabuada impressa no início da prova**, com a regra de uso declarada ao aluno: liberada em qualquer questão **exceto nas 09 e 15**, que são as de resposta numérica — ali a conta é o que se avalia. **Nenhuma das quatro questões de Inglês tem alternativa numérica**, e por isso a tabela segue liberada nas quatro |
 
 **A trava da tabela é derivada, não arbitrada.** A tabela é vedada exatamente nas questões cujas **alternativas são números** — nelas, calcular *é* a competência medida. Nas demais, o número é meio. O critério foi aplicado do mesmo jeito nos sete anos.
 
@@ -314,6 +343,7 @@ O ganho de posição fixa e destaque visual é o mesmo; o risco de quebrar a que
 | 19/08/2026 | **Chave redistribuída.** Na primeira montagem, 22 das 26 respostas caíam na letra **a**, porque a alternativa correta foi escrita antes dos distratores em quase toda questão. As alternativas foram reordenadas para 6 · 7 · 7 · 6 entre as quatro letras, sem alterar nenhum enunciado nem nenhum texto de alternativa. |
 | 22/08/2026 | **A AT ganhou versão paralela nos quatro perfis** — `AT-TDAH` · `AT-TEA` · `AT-DISLEX` · `AT-DISCALC`, seção 8. Mesmas 26 questões, mesma ordem, **mesmo gabarito**: a chave não muda de letra em nenhuma. Antes disso, a **auditoria das 217 questões de AT dos 7 anos** contra as cinco regras do [`08`](../../METODOLOGIA/08-ADAPTACAO.md) §3.1: zero linguagem figurada, e **um único defeito real** — a negação sem destaque no comando da Q15 deste ano, corrigida (*a probabilidade de a ficha sorteada **não** ser múltiplo de 5*). Os 33 pares de alternativas quase idênticas que o script sinalizou foram conferidos um a um e são **distratores conceituais**, não pegadinhas. |
 | 22/08/2026 | **Matemática Financeira · Q16 — cenário e categorias trocados.** O gráfico usava *a bebida escolhida no intervalo*, cenário da ATIV 03 do caderno **palavra por palavra**, com as mesmas quatro categorias na mesma ordem — suco, água, leite e chá. Passou a imprimir as **retiradas de livros da biblioteca numa semana**, em quatro tipos que nenhuma atividade usa, e a relação medida continua sendo a proporção sobre o total: a categoria mais retirada não chega à metade das 30. Os três papéis obrigatórios do distrator de interpretação foram mantidos com conteúdo novo. **A letra não mudou:** continua **a**. A declaração na folha passou de *A pesquisa é hipotética.* para *O caso é hipotético.*, que é a convenção da casa e cabe num registro de retiradas. |
+| 24/08/2026 | **O bloco de Inglês entrou, e a prova passou a ter as 30 questões previstas.** A premissa de 19/08 — *"Inglês não tem conteúdo neste pipeline"* — era falsa, e é a mesma classe de erro de Operações e Física, corrigida dois dias antes: a pasta `Inglês - Ok` está no Drive desde **14/08/2026**, com capítulo-fonte e caderno de atividades para os nove anos. Foram produzidas **Q27 a Q30** — irregulares *good*/*bad*, as alterações de escrita de *safe* e *busy*, um texto novo com cadeia de comparações e a razão de *pretty* usar *-er* e *careful* usar *more*. A numeração das 26 questões anteriores **não mudou**, porque Inglês é a última linha da tabela da coordenação e o bloco entrou no fim da prova. A chave das quatro novas foi escolhida para reequilibrar a distribuição: **c · a · d · b**, levando as letras de 6·7·7·6 para 7·8·8·7. As **quatro versões adaptadas** receberam o mesmo bloco. Fica registrado que a **carga horária do capítulo não veio na fonte** — como o bloco tem um capítulo só, a distribuição não dependeu dela, e nada foi estimado. |
 | 22/08/2026 | **Operações · Q07 — a premissa de que não havia caderno caiu, e a questão foi reescrita.** Os cadernos de Operações e de Física existem, no Drive; o registro dizia o contrário e a checagem #6 nunca tinha sido feita nesses dois blocos. Feita agora, ela achou a Q07: a alternativa correta era o item III da ATIV 14 do caderno com a polaridade invertida — *multiplicar os dois termos por um mesmo natural altera o valor*. A questão deixou de enunciar a regra em abstrato e passou a aplicá-la a um caso, 3/7 reescrita como 9/21, que não aparece em atividade nenhuma. Os três erros conceituais dos distratores foram mantidos. **A letra não mudou:** continua **d**. Fica declarada e em aberto a Q13 de Física, que repete o desfecho da ATIV 10 — massa igual, peso menor. |
 
 ---
