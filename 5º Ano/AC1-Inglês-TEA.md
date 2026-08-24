@@ -17,14 +17,25 @@ There are three dogs at the pet shop. Rex is bigger than Nick. Nick is bigger th
 
 ### QUESTÃO 01 · (2,0)
 
-**Ligue cada adjetivo à forma comparativa dele.** São quatro ligações, uma para cada adjetivo.
+A coluna A tem quatro adjetivos. A coluna B tem as formas comparativas deles, fora de ordem.
 
-| Adjetivo | | Comparativo |
-|---|---|---|
-| big | | older |
-| old | | bigger |
-| fast | | better |
-| good | | faster |
+Cada forma da coluna B pertence a um adjetivo da coluna A. Cada uma é usada uma vez.
+
+**Escreva, dentro de cada parêntese da coluna B, o número do adjetivo que corresponde àquela forma.**
+
+**Coluna A**
+
+1. big  
+2. old  
+3. fast  
+4. good
+
+**Coluna B**
+
+( ) faster  
+( ) bigger  
+( ) better  
+( ) older
 
 ---
 
@@ -32,10 +43,10 @@ There are three dogs at the pet shop. Rex is bigger than Nick. Nick is bigger th
 
 **Complete as quatro frases com o comparativo do adjetivo entre parênteses.** Escreva uma palavra em cada linha. A resposta está no texto.
 
-a) Rex is ______ (big) than Nick.  
-b) Nick is ______ (big) than Pim.  
-c) Rex is ______ (old) than Nick.  
-d) Nick is ______ (fast) than Rex.
+a) Rex is _______________ (big) than Nick.  
+b) Nick is _______________ (big) than Pim.  
+c) Rex is _______________ (old) than Nick.  
+d) Nick is _______________ (fast) than Rex.
 
 ---
 

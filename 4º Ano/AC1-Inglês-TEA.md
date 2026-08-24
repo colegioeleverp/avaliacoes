@@ -17,14 +17,25 @@ Bruno can play the guitar, but he can't sing. Lia can sing very well, but she ca
 
 ### QUESTÃO 01 · (2,0)
 
-**Ligue cada palavra em inglês ao significado dela em português.** São quatro ligações, uma para cada palavra.
+A coluna A tem quatro verbos em inglês. A coluna B tem os significados deles, fora de ordem.
 
-| Inglês | | Português |
-|---|---|---|
-| swim | | dançar |
-| dance | | nadar |
-| draw | | cozinhar |
-| cook | | desenhar |
+Cada significado da coluna B pertence a um verbo da coluna A. Cada um é usado uma vez.
+
+**Escreva, dentro de cada parêntese da coluna B, o número do verbo que corresponde àquele significado.**
+
+**Coluna A**
+
+1. swim  
+2. dance  
+3. draw  
+4. cook
+
+**Coluna B**
+
+( ) dançar  
+( ) nadar  
+( ) cozinhar  
+( ) desenhar
 
 ---
 
@@ -32,10 +43,10 @@ Bruno can play the guitar, but he can't sing. Lia can sing very well, but she ca
 
 **Complete as quatro frases com *can* ou com *can't*.** Escreva uma das duas palavras em cada linha. A resposta está no texto.
 
-a) Bruno ______ play the guitar.  
-b) Bruno ______ sing.  
-c) Lia ______ sing.  
-d) Theo ______ dance.
+a) Bruno _______________ play the guitar.  
+b) Bruno _______________ sing.  
+c) Lia _______________ sing.  
+d) Theo _______________ dance.
 
 ---
 

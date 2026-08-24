@@ -65,14 +65,23 @@ Explique, em português, a diferença de sentido entre elas.
 
 ### QUESTÃO 06 · (0,5)
 
-Ligue cada expressão em inglês ao significado dela em português.
+A coluna A tem quatro expressões em inglês. A coluna B tem os significados delas, fora de ordem.
 
-| Inglês | | Português |
-|---|---|---|
-| climb | | tirar fotos |
-| skate | | pintar |
-| paint | | escalar |
-| take photos | | andar de skate |
+**Escreva, dentro de cada parêntese da coluna B, o número da expressão que corresponde àquele significado.**
+
+**Coluna A**
+
+1. climb  
+2. skate  
+3. paint  
+4. take photos
+
+**Coluna B**
+
+( ) tirar fotos  
+( ) pintar  
+( ) escalar  
+( ) andar de skate
 
 ---
 

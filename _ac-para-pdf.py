@@ -151,7 +151,7 @@ def parse(md: str):
                     a = [r[0] for r in celulas[1:]]
                     b = [r[1] for r in celulas[1:]]
                     esq = "".join(f'<div class="ci">{inline(x)}</div>' for x in a)
-                    dir_ = "".join(f'<div class="ci">(&nbsp;&nbsp;&nbsp;&nbsp;) {inline(x)}</div>' for x in b)
+                    dir_ = "".join(f'<div class="ci">(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;) {inline(x)}</div>' for x in b)
                     q["partes"].append(
                         f'<div class="assoc2"><div><div class="ct">{inline(celulas[0][0])}</div>{esq}</div>'
                         f'<div><div class="ct">{inline(celulas[0][1])}</div>{dir_}</div></div>')
@@ -164,9 +164,12 @@ def parse(md: str):
                 continue
             elif re.match(r"^[a-z]\)\s", l):
                 q["itens"].append(l.rstrip())
-            elif re.match(r"^\(\s*\)", l):                      # verdadeiro ou falso
+            elif re.match(r"^\(\s*\)", l):                      # verdadeiro ou falso · coluna B
                 q["fechado"] = True
-                q["partes"].append(f'<div class="vf">{inline(l.strip())}</div>')
+                # o parentese e o campo de resposta: sem largura, o aluno nao tem onde escrever.
+                # mesmo espacamento que a linha do V/F numerado ja usava.
+                marcado = re.sub(r"^\(\s*\)", "(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)", inline(l.strip()))
+                q["partes"].append(f'<div class="vf">{marcado}</div>')
             elif re.match(r"^\d+\.\s", l):                      # item numerado (V/F ou coluna A)
                 mrot = re.match(r"^(\d+\.)\s+(.*)$", l.strip())
                 q["fechado"] = True
@@ -239,12 +242,12 @@ def montar(disciplina, ano, bimestre, questoes, base="", avaliacao="", tempo="")
 
         if vf and not itens:   # V/F escrito com numeros
             bloco = [b.replace('<div class="col"><b>', '<div class="vf"><b>')
-                      .replace('</b> ', '</b> (&nbsp;&nbsp;&nbsp;&nbsp;) ', 1) if 'class="col"' in b else b
+                      .replace('</b> ', '</b> (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;) ', 1) if 'class="col"' in b else b
                      for b in bloco]
             corpo.append("\n".join(bloco) + "</div>")
             continue
         if vf and itens:
-            bloco.append("".join(f'<div class="vf">(&nbsp;&nbsp;&nbsp;&nbsp;) {inline(x[3:])}</div>' for x in itens))
+            bloco.append("".join(f'<div class="vf">(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;) {inline(x[3:])}</div>' for x in itens))
             corpo.append("\n".join(bloco) + "</div>")
             continue
         # alternativas de objetiva: exatamente a-d, questao leve, e nenhum item e pergunta

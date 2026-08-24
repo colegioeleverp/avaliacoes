@@ -61,14 +61,23 @@ Escreva a forma comparativa dos dois e escreva **uma frase em inglês** usando u
 
 ### QUESTÃO 06 · (0,5)
 
-Ligue cada adjetivo à forma comparativa dele.
+A coluna A tem quatro adjetivos. A coluna B tem as formas comparativas deles, fora de ordem.
 
-| Adjetivo | | Comparativo |
-|---|---|---|
-| safe | | prettier |
-| pretty | | worse |
-| good | | safer |
-| bad | | better |
+**Escreva, dentro de cada parêntese da coluna B, o número do adjetivo que corresponde àquela forma.**
+
+**Coluna A**
+
+1. safe  
+2. pretty  
+3. good  
+4. bad
+
+**Coluna B**
+
+( ) prettier  
+( ) worse  
+( ) safer  
+( ) better
 
 ---
 

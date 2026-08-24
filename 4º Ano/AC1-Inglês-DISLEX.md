@@ -18,14 +18,23 @@ Theo can dance. Theo can draw.
 
 ### QUESTÃO 01 · (2,0)
 
-**Ligue o inglês ao português.**
+A coluna A tem quatro verbos. A coluna B tem os significados, fora de ordem.
 
-| Inglês | | Português |
-|---|---|---|
-| swim | | dançar |
-| dance | | nadar |
-| draw | | cozinhar |
-| cook | | desenhar |
+**Escreva no parêntese o número do verbo certo.**
+
+**Coluna A**
+
+1. swim  
+2. dance  
+3. draw  
+4. cook
+
+**Coluna B**
+
+( ) dançar  
+( ) nadar  
+( ) cozinhar  
+( ) desenhar
 
 ---
 
@@ -33,10 +42,10 @@ Theo can dance. Theo can draw.
 
 **Complete com *can* ou *can't*.**
 
-a) Bruno ______ play the guitar.  
-b) Bruno ______ sing.  
-c) Lia ______ sing.  
-d) Theo ______ dance.
+a) Bruno _______________ play the guitar.  
+b) Bruno _______________ sing.  
+c) Lia _______________ sing.  
+d) Theo _______________ dance.
 
 ---
 
