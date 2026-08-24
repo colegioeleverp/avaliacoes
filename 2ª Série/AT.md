@@ -3,7 +3,7 @@
 > **3º Bimestre · Bloco 1** · 36 questões
 > Nome: ______________________________  Turma: ______  Data: ____/____/____
 
-> **Inglês não entra nesta prova.** Não há conteúdo de Inglês produzido para o bloco, e a tabela da coordenação prevê 4 questões da disciplina. A prova fecha em 36 das 40 questões previstas para o Ensino Médio.
+> **Nota de produção — não é instrução ao aluno.** A tabela da coordenação prevê 40 questões para a 2ª série. Esta prova traz 36 porque o bloco de Inglês ainda não foi produzido para o Ensino Médio. O conteúdo existe no Drive desde 14/08/2026; a rodada de 24/08, que produziu o bloco, cobriu só o 6º ao 9º ano.
 
 ---
 

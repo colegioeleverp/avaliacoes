@@ -52,7 +52,7 @@ O `08` §5 suspende o desconto de ortografia **só** na folha de perfil com disl
 
 | Ano | Instrumento | Situação |
 |---|---|---|
-| 4º Ano | AC1 adaptada · **os 4 perfis** | **fechada** — 4 disciplinas × 4 perfis = 16 provas |
-| 5º Ano | AC1 adaptada · **os 4 perfis** | **fechada** — 4 disciplinas × 4 perfis = 16 provas |
+| 4º Ano | AC1 adaptada · **os 4 perfis** | **fechada** — 5 disciplinas × 4 perfis = 20 provas. Inglês entrou em 24/08/2026, sob suposição não ratificada (ver o `_ORGANIZACAO.md` do ano) |
+| 5º Ano | AC1 adaptada · **os 4 perfis** | **fechada** — 5 disciplinas × 4 perfis = 20 provas. Inglês entrou em 24/08/2026, sob suposição não ratificada (ver o `_ORGANIZACAO.md` do ano) |
 | 6º ao 3ª | AC adaptada | **a AC regular ainda não existe** no EF2 e no EM; a adaptada vem depois dela |
-| todos | AT | prova única em desenho acessível ([`08`](../../METODOLOGIA/08-ADAPTACAO.md) §3.1). As 217 questões do Bloco 1 são anteriores à regra e ainda não foram auditadas |
+| todos | AT | prova única em desenho acessível ([`08`](../../METODOLOGIA/08-ADAPTACAO.md) §3.1). As 217 questões do Bloco 1 são anteriores à regra e ainda não foram auditadas. **Em 24/08/2026 o bloco de Inglês entrou no 6º, 7º, 8º e 9º ano** — 16 questões novas, nas cinco versões de cada ano —, e essas foram escritas já sob a regra |

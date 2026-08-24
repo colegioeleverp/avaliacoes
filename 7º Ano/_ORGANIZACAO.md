@@ -2,7 +2,7 @@
 
 > Para o professor e a coordenação. Não vai na folha do aluno.
 > As provas estão nesta mesma pasta. A visão por conteúdo, em linguagem corrida, está em `_MAPA-<Disciplina>.md`.
-> **3º Bimestre · Bloco 1.** Produzido: a AT completa do ano — seis blocos de disciplina, 26 questões — e a AC de Estudos Sociais.
+> **3º Bimestre · Bloco 1.** Produzido: a AT completa do ano — sete blocos de disciplina, 30 questões — e a AC de Estudos Sociais.
 
 
 > **O bloco de Operações.** A prova chamou esta linha de *Matemática 1* durante a produção; a coordenação fixou **Operações** como o nome em uso, e a renomeação foi aplicada em 19/08/2026. Segue em aberto o que não é de nome: **o caderno de casa não cobre Operações**, que está fora do escopo dele — essas questões medem conteúdo sem treino registrado.
@@ -11,11 +11,12 @@
 
 | Item | Situação |
 |---|---|
-| **Inglês** | **fora desta rodada.** Não existe conteúdo de Inglês em `~/conteudos-segundo-semestre/`, e a tabela da coordenação pede 4 questões. Elas **não foram produzidas e não foram compensadas** em outra disciplina. A ausência é registrada aqui e não é defeito de produção |
+| **Inglês** | ✅ **dentro, desde 24/08/2026 — premissa falsa corrigida.** O registro anterior dizia que não existia conteúdo de Inglês no pipeline, e a prova saiu com 26 das 30 questões. O conteúdo existe desde antes da rodada: a pasta `Inglês - Ok` está no Drive desde **14/08/2026**, cinco dias antes da decisão de 19/08 que declarou a ausência definitiva — **mesma classe de erro da premissa de Operações e Física**, corrigida em 22/08. O bloco foi produzido: Q27–Q30 |
+| **Carga horária do bloco de Inglês** | ⚠️ **não informada na fonte.** O documento do Drive não traz o número de aulas do capítulo. Como o bloco tem **um capítulo só**, a distribuição não depende dele e nada foi estimado |
 | **Química** | não existe na faixa 6º–8º, como a própria tabela da coordenação indica. Nada a produzir |
 | **Operações** | ✅ **confirmado pela coordenação em 19/08/2026.** O bloco foi produzido a partir de `Operações/7º Ano/bl1_Operacoes_7ano.md`, que cobre do 6º ano à 3ª série e é o que o Drive imprime sob "Matemática". Confirmar com a coordenação |
 | **Geometria e Física** | um bloco, duas pastas: `Geometria/` e `Física/`. A divisão das 4 questões está registrada em 1.3 |
-| **Total da prova** | **26 questões de 30.** As 4 que faltam são as de Inglês |
+| **Total da prova** | **30 questões de 30.** Fechou com a entrada do bloco de Inglês em 24/08/2026 |
 | **Notação de frações** | escritas em texto corrido — `16/36`, `5/6 + 2/9` —, e não em fórmula. A folha é impressa e colada no Google Docs, e o padrão da amostra aprovada de Estudos Sociais é markdown simples. Nenhuma questão depende de renderização |
 
 **Cadernos de casa disponíveis no 7º ano:** todos. **Corrigido em 22/08/2026:** até 21/08 este registro dizia que Operações e Física não tinham caderno e que a checagem #6 não se aplicava às duas. A premissa era falsa — os cadernos estão no Drive, no padrão `<DISCIPLINA>_<ANO>_3BIMESTRE_Bloco 1_CADERNO DE ATIVIDADE`, e o de Operações do 7º ano tem 50 atividades. A conferência das duas foi feita e está na checagem #6 da seção 3.2.
@@ -166,7 +167,31 @@ Declarados no `_MAPA`. **Os dois instrumentos medem os cinco**, porque AT e AC o
 | 25 | 3 | E5 | Exclusão digital — caso com sinal e aparelho | N2 | OBJ | A1 |
 | 26 | 3 | E4 | Consequência do predomínio rodoviário | **N2** | OBJ | A1 |
 
-### 1.7 AC · Estudos Sociais
+### 1.7 Inglês — questões 27 a 30
+
+Capítulo do bloco: **Cap. 1 — Present Perfect: duração, com *for* e *since***. A carga em aulas não vem informada na fonte do Drive; como o bloco tem um capítulo só, as 4 questões vão todas para ele e nenhuma proporção precisou ser calculada.
+
+#### Conteúdos essenciais do bloco (`07` §3.4)
+
+Declarados no `_MAPA`. Um capítulo só admite no máximo dois essenciais, e são estes os dois:
+
+| | Essencial | Cap |
+|---|---|---:|
+| I1 | O Present Perfect diante do Past Simple — o que continua e o que terminou | 1 |
+| I2 | *for* e *since* — o período de tempo e o ponto em que ele começou | 1 |
+
+#### AT · bloco de Inglês
+
+| Q | Cap | Essencial | Conteúdo | Nível | Formato | Rubrica |
+|---|---:|:---:|---|---|---|---|
+| 27 | 1 | I2 | A diferença entre *for* e *since*, sem lacuna para completar | N1 | OBJ | A1 |
+| 28 | 1 | I1 | O mesmo par de frases com e sem o Present Perfect | N2 | OBJ | A1 |
+| 29 | 1 | — | Biografia curta impressa, com dois empregos e três marcações de tempo | **N3** | **INT** | A1 |
+| 30 | 1 | — | *write* — particípio, auxiliar e forma base como três erros distintos | N2 | OBJ | A1 |
+
+**O que ficou de fora** está no `_MAPA-Inglês.md`: a montagem da frase interrogativa e da negativa, que é conteúdo do Bloco 2, e a lista completa de particípios irregulares, que o caderno treina e a prova amostra em um verbo só.
+
+### 1.8 AC · Estudos Sociais
 
 | Q | Cap | Essencial | Conteúdo | Nível | Formato | Rubrica | Pontos |
 |---|---:|:---:|---|---|---|---|---:|
@@ -245,6 +270,15 @@ Declarados no `_MAPA`. **Os dois instrumentos medem os cinco**, porque AT e AC o
 
 **Distribuição das letras corretas na AT:** a → 5 · b → 8 · c → 7 · d → 6. Nenhuma letra concentra respostas, e não há sequência de três iguais.
 
+#### Inglês
+
+| Q | Letra | Por que cada distrator cai |
+|---|:---:|---|
+| 27 | **a** | **b** **inverte os dois** — dá a *for* o papel de ponto de partida e a *since* o de duração; é o distrator que discrimina, porque quem decorou o par sem o critério cai nele · **c** troca o critério de duração por um de tempo verbal, como se um fosse do passado e o outro do presente · **d** inventa um critério de polaridade, afirmativa contra negativa. Os três são leituras erradas do mesmo quadro do capítulo |
+| 28 | **d** | **a** **inverte a diferença**: põe o encerramento no Present Perfect e a continuidade no Past Simple, exatamente ao contrário — é o distrator que discrimina, e o mais tentador, porque *have lived* soa a passado para quem traduz literalmente · **b** troca a diferença de continuidade por uma de contagem, como se as duas frases contassem os seis anos a partir de pontos diferentes · **c** nega que exista diferença e trata a escolha como estilo |
+| 29 | **c** | **a** **achata a diferença** entre os dois empregos, tratando como simultâneos e atuais um que continua e outro que terminou em 2018 · **b** **extrapola o texto** — ele diz que Pedro estuda inglês há três anos e não liga isso à promoção; é o distrator obrigatório da questão de interpretação, e junta a extrapolação a uma data que o texto não dá · **d** **confunde as duas marcações**: o texto diz que ele está na loja desde 2019 e que é gerente desde março, e a alternativa junta as duas numa data só |
+| 30 | **a** | **b** usa o **past simple** no lugar do particípio, *wrote* por *written* — é o erro mais comum com verbo irregular e o distrator que discrimina · **c** erra o **auxiliar**, pondo *have* com *she* · **d** usa a **forma base**, *write*, como se o verbo fosse regular sem terminação. Os três erram em pontos diferentes da mesma estrutura, e a marcação diz **qual das três peças** o aluno não montou |
+
 ### AC
 
 | Q | Formato | Rubrica | Resposta esperada | O que decide a nota |
@@ -269,15 +303,16 @@ Declarados no `_MAPA`. **Os dois instrumentos medem os cinco**, porque AT e AC o
 | Matemática Financeira | 2 | 1 cap · 3 | 2 ok | 0 = **0%** ⚠️ | 1 = **50%** ok | 1 = **50%** ⚠️ | 2 de 2 | 1 · Q16 · N3 |
 | Ciências | 5 | 2 caps · 6+3 = 9 | 3·2 ok | 2 = **40%** ok | 2 = **40%** ok | 1 = **20%** ok | 4 de 4 | 1 · Q21 · N3 |
 | Estudos Sociais | 5 | 3 caps · 6+4+5 = 15 | 2·1·2 ok | 2 = **40%** ok | 2 = **40%** ok | 1 = **20%** ok | 5 de 5 | 1 · Q24 · N3 |
-| **AT inteira** | **26** | — | — | **9 = 34,6%** ok | **11 = 42,3%** ok | **6 = 23,1%** ok | **24 de 24** | **6 de 6** |
+| Inglês | 4 | 1 cap · carga não informada | 4 — capítulo único | 1 = **25%** ⚠️ | 2 = **50%** ok | 1 = **25%** ok | 2 de 2 | 1 · Q29 · N3 |
+| **AT inteira** | **30** | — | — | **10 = 33,3%** ok | **13 = 43,3%** ok | **7 = 23,3%** ok | **26 de 26** | **7 de 7** |
 
 **Bandas do `07` §3.2:** N1 30–40% · N2 40–50% · N3 20–30%.
 
-⚠️ **Os dois desvios de banda são aritméticos, não de desenho, e não têm solução.**
+⚠️ **Os três desvios de banda são aritméticos, não de desenho, e não têm solução.**
 
-- **Geometria e Física, 4 questões.** A banda de N1 exige entre 1,2 e 1,6 questão. Não existe número inteiro nesse intervalo: 1 dá 25% e 2 dá 50%. Adotou-se 1, que é o desvio menor, e N2 e N3 ficam dentro.
+- **Geometria e Física, 4 questões, e Inglês, 4 questões.** A banda de N1 exige entre 1,2 e 1,6 questão. Não existe número inteiro nesse intervalo: 1 dá 25% e 2 dá 50%. Adotou-se 1 nos dois blocos, que é o desvio menor, e N2 e N3 ficam dentro.
 - **Matemática Financeira, 2 questões.** A banda de N1 exige entre 0,6 e 0,8 questão e a de N3, entre 0,4 e 0,6. Nenhum inteiro serve. Como o bloco de 2 questões precisa levar 1 questão de interpretação (briefing §4), que só existe em N2 ou N3, a única combinação possível é 1 N2 + 1 N3.
-- **A prova inteira fica dentro das três bandas**, e é essa a leitura que vale para a nota do aluno, já que a AT é uma folha só. Os dois blocos foram calibrados olhando o total: se Matemática Financeira tivesse levado 1 N1, N2 da prova inteira cairia para 10 questões — 38,5%, abaixo da banda.
+- **A prova inteira fica dentro das três bandas**, e é essa a leitura que vale para a nota do aluno, já que a AT é uma folha só. A entrada do bloco de Inglês mexeu nos três números em pouco mais de um ponto e não tirou nenhum da faixa. Os blocos foram calibrados olhando o total: se Matemática Financeira tivesse levado 1 N1, N2 da prova inteira cairia para 10 questões — 38,5%, abaixo da banda.
 
 **Nota sobre a distribuição de Geometria e Física.** Os três capítulos do bloco têm 3 aulas cada, e `3/9 × 4 = 1,33` para todos. A questão excedente foi para Geometria por decisão de produção, e não por proporção — o critério foi dar 2 questões a cada uma das duas pastas que formam o bloco. Registrado também em 1.3.
 
@@ -285,17 +320,17 @@ Declarados no `_MAPA`. **Os dois instrumentos medem os cinco**, porque AT e AC o
 
 | # | Verificação | Resultado |
 |---|---|---|
-| 1 | Matriz antes dos enunciados | **sim**, nas seis disciplinas. Em cada uma o `_MAPA` foi escrito primeiro, a matriz depois e os enunciados por último |
-| 2 | Bandas N1/N2/N3 | **sim na prova inteira** (34,6 / 42,3 / 23,1). **Não em dois blocos**, por impossibilidade aritmética documentada em 3.1 |
-| 3 | Distribuição por capítulo e registro do que ficou fora | **sim.** Toda distribuição está calculada em 1.1–1.6, e cada seção lista os assuntos deixados de fora. A única distribuição não determinada pela proporção — Geometria e Física — está registrada duas vezes |
-| 4 | Respondível só com a folha | **26 de 26.** Nenhuma questão pede consulta, internet, outra pessoa ou material além de lápis, caneta e régua. Nenhuma exige calculadora: os cálculos das questões 06, 08, 09, 12 e 15 fecham em números inteiros ou em uma casa decimal |
-| 5 | Fonte impressa | **sim.** As 6 questões de interpretação trazem o caso em citação na própria questão. As demais não usam fonte externa |
+| 1 | Matriz antes dos enunciados | **sim**, nas sete disciplinas. Em cada uma o `_MAPA` foi escrito primeiro, a matriz depois e os enunciados por último |
+| 2 | Bandas N1/N2/N3 | **sim na prova inteira** (33,3 / 43,3 / 23,3). **Não em três blocos**, por impossibilidade aritmética documentada em 3.1 |
+| 3 | Distribuição por capítulo e registro do que ficou fora | **sim.** Toda distribuição está calculada em 1.1–1.7, e cada seção lista os assuntos deixados de fora. A única distribuição não determinada pela proporção — Geometria e Física — está registrada duas vezes |
+| 4 | Respondível só com a folha | **30 de 30.** Nenhuma questão pede consulta, internet, outra pessoa ou material além de lápis, caneta e régua. Nenhuma exige calculadora: os cálculos das questões 06, 08, 09, 12 e 15 fecham em números inteiros ou em uma casa decimal |
+| 5 | Fonte impressa | **sim.** As 7 questões de interpretação trazem o caso em citação na própria questão. As demais não usam fonte externa |
 | 6 | **Diferente da questão do caderno** — conferido questão a questão | detalhado na tabela abaixo |
 | 7 | Caso novo em N2 e N3 | **sim.** Detalhado abaixo |
-| 8 | Qualidade do distrator | **78 distratores.** Nenhum absurdo, nenhum "todas as anteriores", todos do mesmo campo conceitual da resposta certa, comprimentos equivalentes dentro de cada questão, e motivo próprio registrado na grade da seção 2 |
-| 9 | Soma fecha o total | **sim.** 26 questões × 1 ponto. A prova soma 26 de 30 previstos: faltam as 4 de Inglês, registradas na seção 0 |
-| 10 | **Mede sozinha todos os essenciais** | **sim.** 24 essenciais declarados, 24 medidos. Nenhuma disciplina deixou essencial de fora |
-| 11 | **Questões de interpretação da faixa** | **sim.** O 7º ano está na faixa 6º–8º: 1 por bloco. Seis blocos, seis questões — Q05, Q07, Q13, Q16, Q21, Q24. **Todas em N3**, e todas com um distrator que extrapola o suporte, identificado na grade |
+| 8 | Qualidade do distrator | **90 distratores.** Nenhum absurdo, nenhum "todas as anteriores", todos do mesmo campo conceitual da resposta certa, comprimentos equivalentes dentro de cada questão, e motivo próprio registrado na grade da seção 2 |
+| 9 | Soma fecha o total | **sim.** 30 questões × 1 ponto. **A prova soma os 30 previstos pela tabela da coordenação**, o que não acontecia até 24/08, quando faltava o bloco de Inglês |
+| 10 | **Mede sozinha todos os essenciais** | **sim.** 26 essenciais declarados, 26 medidos. Nenhuma disciplina deixou essencial de fora |
+| 11 | **Questões de interpretação da faixa** | **sim.** O 7º ano está na faixa 6º–8º: 1 por bloco. Sete blocos, sete questões — Q05, Q07, Q13, Q16, Q21, Q24, Q29. **Todas em N3**, e todas com um distrator que extrapola o suporte, identificado na grade |
 
 #### Checagem #6 — questão a questão, contra a folha do caderno
 
@@ -307,6 +342,7 @@ Declarados no `_MAPA`. **Os dois instrumentos medem os cinco**, porque AT e AC o
 | **Matemática Financeira** | 8 atividades | **Q15** calcula uma média ponderada de gincana; a ATIV 03 manda **construir** uma tabela que produza 7,0 e testar o limite dos pesos — tarefa inversa · **Q16** é o cruzamento mais apertado da prova: a ATIV 05 e a ATIV 08 tratam do mesmo efeito do valor extremo, e a ATIV 08 usa o mesmo conjunto de cinco salários do capítulo. A questão trocou contexto, números, quantidade de valores e tarefa — em vez de escolher a medida que resume melhor, o aluno julga uma afirmação já publicada. **Registrado como o ponto de maior risco desta AT** |
 | **Ciências** | 17 atividades, 2 capítulos | **Q17** pede o termo *habitat* distinguido de três vizinhos; a ATIV 07 do Cap. 1 dá o caso da rodovia e pede a explicação da queda populacional — conteúdo vizinho, tarefa diferente · **Q18** dá uma cadeia alimentar concreta, e a ATIV 03 pede um esquema genérico de quatro níveis · **Q19** pede a explicação conjunta de calor e alagamento, e as ATIV 01 e 02 são saídas de observação com contagem · **Q20** pede os nomes dos três pilares, e as ATIV 05 e 06 pedem a avaliação escrita de uma fábrica e de um parque eólico · **Q21** foi reescrita: o recorte original — corredor ecológico — repetiria a ATIV 09, que traz um caso quase idêntico com quatro leituras. Passou para as categorias de unidade de conservação, e a ATIV 03 sobre elas pede uma tabela comparativa |
 | **Estudos Sociais** | 8 atividades por capítulo | Q22 trata do êxodo rural pelo **nome**, e a ATIV 08 do caderno trata das **causas** · Q23 pede o nível, e as ATIV 03 e 05 pedem esquema e classificação · Q24 pede o mecanismo, e a ATIV 07 pede identificação · Q25 pede a explicação de um caso, e as ATIV 06 e 08 pedem refutação · Q26 pede a consequência, e a ATIV 05 pede o esquema causal |
+| **Inglês** | 11 atividades, caderno no Drive | **Conferido em 24/08/2026, quando o bloco foi produzido.** **Q27** cobra a *diferença* entre `for` e `since`; as ATIV 04 e 11 mandam **completar** lacunas com um ou outro, e a ATIV 05 monta a frase — nenhuma pergunta pelo critério · **Q28** mede o contraste com o Past Simple, e **nenhuma das 11 atividades toca nesse contraste**: o capítulo lhe dedica duas tabelas comparativas e o caderno não o treina. Conteúdo do capítulo sem treino registrado · **Q29** imprime um texto e pergunta o que ele permite concluir; **as 11 atividades são de forma** — completar, ligar, ordenar, achar erro —, e a ATIV 09, que é um diálogo, existe para preencher lacunas · **Q30** usa *write*, que **não aparece na ATIV 01 nem na ATIV 03**, as duas de particípio. ⚠️ **Sobreposição parcial declarada:** a ATIV 06 manda achar erro em frases, e *have buyed* é da mesma classe de erro. O que muda é a tarefa — a prova põe os três erros possíveis lado a lado, um por alternativa, e pede a forma certa; a atividade mistura erros de tipos diferentes linha a linha |
 
 #### Checagem #7 — caso novo nas questões de N2 e N3
 
@@ -327,6 +363,9 @@ Declarados no `_MAPA`. **Os dois instrumentos medem os cinco**, porque AT e AC o
 | 19 | terreno com árvores trocado por estacionamento | praça arborizada × rua asfaltada |
 | 21 | Serra do Pinhal, Banhado das Garças, Costa do Aritu | Parque Nacional do Iguaçu, Reserva Biológica do Atol das Rocas, APA Costa dos Corais |
 | 24, 25, 26 | ver `_MAPA-Estudos Sociais.md` | — |
+| 28 | morar em Recife por seis anos, com e sem o Present Perfect | o capítulo contrasta São Paulo e Londres nos pares de exemplo |
+| 29 | Pedro, a livraria desde 2019 e o emprego anterior de garçom | a biografia de Maria da Silva, no fim do capítulo |
+| 30 | *write* numa frase, com os três erros possíveis lado a lado | o capítulo traz *write* → *written* na tabela de irregulares, sem frase |
 
 **Nota sobre dados.** Todos os casos assinalados como hipotéticos estão declarados como tal na própria folha do aluno — os nomes de bairros, municípios, distritos, equipes, turmas e áreas protegidas não têm correspondente real, e os números são parâmetros do cenário, nunca estatísticas apresentadas como do Brasil. **Os únicos números reais da AT são os 40 milhões do êxodo rural e os 61% da matriz rodoviária**, ambos do capítulo de Estudos Sociais, mais a aproximação π ≈ 3,14, que é a do capítulo de Geometria. Nenhuma lei, fonte ou autor foi citado em questão alguma.
 
@@ -367,6 +406,7 @@ A AC é um instrumento à parte, com bandas próprias (`07` §3.2: N1 ≤ 20% ·
 
 | Data | O que mudou |
 |---|---|
+| 24/08/2026 | **O bloco de Inglês entrou, e a prova fechou as 30 questões previstas.** A premissa de 19/08 — *"Inglês não tem conteúdo neste pipeline"* — era falsa, e é a mesma classe de erro de Operações e Física, corrigida dois dias antes: a pasta `Inglês - Ok` está no Drive desde **14/08/2026**, com capítulo-fonte e caderno para os nove anos. Foram produzidas **Q27 a Q30** — a diferença entre `for` e `since`, o contraste do Present Perfect com o Past Simple, uma biografia curta impressa e o particípio de *write*. A numeração das 26 questões anteriores **não mudou**: Inglês é a última linha da tabela da coordenação, e o bloco entrou no fim da prova. A chave das quatro foi escolhida para reequilibrar a distribuição, que estava em 5·8·7·6 — **a · d · c · a**, levando as letras a 7·8·8·7. As **quatro versões adaptadas** receberam o mesmo bloco. A checagem #6 achou o ponto mais forte do bloco: **o contraste com o Past Simple não é treinado em nenhuma das 11 atividades do caderno**, embora o capítulo lhe dedique duas tabelas. |
 | 19/08/2026 | Versão inicial — primeiras provas sob o `07-AVALIACAO.md`. |
 | 19/08/2026 | **Reescrita de 3 questões por sobreposição com o caderno**, achada ao montar o `_MAPA`: repetiam alternativas das ATIV 07 e 08 do Cap. 1 e da ATIV 07 do Cap. 3. |
 | 19/08/2026 | **Questão de interpretação na AT** (`07` §4.1). A Q3 deixou de ser objetiva comum sobre o mecanismo da segregação e passou a trazer um caso de dois bairros impresso, com quatro leituras — uma delas extrapolando o que o caso permite concluir. Subiu de N2 para N3, e a Q5 foi reclassificada de N3 para N2, que é o que ela sempre mediu: aplicar o predomínio a uma consequência, não explicar a causa histórica. Bandas preservadas em 40/40/20. |

@@ -11,11 +11,11 @@
 
 | Item | Situação |
 |---|---|
-| **Inglês** | **fora desta rodada.** Não existe conteúdo de Inglês em `~/conteudos-segundo-semestre/`, e a tabela da coordenação pede 4 questões. Elas **não foram produzidas e não foram compensadas** em outra disciplina. A ausência é registrada aqui e não é defeito de produção |
+| **Inglês** | ⚠️ **pendente, e a razão registrada antes estava errada.** Até 24/08/2026 este campo dizia que não existia conteúdo de Inglês. **Existe:** a pasta `Inglês - Ok` está no Drive desde **14/08/2026** e traz capítulo-fonte e caderno da 2ª série. O bloco **não foi produzido** porque a rodada de 24/08 cobriu só o 6º ao 9º ano — é **pendência de produção, não ausência de conteúdo**, e as 4 questões continuam faltando. O 6º, 7º, 8º e 9º ano já receberam o bloco e fecham os totais previstos |
 | **Operações** | ✅ **confirmado pela coordenação em 19/08/2026.** O bloco foi produzido a partir de `Operações/2ª Série/bl1_Operacoes_2serie.md`, que cobre do 6º ano à 3ª série e é o que o Drive imprime sob "Matemática". Confirmar com a coordenação |
 | **Geometria e Física** | um bloco, duas pastas: `Geometria/` e `Física/`. A divisão das 5 questões está registrada em 1.3 |
 | **Estudos Sociais** | um bloco, **quatro pastas**: `História/`, `Geografia/`, `Filosofia/` e `Sociologia/`. A divisão das 6 questões está registrada em 1.6 |
-| **Total da prova** | **36 questões de 40.** As 4 que faltam são as de Inglês |
+| **Total da prova** | **36 questões de 40.** As 4 que faltam são as de Inglês — **pendência de produção desde 24/08/2026**, quando se descobriu que o conteúdo existia. Ver o campo de Inglês acima |
 | **Notação matemática** | escrita em texto corrido — `2x + y = 11`, `2/15`, `2πr` —, e não em fórmula. A folha é impressa e colada no Google Docs, e o padrão da amostra aprovada é markdown simples. Nenhuma questão depende de renderização, e nenhuma exige calculadora |
 
 **Cadernos de casa disponíveis na 2ª série:** Português, Geometria, Matemática Financeira, Biologia, História, Geografia, Filosofia, Sociologia e Química.
@@ -391,7 +391,7 @@ Nas treze, os três distratores caem pelos três caminhos do `07` §4.1 — um *
 | 6 | **Diferente da questão do caderno — conferido questão a questão contra a folha** | **conferido em 10 disciplinas; não aplicável em 2.** Quatro questões — 04, 05, 28 e 32 — foram reescritas em 22/08/2026, três por sobreposição achada em auditoria e uma por troca de conteúdo. Detalhamento em 4.1 |
 | 7 | Em N2 e N3, o caso é novo | **sim, 24 de 24.** Nenhum caso de N2 ou N3 reproduz exemplo do capítulo. Detalhamento em 4.2 |
 | 8 | Cada distrator é erro plausível, cai por motivo próprio, e as alternativas têm comprimento parecido | **sim.** 108 distratores, cada um com motivo próprio registrado na grade da seção 2. Nenhum absurdo, nenhum "todas as anteriores", nenhum par de distratores caindo pelo mesmo motivo dentro da mesma questão |
-| 9 | A soma fecha o total | **sim** — 36 questões de 1 ponto. O total da prova é 36, e não 40, pela ausência de Inglês registrada em 0 |
+| 9 | A soma fecha o total | **sim** — 36 questões de 1 ponto. O total da prova é 36, e não 40, pela falta do bloco de Inglês registrada em 0. **O conteúdo existe**: é pendência de produção, não ausência |
 | 10 | **A AT, sozinha, mede todos os essenciais do bloco** | **sim** — 28 de 28, conforme 3.4 |
 | 11 | Número de questões de interpretação da faixa, em N2 ou N3, com distrator que extrapola | **sim** — 13 de 13, conforme 3.5 |
 

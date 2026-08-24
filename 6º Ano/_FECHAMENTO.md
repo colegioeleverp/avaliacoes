@@ -1,6 +1,6 @@
 # Fechamento — 6º Ano
 
-> Gerado por `_fechar.py` em 24/08/2026 às 15:44, por **rcw-015zrgkcsyovbtsti8ps3quw**.
+> Gerado por `_fechar.py` em 24/08/2026 às 21:40, por **Claude**.
 > 3º Bimestre · Bloco 1 · impressão como `3bimestre`.
 > Este arquivo é gerado por script. Não edite à mão — rode o script de novo.
 

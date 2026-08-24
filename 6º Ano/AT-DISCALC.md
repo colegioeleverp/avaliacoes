@@ -1,16 +1,13 @@
 # Avaliação Teste — 6º Ano
 
-> **3º Bimestre · Bloco 1** · 26 questões
+> **3º Bimestre · Bloco 1** · 30 questões
 > Nome: ______________________________  Turma: ______  Data: ____/____/____
-
-> **Nota de produção — não é instrução ao aluno.** A tabela da coordenação prevê 30 questões para o 6º ano. Esta prova traz 26 porque o bloco de Inglês não foi produzido: não existe conteúdo de Inglês nesta rodada.
 
 ---
 
 > **Como responder.** Em cada questão, **a linha em negrito diz o que você precisa assinalar**. Ela está sempre no mesmo lugar: logo acima das alternativas. Marque uma alternativa por questão.
 
 ---
-
 
 ## Tabela de apoio
 
@@ -389,3 +386,59 @@ a) as satrapias deixavam de precisar de sátrapas, já que o rei governava de pe
 b) as ordens do rei chegavam com rapidez às províncias mais distantes do território  
 c) o comércio ficava proibido na estrada, reservada apenas aos mensageiros do rei  
 d) os povos conquistados eram obrigados a adotar os costumes religiosos persas
+
+---
+
+## Inglês
+
+### QUESTÃO 27
+
+Em inglês, a maior parte dos adjetivos forma o comparativo com *-er* ou com *more*. Os adjetivos *good* e *bad* não seguem nenhuma das duas regras.
+
+**As formas comparativas de *good* e *bad* são:**
+
+a) gooder — badder  
+b) more good — more bad  
+c) better — worse  
+d) worse — better
+
+---
+
+### QUESTÃO 28
+
+O adjetivo *safe* termina em *-e*. O adjetivo *busy* termina em *-y*.
+
+**Escritos na forma comparativa, os dois ficam:**
+
+a) safer — busier  
+b) more safe — busier  
+c) more safe — more busy  
+d) safer — busyer
+
+---
+
+### QUESTÃO 29
+
+Leia o texto a seguir, sobre o clube de corrida de uma escola. A situação é hipotética.
+
+> At Green Park School, three students joined the running club. Nina is faster than Beto. Beto is faster than Caio. Nina has trained for two months, Beto for six months, and Caio for one year.
+
+**A leitura correta do texto é:**
+
+a) Caio corre mais rápido que Nina, porque treina há mais tempo que ela  
+b) Beto corre mais rápido que Nina, e Caio corre mais rápido que Beto  
+c) os três correm na mesma velocidade, já que treinam no mesmo clube  
+d) Nina corre mais rápido que Caio, embora Caio treine há mais tempo
+
+---
+
+### QUESTÃO 30
+
+Os adjetivos *pretty* e *careful* têm duas sílabas cada um. Mesmo assim, um deles forma o comparativo com *-er* e o outro com *more*.
+
+**A razão disso é:**
+
+a) *pretty* é mais curto na escrita, e o número de letras decide entre *-er* e *more*  
+b) *pretty* termina em *-y*, e adjetivo de duas sílabas terminado em *-y* usa *-er*  
+c) *careful* descreve uma qualidade de pessoa, e adjetivo de pessoa sempre usa *more*  
+d) os dois aceitam as duas formas, e a escolha fica a gosto de quem está falando

@@ -1,6 +1,6 @@
 # Avaliação Teste — 9º Ano
 
-> **3º Bimestre · Bloco 1** · 31 questões
+> **3º Bimestre · Bloco 1** · 35 questões
 > Nome: ______________________________  Turma: ______  Data: ____/____/____
 
 ---
@@ -8,7 +8,6 @@
 > **Como responder.** Em cada questão, **a linha em negrito diz o que você precisa assinalar**. Ela está sempre no mesmo lugar: logo acima das alternativas. Marque uma alternativa por questão.
 
 ---
-
 
 ## Tabela de apoio
 
@@ -463,3 +462,59 @@ a) I é ácido, II é neutro, III e IV são básicos, e o pH sozinho não mede o
 b) o líquido IV é o mais perigoso dos quatro, porque é o que está mais longe de 7  
 c) o líquido I pode ser bebido sem cuidado, já que sucos de fruta são alimentos  
 d) os líquidos III e IV oferecem o mesmo risco, uma vez que os dois são básicos
+
+---
+
+## Inglês
+
+### QUESTÃO 32
+
+Na escala de probabilidade do capítulo, os advérbios marcam graus diferentes de certeza.
+
+**Do mais certo para o menos certo, a ordem é:**
+
+a) certainly — probably — possibly — unlikely  
+b) probably — certainly — possibly — unlikely  
+c) unlikely — possibly — probably — certainly  
+d) certainly — possibly — probably — unlikely
+
+---
+
+### QUESTÃO 33
+
+As frases *He must be sleeping* e *He must call his mother* usam o mesmo modal, mas não dizem a mesma coisa.
+
+**O que separa as duas é que:**
+
+a) a primeira é uma obrigação, e a segunda é uma conclusão tirada de uma evidência  
+b) a primeira é uma conclusão tirada de uma evidência, e a segunda é uma obrigação  
+c) as duas são conclusões, e a diferença entre elas é só o tempo do verbo  
+d) as duas são obrigações, e a primeira é apenas mais educada que a segunda
+
+---
+
+### QUESTÃO 34
+
+Leia a cena a seguir. A situação é hipotética.
+
+> Lucas is not answering his phone. His car is parked in front of his house. The lights in the living room are on, and the television is on too. Yesterday he told his friends he would travel to the beach this weekend.
+
+**A leitura correta da cena é:**
+
+a) Lucas não pode estar em casa, porque avisou que viajaria para a praia  
+b) Lucas deve estar viajando, e alguém deixou as luzes e a televisão ligadas  
+c) as evidências não permitem concluir nada, porque uma contradiz a outra  
+d) as evidências indicam que Lucas deve estar em casa, apesar do que ele disse
+
+---
+
+### QUESTÃO 35
+
+A frase *She must reading in her room* está errada.
+
+**O que falta nela é:**
+
+a) a terminação *-ing* no verbo, que precisa acompanhar o modal  
+b) o sujeito, que precisa vir depois do modal nas frases de dedução  
+c) o verbo *be* entre o modal e o verbo terminado em *-ing*  
+d) a troca de *must* por *can't*, porque *must* não aceita *-ing*

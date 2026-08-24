@@ -2,13 +2,14 @@
 
 > Para o professor e a coordenação. Não vai na folha do aluno.
 > As provas estão nesta mesma pasta. A visão por conteúdo, em linguagem corrida, está em `_MAPA-<Disciplina>.md`.
-> **3º Bimestre · Bloco 1.** Produzido: as quatro Avaliações de Conteúdo do ano — Português, Matemática EF1, Ciências e Estudos Sociais —, **40 questões, 40,0 pontos**, e um mapa para cada.
+> **3º Bimestre · Bloco 1.** Produzido: as cinco Avaliações de Conteúdo do ano — Português, Matemática EF1, Ciências, Estudos Sociais e **Inglês** —, **50 questões, 50,0 pontos**, e um mapa para cada.
 
 ## 0. Escopo desta rodada
 
 | Item | Situação |
 |---|---|
 | **Avaliação Teste** | **não existe no 4º ano.** A tabela da coordenação começa no 6º ano ([`07`](../../METODOLOGIA/07-AVALIACAO.md) §3.3.1). No Ensino Fundamental 1 o instrumento é a AC, uma por disciplina. Não há `AT.md` nesta pasta, e o `_validar-at.py` não se aplica |
+| **Inglês** | ⚠️ **produzido em 24/08/2026, sob suposição não ratificada.** O conteúdo e o caderno de Inglês do 4º ano existem no Drive, na pasta `Inglês - Ok`, desde **14/08/2026** — e a rodada inteira correu na premissa falsa de que não existiam. Corrigida a premissa, a AC1 de Inglês foi produzida com as quatro versões adaptadas. **O que não está ratificado é se Inglês entra na AC do EF1**: essa é a primeira pergunta do §0 do [`_BRIEFING-TEMPLATE.md`](../_BRIEFING-TEMPLATE.md) — *quais disciplinas fazem AC nesta série* — e ela **só se responde na coordenação**. Produziu-se sob a suposição de que entra, e a suposição fica declarada aqui. **Se a coordenação disser que não, as cinco folhas de Inglês saem da pasta e nada mais precisa mudar**: a numeração das outras quatro provas não depende delas |
 | **Disciplinas** | as quatro que o caderno cobre no 4º ano: Português, Matemática EF1, Ciências e Estudos Sociais. Todas as quatro têm caderno de casa do mesmo bloco, então a **checagem #6 vale para as quatro** |
 | **Volume** | **10 questões · 10,0 pontos** por disciplina, no formato do EF1 (`07` §3.3.1) |
 | **Escada de pesos** | 0,5 objetiva · 1,0 verdadeiro ou falso, associação, resposta curta ou explicação breve · 1,5 interpretação com subitens · 2,0 a produção final. **A composição é a mesma nas quatro provas**: `1,0 · 0,5 · 1,5 · 1,0 · 1,0 · 0,5 · 0,5 · 1,0 · 1,0 · 2,0` |
@@ -181,6 +182,35 @@ Distribuição adotada: **5 · 5**. **Razão registrada:** o texto-base é uma f
 
 **Fora da prova:** a chegada dos portugueses e o começo da colonização · a resistência (fugas, quilombos, preservação de costumes) · a herança que muda no Brasil sem trocar de origem · as misturas em cada região. **Quatro assuntos**, três deles treinados no caderno. **A resistência continua fora dos dois instrumentos** — segue sendo o ponto cego do bloco, registrado em `_MAPA-Estudos Sociais.md`. Ela foi considerada para a questão 6 e recusada: o caderno não a treina, e medir o que não foi praticado é o defeito mais grave que o `07` §6.4 nomeia.
 
+### 1.5 Inglês — 1 capítulo
+
+Capítulo do bloco: **1 — *Can* e *can't*: habilidades, e o contraste com *but***. A carga em aulas **não vem informada na fonte do Drive**; como o bloco tem um capítulo só, as 10 questões vão todas para ele e nenhuma proporção precisou ser calculada. Nada foi estimado.
+
+**Texto-base:** *The talent show* — quatro linhas em inglês, cena declarada como imaginada na própria folha. Ancora Q01 a Q03. Foi escrito para esta prova: o capítulo usa o super-herói *Captain Flash*, que é o texto do caderno.
+
+| | Essencial | Cap |
+|---|---|---:|
+| I1 | *Can* e *can't* para dizer o que se sabe e o que não se sabe fazer — inclusive a forma invariável do modal | 1 |
+| I2 | *But* ligando o que se sabe ao que não se sabe fazer | 1 |
+
+| Q | Bloco | Cap | Essencial | Conteúdo | Nível | Formato | Rubrica | Pontos |
+|---|---|---:|:---:|---|---|---|---|---:|
+| 1 | âncora | 1 | I1 | Uma habilidade de cada personagem, lida no texto | N1 | RC | A2 | 1,0 |
+| 2 | âncora | 1 | I1 | O que o texto permite e o que ele não permite concluir | N2 | OBJ | A1 | 0,5 |
+| 3 | âncora | 1 | I1 · I2 | O que Bruno não sabe fazer · uma frase com *but* · por que o bolo não é do Theo | N2 | ANA | A5 | 1,5 |
+| 4 | fechado | 1 | I1 | *My sister cans dance* e *He can swims very well* | N2 | ERR | A6 | 1,0 |
+| 5 | fechado | 1 | — | *He plays soccer* diante de *He can play soccer* | **N3** | EXP | A4 | 1,0 |
+| 6 | fechado | 1 | — | Quatro verbos de habilidade e os significados deles | N1 | ASS | A8 | 0,5 |
+| 7 | fechado | 1 | I2 | A frase que usa *but* para contrastar duas habilidades | N1 | OBJ | A1 | 0,5 |
+| 8 | aplicação | 1 | I1 | Quatro frases com *can* e *can't* para verter ao português | N1 | RC | A2 | 1,0 |
+| 9 | aplicação | 1 | I1 | Duas frases montadas a partir de palavras soltas | N1 | ORD | A11 | 1,0 |
+| 10 | produção | 1 | I1 · I2 | Texto de quatro a seis frases sobre alguém da família, com *can*, *can't* e *but* | **N3** | PROD | A9 | 2,0 |
+| | | | | | | | **Total** | **10,0** |
+
+**A forma invariável do modal entrou no essencial, e não como detalhe.** O capítulo abre um quadro próprio para dizer que *can* não muda com *he/she/it* e que o verbo seguinte fica na forma básica — e **nenhuma das sete atividades do caderno cobra isso**. A questão 4 é a única medida desse conteúdo em toda a prova.
+
+**Fora da prova:** o vocabulário de habilidades além dos quatro verbos da questão 6 — *run*, *jump*, *ride a bike*, *climb*, *sing*, *dance*, *read*, *write*, *speak English*. São reconhecidos no caderno e amostrados aqui em quatro itens. **Um assunto**, registrado no `_MAPA-Inglês.md`.
+
 ---
 
 ## 2. Gabarito e grade
@@ -251,6 +281,21 @@ Nas questões de verdadeiro ou falso o total se reparte **igualmente entre as ci
 
 ---
 
+### 2.5 Inglês
+
+| Q | Formato | Rubrica | Resposta esperada | O que decide a nota |
+|---|---|---|---|---|
+| 1 | RC | A2 | Bruno: **toca violão**. Lia: **canta**. Theo: **dança** — ou **desenha os cartazes** | 0,33 por item. Aceita-se qualquer habilidade que o texto atribua à pessoa certa. **Não** se aceita habilidade trocada de dono, que é o erro que a questão procura |
+| 2 | OBJ | A1 | **b) Theo desenha os cartazes da apresentação.** | **a** e **c** extrapolam: o texto diz quem sabe e quem não sabe fazer cada coisa, e nunca compara quem faz melhor · **d** contraria o texto, que diz que Theo não cozinha e que quem faz o bolo é a mãe do Bruno |
+| 3 | ANA | A5 | (a) Bruno **não sabe cantar**. (b) *Lia can sing, but she can't play the guitar* — aceita-se qualquer ordem que mantenha o contraste e o *but* entre as duas partes. (c) porque **Theo não sabe cozinhar** (*Theo can't cook*), e por isso quem faz o bolo é a mãe do Bruno | 0,5 por item. O item (b) só conta com o *but* **e** com a segunda parte na negativa: *Lia can sing but she can play* não conta. O item (c) exige a ligação entre as duas frases do texto, e não só repetir que a mãe faz o bolo |
+| 4 | ERR | A6 | (a) **My sister can dance** — *can* não recebe o **-s** de terceira pessoa. (b) **He can swim very well** — o verbo depois de *can* fica na forma básica, sem **-s** | 0,5 por frase. Só conta se a frase for reescrita inteira e correta. Marcar o erro sem reescrever vale metade do item |
+| 5 | EXP | A4 | *He plays soccer* diz que ele **joga futebol como rotina**, que é algo que ele faz. *He can play soccer* diz que ele **sabe jogar**, que é uma habilidade que ele tem — e pode ter sem jogar nunca | O ponto está em separar **rotina** de **habilidade**. Responder que "uma está no presente e a outra não" não conta: as duas estão. Aceita-se a explicação com outras palavras, desde que os dois sentidos apareçam |
+| 6 | ASS | A8 | climb → **escalar** · skate → **andar de skate** · paint → **pintar** · take photos → **tirar fotos** | 0,125 por par |
+| 7 | OBJ | A1 | **b) I can swim but I can't dive.** | **a** põe *can* nos dois lados e não contrasta nada · **c** põe *can't* nos dois lados, e também não contrasta · **d** tira o modal das duas partes, e a frase deixa de falar de habilidade. As três mostram que o aluno não viu que o contraste depende de **uma afirmativa e uma negativa** |
+| 8 | RC | A2 | (a) **Ela sabe pintar.** (b) **Eles não sabem andar de skate.** (c) **Ele sabe usar computador.** (d) **Eu não sei tocar piano.** | 0,25 por item. Aceita-se *consegue* no lugar de *sabe*. **Não** se aceita item que perca a negação em (b) e (d) |
+| 9 | ORD | A11 | (a) **Theo can draw the posters.** (b) **Lia can't play the guitar.** | 0,5 por frase. A frase precisa sair completa e com o ponto final. Ordem interna errada não recebe crédito parcial |
+| 10 | PROD | A9 | Texto de 4 a 6 frases sobre alguém da família, com pelo menos **duas frases com *can***, **uma com *can't*** e **uma com *but*** | 1,2 pelos três requisitos — 0,4 cada — e 0,8 pela coerência: as frases precisam falar da mesma pessoa e não se contradizer. Frase que repete a anterior trocando só o verbo conta uma vez |
+
 ## 3. Conferência da matriz e das 12 checagens
 
 ### 3.1 Bandas, blocos e distribuição, por disciplina
@@ -263,9 +308,10 @@ Bandas do EF1 no formato de 10 questões (`07` §3.3.1): **N1 35–45% · N2 20�
 | Matemática EF1 | 10 | 2 caps · 7+5 = 12 | 6·4 | 3,5 = **35%** ok | 2,5 = **25%** ok | 4,0 = **40%** ok | 10,0 | 3 de 3 |
 | Ciências | 10 | 2 caps · 5+4 = 9 | 6·4 | 3,5 = **35%** ok | 2,5 = **25%** ok | 4,0 = **40%** ok | 10,0 | 4 de 4 |
 | Estudos Sociais | 10 | 2 caps · 5+4 = 9 | 5·5 | 4,0 = **40%** ok | 2,5 = **25%** ok | 3,5 = **35%** ok | 10,0 | 4 de 4 |
-| **As quatro provas** | **40** | — | — | **15,0 = 37,5%** ok | **10,5 = 26,3%** ok | **14,5 = 36,3%** ok | **40,0** | **16 de 16** |
+| Inglês | 10 | 1 cap · carga não informada | 10 — capítulo único | 4,0 = **40%** ok | 3,0 = **30%** ok | 3,0 = **30%** ok | 10,0 | 2 de 2 |
+| **As cinco provas** | **50** | — | — | **19,0 = 38,0%** ok | **13,5 = 27,0%** ok | **17,5 = 35,0%** ok | **50,0** | **18 de 18** |
 
-**Nenhum desvio de banda.** Cada prova é um instrumento inteiro de 10,0 pontos, e as quatro fecham dentro das três faixas isoladamente e em conjunto.
+**Nenhum desvio de banda.** Cada prova é um instrumento inteiro de 10,0 pontos, e as cinco fecham dentro das três faixas isoladamente e em conjunto.
 
 **Os quatro blocos, em pontos** — idênticos nas quatro provas:
 
@@ -280,22 +326,22 @@ O excedente de 0,5 no reconhecimento fechado é **aritmética do formato, e não
 
 **As distribuições por capítulo que a proporção não decidiu sozinha** estão calculadas em 1.1 e 1.4: Português (3·2·2·3 em vez de 3·1·3·3) e Estudos Sociais (5·5 em vez de 6·4). Matemática e Ciências fecham exatamente na conta.
 
-**Distribuição da chave nas 12 objetivas:** `a` 3 · `b` 3 · `c` 3 · `d` 3 — **25% cada**. Nenhuma prova repete letra entre as suas três objetivas: Português `c · b · d` · Matemática `c · a · b` · Ciências `d · a · b` · Estudos Sociais `a · c · d` — **a chave de Matemática foi preservada na troca de 21/08**: a Q07 nova responde `b`, como a antiga. A regra do `07` §4.2 vale formalmente para a AT, mas foi aplicada aqui porque o vício que ela corrige — a correta indo para `a` — é do produtor, não do instrumento. A conferência do comprimento também foi feita: em nenhuma das 12 a alternativa correta é a mais longa por folga.
+**Distribuição da chave nas 14 objetivas:** `a` 3 · `b` 5 · `c` 3 · `d` 3. As duas objetivas de Inglês caem as duas em **b** — a distribuição continua sem letra acima de 36%, e nenhuma prova repete letra entre as suas duas objetivas. Nenhuma prova repete letra entre as suas três objetivas: Português `c · b · d` · Matemática `c · a · b` · Ciências `d · a · b` · Estudos Sociais `a · c · d` — **a chave de Matemática foi preservada na troca de 21/08**: a Q07 nova responde `b`, como a antiga. A regra do `07` §4.2 vale formalmente para a AT, mas foi aplicada aqui porque o vício que ela corrige — a correta indo para `a` — é do produtor, não do instrumento. A conferência do comprimento também foi feita: em nenhuma das 12 a alternativa correta é a mais longa por folga.
 
 ### 3.2 As 12 checagens do [`07`](../../METODOLOGIA/07-AVALIACAO.md) §7
 
 | # | Verificação | Resultado |
 |---|---|---|
-| 1 | Matriz antes dos enunciados | **sim**, nas quatro disciplinas. O mapa foi escrito primeiro, a matriz depois e os enunciados por último — e, nesta rodada de ampliação, a escada de pesos e a repartição em blocos foram fixadas antes de qualquer questão nova ser escrita |
-| 2 | Bandas N1/N2/N3 | **sim nas quatro provas** e no conjunto (37,5 / 26,3 / 36,3). Detalhe em 3.1 |
-| 3 | Distribuição por capítulo e registro do que ficou fora | **sim.** As quatro distribuições estão calculadas em 1.1–1.4, e cada seção lista os assuntos deixados de fora. Os dois desvios — Português e Estudos Sociais — estão registrados com a razão |
-| 4 | Respondível só com a folha | **40 de 40.** Nada exige consulta, internet, outra pessoa ou material além de lápis, caneta, régua e lápis de cor. Nenhuma questão pede observação, saída de casa ou experiência. Nenhuma exige calculadora |
-| 5 | Fonte impressa | **sim.** Os três textos-base estão impressos na folha, antes da primeira questão, com o rótulo *Leia o texto para responder às questões 01 a 03*. As citações das demais questões — frases a diagnosticar, situações a classificar — também vêm impressas |
+| 1 | Matriz antes dos enunciados | **sim**, nas cinco disciplinas. O mapa foi escrito primeiro, a matriz depois e os enunciados por último — e, nesta rodada de ampliação, a escada de pesos e a repartição em blocos foram fixadas antes de qualquer questão nova ser escrita |
+| 2 | Bandas N1/N2/N3 | **sim nas cinco provas** e no conjunto (38,0 / 27,0 / 35,0). Detalhe em 3.1 |
+| 3 | Distribuição por capítulo e registro do que ficou fora | **sim.** As cinco distribuições estão calculadas em 1.1–1.5, e cada seção lista os assuntos deixados de fora. Os dois desvios — Português e Estudos Sociais — estão registrados com a razão |
+| 4 | Respondível só com a folha | **50 de 50.** Nada exige consulta, internet, outra pessoa ou material além de lápis, caneta, régua e lápis de cor. Nenhuma questão pede observação, saída de casa ou experiência. Nenhuma exige calculadora |
+| 5 | Fonte impressa | **sim.** Os quatro textos-base estão impressos na folha, antes da primeira questão, com o rótulo *Leia o texto para responder às questões 01 a 03*. As citações das demais questões — frases a diagnosticar, situações a classificar — também vêm impressas |
 | 6 | **Diferente da questão do caderno** — conferido questão a questão | detalhado em 3.3. **As quatro disciplinas têm caderno neste ano**, então a checagem se aplica às 40 questões |
 | 7 | Caso novo em N2 e N3 | **sim.** Detalhado em 3.4 |
 | 8 | **AT:** qualidade do distrator | **não se aplica** — o 4º ano não faz prova objetiva. Ainda assim, as 12 objetivas foram escritas com distrator honesto: cada um cai por motivo próprio, e nas três questões de leitura (Português Q02, Ciências Q02, Estudos Sociais Q02) um dos distratores **extrapola o que o texto permite concluir**, um **acrescenta** informação que ele não traz e um **achata** a diferença que ele apresenta, como o `07` §4.1 prescreve para a AT |
-| 9 | Soma dos valores | **sim.** `1,0+0,5+1,5+1,0+1,0+0,5+0,5+1,0+1,0+2,0 = 10,0` nas quatro provas — a composição é a mesma |
-| 10 | **Mede sozinha todos os essenciais** | **sim.** 17 essenciais declarados, 17 medidos, e agora vários deles em mais de um degrau. Como o 4º ano não tem AT, cada prova é o único instrumento de nota da sua disciplina |
+| 9 | Soma dos valores | **sim.** `1,0+0,5+1,5+1,0+1,0+0,5+0,5+1,0+1,0+2,0 = 10,0` nas cinco provas — a composição é a mesma, e a de Inglês foi montada para não abrir exceção |
+| 10 | **Mede sozinha todos os essenciais** | **sim.** 19 essenciais declarados, 19 medidos, e agora vários deles em mais de um degrau. Como o 4º ano não tem AT, cada prova é o único instrumento de nota da sua disciplina |
 | 11 | **AT:** questões de interpretação da faixa | **não se aplica.** Ainda assim, as três provas com texto-base trazem, cada uma, uma objetiva de leitura com distrator que extrapola o suporte e uma questão de interpretação com subitens |
 | 12 | **AT:** distribuição da chave e comprimento da correta | **não se aplica**, mas foi medida assim mesmo. Resultado em 3.1: 25% por letra e nenhuma correta mais longa por folga |
 
@@ -397,6 +443,15 @@ Regidas por [`METODOLOGIA/08-ADAPTACAO.md`](../../METODOLOGIA/08-ADAPTACAO.md). 
 
 **Texto-base só em Ciências**, onde três questões o usam (`08` §4.4). Português e Estudos Sociais perderam o deles: uma questão sozinha dependia do texto, e ela passou a trazer a cena dentro de si.
 
+| **Inglês** | | | | | |
+| 1 | ASS | N1 | I1 | Quatro verbos de habilidade e os significados deles | 2,0 |
+| 2 | COMP | N1 | I1 | Quatro lacunas com *can* ou *can't*, tiradas do texto | 2,0 |
+| 3 | ORD | N2 | I1 | Duas frases montadas a partir de palavras soltas | 2,0 |
+| 4 | ERR | **N3** | I1 | *cans dance* e *can swims* — o **-s** posto onde não entra | 2,0 |
+| 5 | PROD | **N3** | I1 | Duas frases próprias, uma com *can* e uma com *can't* | 2,0 |
+
+**Inglês fecha em `N1 · N1 · N2 · N3 · N3`**, que é a composição das outras quatro: 4,0 no degrau de baixo, 2,0 no do meio e 4,0 no de cima. O formato também é o que a coordenação pediu para a prova adaptada — **duas questões abertas e três de ligar, completar e ordenar**.
+
 ### 4.2 Gabaritos e grade de correção
 
 | Q | Rubrica | Resposta esperada | O que decide a nota |
@@ -425,6 +480,13 @@ Regidas por [`METODOLOGIA/08-ADAPTACAO.md`](../../METODOLOGIA/08-ADAPTACAO.md). 
 | 3 | A4 | (1) que a cultura brasileira se formou do **encontro**: heranças de povos diferentes aparecem juntas no mesmo lugar. (2) a cena diz o que as pessoas comem e acompanham, **não** o que cada coisa significa para elas nem qual chegou primeiro — nada ali permite pôr uma acima das outras | 0,8 em (1) · 1,2 em (2). **Eleger uma herança como "a mais brasileira" perde os 1,2 inteiros**, ainda que (1) esteja certo |
 | 4 | A10 | a) **indígenas** · b) **portugueses** · c) **africanos** · d) **imigrantes** | 0,5 por lacuna |
 | 5 | A11 | Nas quatro linhas, nesta ordem: **3 · 1 · 4 · 2** — a sequência é decide sair · compra as passagens e embarca · desembarca · começa a trabalhar | sequência inteira 2,0 · uma troca entre vizinhos 1,2 · duas ou mais 0 |
+
+| **Inglês** | | | |
+| 1 | A8 | swim → **nadar** · dance → **dançar** · draw → **desenhar** · cook → **cozinhar** | 0,5 por par |
+| 2 | A10 | a) **can** · b) **can't** · c) **can** · d) **can** | 0,5 por lacuna. As quatro saem do texto impresso |
+| 3 | A11 | a) **Theo can dance.** b) **Lia can't play the guitar.** | 1,0 por frase. Precisa sair completa e com o ponto final |
+| 4 | A6 | a) **My sister can dance** — *can* não recebe o **-s**. b) **He can swim very well** — o verbo depois de *can* fica na forma básica | 1,0 por frase, e só com a frase reescrita inteira |
+| 5 | A9 | Duas frases próprias e corretas, uma com *can* e outra com *can't* | 1,0 por frase. A segunda só conta na negativa. Duas frases iguais trocando o verbo contam como uma |
 
 ### 4.3 Gabarito próprio — Matemática `DISCALC`
 
@@ -471,6 +533,8 @@ Os números mudaram, então quatro respostas mudam. Só a questão 2 segue o gab
 
 | Data | O que mudou |
 |---|---|
+| 24/08/2026 | **Os campos de resposta da associação e da questão de completar estavam pequenos demais, e a causa era do gerador.** Numa folha de Inglês do 5º ano o professor notou que o parêntese em que o aluno escreve o número saía praticamente fechado. O `_ac-para-pdf.py` já tratava disso no caminho do verdadeiro-ou-falso numerado — usava `(&nbsp;&nbsp;&nbsp;&nbsp;)` —, mas **não aplicava o mesmo nas linhas que começam com `( )`**, que é o formato da coluna B. Corrigido no gerador, e a largura passou a 7 espaços nos quatro caminhos que produzem o campo. **A correção alcança as 41 provas do EF1 que usam esse formato**, e não só as de Inglês. Na AC1 de Inglês dos dois anos, a associação deixou de ser tabela de ligar e passou ao padrão da casa — coluna A numerada e coluna B com parêntese —, e as lacunas de completar foram de 6 para 15 caracteres. |
+| 24/08/2026 | **A AC1 de Inglês entrou, com as quatro versões adaptadas.** A rodada correu na premissa de que não havia conteúdo de Inglês; a premissa era falsa — a pasta `Inglês - Ok` está no Drive desde **14/08/2026**, com capítulo-fonte e caderno de atividades do 4º ano. Produzidas a prova regular de 10 questões e as quatro adaptadas de 5, matriz em 1.5, gabarito em 2.5 e mapa próprio. As bandas fecham em **40 · 30 · 30**, dentro das três faixas. ⚠️ **A produção assumiu que Inglês faz AC no EF1, e isso não está ratificado** — é a primeira pergunta do §0 do briefing, que só a coordenação responde. A suposição está declarada na seção 0, e desfazê-la custa apagar cinco arquivos: nada na numeração das outras quatro provas depende deles. Fica registrado também que **o título do caderno de Inglês do 4º ano no Drive está trocado com o do 5º** — o arquivo do 4º se chama *COMPARING THINGS* e traz `can`/`can't`; o conteúdo está certo, o nome não. |
 | 20/08/2026 | **Versão inicial — as quatro AC do 4º ano**, com 5 questões cada. 20 questões, 40,0 pontos, 4 mapas. |
 | 20/08/2026 | **Quatro casos trocados antes de fechar, pela checagem #7.** Os primeiros rascunhos reaproveitavam exemplos do próprio capítulo: a comparação 1/2 × 1/8 de Matemática (trocada por 1/6, 1/9 e 1/3), a soma em nonos (trocada por sétimos), a jarra de 600 mL (as leituras passaram a 400 e 500 mL) e o capim retirado do barranco em Ciências, substituído pelo gramado da descida do pátio. Em Português, o par Marina/Júlia virou Beatriz/Helena e o time virou coral. Em Estudos Sociais, a família Salim virou Farid. |
 | 20/08/2026 | **Linha de Nome, Turma e Data retirada do cabeçalho.** O cabeçalho da AC do EF1 mantém bimestre, bloco, valor e a declaração de desconto ortográfico. |

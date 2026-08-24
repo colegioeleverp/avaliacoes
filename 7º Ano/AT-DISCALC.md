@@ -1,6 +1,6 @@
 # Avaliação Teste — 7º Ano
 
-> **3º Bimestre · Bloco 1** · 26 questões
+> **3º Bimestre · Bloco 1** · 30 questões
 > Nome: ______________________________  Turma: ______  Data: ____/____/____
 
 ---
@@ -8,7 +8,6 @@
 > **Como responder.** Em cada questão, **a linha em negrito diz o que você precisa assinalar**. Ela está sempre no mesmo lugar: logo acima das alternativas. Marque uma alternativa por questão.
 
 ---
-
 
 ## Tabela de apoio
 
@@ -373,3 +372,59 @@ a) o Brasil deixou de manter ferrovias em operação para o transporte de carga
 b) as hidrovias brasileiras deixaram de operar depois dos anos 1950  
 c) uma greve de caminhoneiros interrompe o abastecimento em várias regiões  
 d) o transporte de cargas no Brasil é o mais barato entre todos os modais
+
+---
+
+## Inglês
+
+### QUESTÃO 27
+
+Em inglês, *for* e *since* aparecem os dois com o Present Perfect, mas não são intercambiáveis.
+
+**A diferença entre os dois é que:**
+
+a) *for* marca um período de tempo, e *since* marca o ponto em que ele começou  
+b) *for* marca o ponto em que o período começou, e *since* marca a duração dele  
+c) *for* é usado para falar do passado, e *since* é usado para falar do presente  
+d) *for* aparece em frase afirmativa, e *since* aparece em frase negativa
+
+---
+
+### QUESTÃO 28
+
+Leia as duas frases: *I have lived in Recife for six years* e *I lived in Recife for six years*. As duas costumam ser traduzidas do mesmo jeito, mas não dizem a mesma coisa.
+
+**A diferença entre elas é que:**
+
+a) a primeira diz que a pessoa não mora mais em Recife, e a segunda, que ainda mora  
+b) a primeira conta os seis anos a partir de hoje, e a segunda, a partir do nascimento  
+c) as duas dizem a mesma coisa, e a escolha entre elas é de estilo de quem escreve  
+d) a primeira diz que a pessoa ainda mora em Recife, e a segunda, que não mora mais
+
+---
+
+### QUESTÃO 29
+
+Leia o texto a seguir, sobre a vida de trabalho de um rapaz. A situação é hipotética.
+
+> Pedro has worked at the same bookshop since 2019. He has studied English for three years, and he has been the shop's manager since last March. He worked as a waiter from 2015 to 2018.
+
+**A leitura correta do texto é:**
+
+a) Pedro trabalha na livraria e como garçom ao mesmo tempo, desde 2015  
+b) Pedro estuda inglês desde 2015, e foi isso que o fez virar gerente da loja  
+c) Pedro trabalha no mesmo lugar desde 2019 e já não trabalha como garçom  
+d) Pedro é gerente da livraria desde 2019, quando começou a trabalhar lá
+
+---
+
+### QUESTÃO 30
+
+O verbo *write* é irregular.
+
+**A frase que usa o Present Perfect corretamente é:**
+
+a) She has written three books since 2020  
+b) She has wrote three books since 2020  
+c) She have written three books since 2020  
+d) She has write three books since 2020

@@ -18,9 +18,9 @@
 | Ciências | `Ciências/8º Ano/bl1_Ciencias_8ano.md` | — |
 | Estudos Sociais | `Estudos Sociais/8º Ano/bl1_EstudosSociais_8ano.md` | — |
 | Química | — | **Não existe no 6º–8º**, como a própria tabela da coordenação indica. Nada produzido |
-| **Inglês** | — | ❌ **Não existe conteúdo.** As 4 questões previstas **não foram produzidas** e nada foi inventado no lugar delas |
+| **Inglês** | pasta `Inglês - Ok`, no Drive | ✅ **Produzido em 24/08/2026 — premissa falsa corrigida.** O registro anterior dizia que não existia conteúdo de Inglês. Existe, e desde antes da rodada: a pasta foi criada no Drive em **14/08/2026**, cinco dias antes da decisão de 19/08 que declarou a ausência definitiva. **Mesma classe de erro da premissa de Operações e Física**, corrigida em 22/08. As 4 questões previstas foram produzidas: Q27–Q30. ⚠️ A **carga horária do capítulo não vem informada na fonte**; como o bloco tem um capítulo só, a distribuição não dependeu dela e nada foi estimado |
 
-**O total da prova não fecha 30.** São **26 questões produzíveis** contra as 30 da tabela da coordenação; a diferença são exatamente as 4 de Inglês. Isso é esperado nesta rodada e **não foi compensado** com questões extras em outra disciplina (briefing §3).
+**O total da prova fecha 30, desde 24/08/2026.** Até essa data eram **26 questões produzíveis** contra as 30 da tabela da coordenação, e a diferença eram exatamente as 4 de Inglês. Com o bloco produzido, a prova passou a ter o total previsto. O registro do que era esperado nesta rodada e **não foi compensado** com questões extras em outra disciplina (briefing §3).
 
 **Corrigido em 22/08/2026.** Até 21/08 este registro trazia uma categoria de *disciplinas sem caderno de casa correspondente* — Operações e Física — em que a checagem #6 não se aplicaria. **A premissa era falsa:** os dois cadernos existem no Drive, no padrão `<DISCIPLINA>_<ANO>_3BIMESTRE_Bloco 1_CADERNO DE ATIVIDADE`. O de Operações do 8º ano tem 50 atividades; o de Física é o documento `FÍSICA_8ºANO_3BIMESTRE_Bloco 1_CADERNO DE ATIVIDADE`, com 19 atividades, lido por inteiro nesta data. A checagem #6 passou a existir para os dois blocos e está na seção 3.4. Os `_MAPA` respectivos, que repetiam a mesma premissa, foram corrigidos junto.
 
@@ -28,7 +28,7 @@
 
 ## 1. Matriz de especificação
 
-Escrita **antes** dos enunciados. Uma linha por questão. Cada questão vale 1 ponto; total 26.
+Escrita **antes** dos enunciados. Uma linha por questão. Cada questão vale 1 ponto; total 30.
 Distribuição por capítulo proporcional ao número de aulas ([`07`](../../METODOLOGIA/07-AVALIACAO.md) §3.3); os conteúdos essenciais são declarados nos `_MAPA` e reproduzidos aqui.
 
 ### 1.1 Português — 5 questões · Q1 a Q5
@@ -154,7 +154,23 @@ Capítulos e carga: **1 — Independências no Haiti e na América Espanhola** (
 | 25 | 3 | E4 | Voto censitário — de que dependia votar | N1 | OBJ | A1 |
 | 26 | 3 | E5 | Proprietários de província em 1838 — que medida os atendia | N2 | OBJ | A1 |
 
-### 1.7 O que ficou de fora, e por quê
+### 1.7 Inglês — 4 questões · Q27 a Q30
+
+Capítulo do bloco: **1 — Relative clauses: *who* e *which***. A carga em aulas não vem informada na fonte; capítulo único, e as 4 questões vão todas para ele.
+
+| | Essencial | Cap |
+|---|---|---:|
+| E1 | A oração relativa restritiva — o que ela delimita, e o que a vírgula muda | 1 |
+| E2 | O pronome relativo como sujeito ou como objeto, e quando ele pode sair da frase | 1 |
+
+| Q | Cap | Essencial | Conteúdo | Nível | Formato | Rubrica |
+|---|---:|:---:|---|---|---|---|
+| 27 | 1 | — | O alcance de *that* diante de *who* e de *which* | N1 | OBJ | A1 |
+| 28 | 1 | E1 | O mesmo par de frases com e sem vírgulas | N2 | OBJ | A1 |
+| 29 | 1 | — | Texto impresso com três orações relativas, uma delas entre vírgulas | **N3** | **INT** | A1 |
+| 30 | 1 | E2 | A condição que permite omitir o pronome relativo | N2 | OBJ | A1 |
+
+### 1.8 O que ficou de fora, e por quê
 
 Registrado em detalhe nos `_MAPA`, na seção *Cobertura do bloco*. Resumo:
 
@@ -165,6 +181,7 @@ Registrado em detalhe nos `_MAPA`, na seção *Cobertura do bloco*. Resumo:
 | Geometria e Física | 10 | 4 | *(Geometria)* as três transformações uma a uma · composição e ordem · tesselações · *(Física)* propagação do som nos meios · luz, sombra e fontes · reflexão, refração e cor |
 | Matemática Financeira | 4 | 2 | espaço amostral e construção em etapas · eventos exclusivos e complementares |
 | Ciências | 9 | 5 | reprodução sexuada como assunto próprio · estratégias reprodutivas · polinização · desenvolvimento do embrião |
+| Inglês | 6 | 4 | *whose*, *where* e *when* como pronomes relativos · o vocabulário de descrição de pessoas e coisas |
 | Estudos Sociais | 12 | 5 | criollos e peninsulares · Bolívar e San Martín · fragmentação e caudilhismo · transferência da Corte · Revolução do Porto · Primeiro Reinado · revoltas regenciais uma a uma |
 
 **Dois casos merecem atenção da coordenação**, e estão nos `_MAPA`:
@@ -187,7 +204,11 @@ Registrado em detalhe nos `_MAPA`, na seção *Cobertura do bloco*. Resumo:
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **Letra** | b | d | c | a | d | b | c | d | d | a | b | c | a |
 
-Distribuição das letras: **a** 7 · **b** 6 · **c** 7 · **d** 6.
+| Q | 27 | 28 | 29 | 30 |
+|---|:-:|:-:|:-:|:-:|
+| **Letra** | b | c | d | b |
+
+Distribuição das letras: **a** 7 · **b** 8 · **c** 8 · **d** 7. **Atualizada em 24/08/2026** com a entrada do bloco de Inglês, cuja chave foi escolhida para reequilibrar as quatro letras, que estavam em 7·6·7·6.
 
 ### Português
 
@@ -245,6 +266,15 @@ Distribuição das letras: **a** 7 · **b** 6 · **c** 7 · **d** 6.
 | 25 | **c** | **a** troca o critério econômico por um critério de instrução · **b** troca o critério econômico por um critério territorial · **d** atribui ao Poder Moderador uma função que ele não tinha: ele agia sobre os demais poderes, não sobre quem podia votar |
 | 26 | **a** | **b** vai na direção contrária: a Constituição de 1824 centralizou · **c** oferece exatamente a separação que o grupo recusa · **d** atribui ao Golpe da Maioridade um efeito que ele não teve — ele encerrou as Regências em vez de entregar às províncias a escolha do regente |
 
+### Inglês
+
+| Q | Letra | Por que cada distrator cai |
+|---|:---:|---|
+| 27 | **b** | **a** e **c** restringem *that* a um dos dois lados, pessoas ou coisas — são erros simétricos, cada um apagando metade do alcance do pronome, e não caem pelo mesmo motivo · **d** troca o alcance de *that* pelo de *where* e *when*, que a mesma tabela do capítulo traz duas linhas abaixo. É o distrator que discrimina, porque exige ler a tabela inteira e não só a linha do meio |
+| 28 | **c** | **a** **inverte o efeito das vírgulas**: dá à forma sem vírgula o sentido de acréscimo e à forma com vírgula o de delimitação — é o distrator que discrimina, e o mais tentador, porque a vírgula sugere pausa, não restrição · **b** inventa um efeito sobre o pronome, como se a pontuação trocasse *who* por *which* · **d** inventa um efeito sobre o tempo verbal. Os três leem a vírgula como algo que ela não faz, cada um de um jeito |
+| 29 | **d** | **a** **extrapola o texto** — ele diz que o senhor Alves trabalha lá à tarde, e a alternativa conclui que ele é o único funcionário e que a biblioteca só abre nesse turno; é o distrator obrigatório da questão de interpretação · **b** **achata a restrição**: o texto fala dos alunos **que a usam todo dia**, e a alternativa estende o juízo a todos os alunos da escola — é exatamente a leitura que a oração restritiva impede, e por isso o distrator mede o essencial do capítulo · **c** **inventa uma causa** entre dois fatos que o texto apenas justapõe, a inauguração recente e a localização |
+| 30 | **b** | **a** **inverte a regra**: dá a condição de omissão ao pronome que é sujeito, quando é justamente esse que não pode sair — é o distrator que discrimina, porque a distinção entre sujeito e objeto é o degrau de cima do capítulo · **c** troca o critério pela pontuação, aproveitando a vírgula da questão anterior · **d** troca o critério pelo pronome, como se *which* fosse dispensável e *who* não |
+
 ### Nota sobre dados
 
 Os únicos números reais da prova vêm dos capítulos: **1.500 m/s** para a velocidade do som na água e **500 Hz** como frequência de trabalho (Q13); **1824**, **1834**, **1838**, **1840**, **1804** e **7 de setembro de 1822** (Q22, Q24, Q25, Q26).
@@ -269,7 +299,8 @@ O trecho impresso na Q24 é composto **inteiramente de frases do capítulo 2 de 
 | Matemática Financeira | 2 | 0 = **0%** | 1 = 50% | 1 = 50% | **não** — bloco de 2 questões, sem reconhecimento. Ver 3.2 |
 | Ciências | 5 | 2 = 40% | 2 = 40% | 1 = 20% | sim |
 | Estudos Sociais | 5 | 2 = 40% | 2 = 40% | 1 = 20% | sim |
-| **Prova inteira** | **26** | **9 = 34,6%** | **11 = 42,3%** | **6 = 23,1%** | **sim — as três dentro** |
+| Inglês | 4 | 1 = **25%** | 2 = **50%** | 1 = 25% | **não** — mesmo impasse aritmético de Geometria e Física, e pela mesma razão |
+| **Prova inteira** | **30** | **10 = 33,3%** | **13 = 43,3%** | **7 = 23,3%** | **sim — as três dentro** |
 
 ### 3.2 Por que o bloco de Matemática Financeira não tem questão de reconhecimento
 
@@ -285,6 +316,7 @@ São duas questões e dois conteúdos essenciais, e a regra do §3.4 manda medir
 | Matemática Financeira | 3 *(capítulo único)* | 2 | Q15,Q16 | sim |
 | Ciências | 4 · 5 | 2 · 3 | Q17,Q18 · Q19,Q20,Q21 | sim |
 | Estudos Sociais | 6 · 4 · 5 | 2 · 1 · 2 | Q22,Q23 · Q24 · Q25,Q26 | sim |
+| Inglês | capítulo único, carga não informada | 4 | Q27,Q28,Q29,Q30 | sim |
 
 Nenhum capítulo do bloco ficou sem questão. O que ficou de fora são **assuntos dentro dos capítulos**, listados em 1.7 e detalhados nos `_MAPA`.
 
@@ -292,17 +324,17 @@ Nenhum capítulo do bloco ficou sem questão. O que ficou de fora são **assunto
 
 | # | Verificação | Resultado |
 |---|---|---|
-| 1 | Matriz antes dos enunciados | **sim** — os seis `_MAPA` e a seção 1 deste arquivo foram escritos antes de qualquer enunciado |
-| 2 | Bandas N1/N2/N3 | **parcial.** 34,6 / 42,3 / 23,1 na prova inteira, as três dentro. **Dois blocos fora**: Geometria e Física (25/50/25) e Matemática Financeira (0/50/50). Os dois desvios são aritméticos, não de julgamento — ver 3.1 e 3.2 |
+| 1 | Matriz antes dos enunciados | **sim** — os sete `_MAPA` e a seção 1 deste arquivo foram escritos antes de qualquer enunciado |
+| 2 | Bandas N1/N2/N3 | **parcial.** 33,3 / 43,3 / 23,3 na prova inteira, as três dentro. **Três blocos fora**: Geometria e Física (25/50/25), Inglês (25/50/25) e Matemática Financeira (0/50/50). Os dois desvios são aritméticos, não de julgamento — ver 3.1 e 3.2 |
 | 3 | Distribuição por capítulo e registro do que ficou fora | **sim** — cálculo em 3.3, o que ficou fora em 1.7 e na *Cobertura do bloco* de cada `_MAPA` |
-| 4 | Respondível só com a folha | **sim** — 26 de 26. Nenhuma questão pede consulta, internet, outra pessoa ou material além de lápis, caneta e régua. Nenhuma exige desenho, figura ou calculadora; as contas de Q7, Q13 e Q15 fecham em números inteiros ou em percentuais exatos |
-| 5 | Fonte, caso ou dado impresso na folha | **sim** — as seis questões de interpretação (Q5, Q10, Q14, Q16, Q21, Q24) trazem o suporte em citação, dentro da própria questão, e nenhuma passa de 6 linhas. As demais trazem o caso no corpo do enunciado |
+| 4 | Respondível só com a folha | **sim** — 30 de 30. Nenhuma questão pede consulta, internet, outra pessoa ou material além de lápis, caneta e régua. Nenhuma exige desenho, figura ou calculadora; as contas de Q7, Q13 e Q15 fecham em números inteiros ou em percentuais exatos |
+| 5 | Fonte, caso ou dado impresso na folha | **sim** — as sete questões de interpretação (Q5, Q10, Q14, Q16, Q21, Q24, Q29) trazem o suporte em citação, dentro da própria questão, e nenhuma passa de 6 linhas. As demais trazem o caso no corpo do enunciado |
 | 6 | **Diferente da questão do caderno** — conferido questão a questão contra a folha | **sim, com duas reescritas.** Detalhe abaixo |
-| 7 | Caso novo em N2 e N3 | **sim** — 17 questões em aplicação e análise, nenhuma usando o exemplo do capítulo. Detalhe abaixo |
-| 8 | Qualidade do distrator | **sim** — 78 distratores. Nenhum absurdo, nenhum "todas as anteriores", todos do mesmo campo conceitual da resposta certa, comprimentos equivalentes dentro de cada questão, motivo próprio registrado na grade da seção 2 |
-| 9 | Soma fecha o total | **sim** — 26 questões de 1 ponto. Nenhuma questão sem linha na matriz, nenhuma linha da matriz sem questão |
-| 10 | **Mede sozinho todos os essenciais** | **sim** — Português 5 de 5 · Operações 5 de 5 · Geometria e Física 3 de 3 · Matemática Financeira 2 de 2 · Ciências 4 de 4 · Estudos Sociais 5 de 5. Como a Avaliação de Conteúdo não foi produzida nesta rodada, **esta prova é o único instrumento do bimestre**, e a autossuficiência é obrigatória, não folga |
-| 11 | **Questões de interpretação da faixa** | **sim** — o 8º ano está na faixa 6º–8º: **1 por bloco de disciplina**. Q5, Q10, Q14, Q16, Q21 e Q24 — uma em cada um dos seis blocos, todas em análise, todas com um distrator que vai além do que o suporte permite concluir, um que acrescenta informação ausente e um que achata as diferenças do caso. O bloco de 2 questões (Matemática Financeira) levou **1**, como manda a exceção do briefing §4 |
+| 7 | Caso novo em N2 e N3 | **sim** — 20 questões em aplicação e análise, nenhuma usando o exemplo do capítulo. Detalhe abaixo |
+| 8 | Qualidade do distrator | **sim** — 90 distratores. Nenhum absurdo, nenhum "todas as anteriores", todos do mesmo campo conceitual da resposta certa, comprimentos equivalentes dentro de cada questão, motivo próprio registrado na grade da seção 2 |
+| 9 | Soma fecha o total | **sim** — 30 questões de 1 ponto. **É o total previsto pela tabela da coordenação para o 8º ano**, o que não acontecia até 24/08. Nenhuma questão sem linha na matriz, nenhuma linha da matriz sem questão |
+| 10 | **Mede sozinho todos os essenciais** | **sim** — Inglês 2 de 2 · Português 5 de 5 · Operações 5 de 5 · Geometria e Física 3 de 3 · Matemática Financeira 2 de 2 · Ciências 4 de 4 · Estudos Sociais 5 de 5. Como a Avaliação de Conteúdo não foi produzida nesta rodada, **esta prova é o único instrumento do bimestre**, e a autossuficiência é obrigatória, não folga |
+| 11 | **Questões de interpretação da faixa** | **sim** — o 8º ano está na faixa 6º–8º: **1 por bloco de disciplina**. Q5, Q10, Q14, Q16, Q21, Q24 e Q29 — uma em cada um dos seis blocos, todas em análise, todas com um distrator que vai além do que o suporte permite concluir, um que acrescenta informação ausente e um que achata as diferenças do caso. O bloco de 2 questões (Matemática Financeira) levou **1**, como manda a exceção do briefing §4 |
 
 ### Checagem 6 · questão a questão contra a folha do caderno
 
@@ -314,10 +346,13 @@ Nenhum capítulo do bloco ficou sem questão. O que ficou de fora são **assunto
 | **Matemática Financeira** | Q15 usa uma **urna de 20 fichas e múltiplos de 5**, enquanto as ATIV 02, 05 e 06 usam dados e moedas e a ATIV 04 usa papéis numerados de 1 a 6 com pares e ímpares · Q16 cobra a **independência entre lançamentos** diante de uma sequência já ocorrida, e nenhuma atividade do caderno faz isso: a ATIV 04 compara frequência observada com chance teórica, que é outro raciocínio |
 | **Ciências** | Q17 pergunta **o que caracteriza** a assexuada, e as ATIV 03, 05 e 09 pedem comparação, diagnóstico e leitura de um caso · Q18 pede a **consequência** de gametas sem redução, e a ATIV 08 pede a afirmação correta sobre a notação — **esta é uma das duas reescritas** · Q19 pergunta a **origem** do fruto e da semente, e a ATIV 08 do capítulo 2 pergunta qual das quatro coisas é fruto · Q20 usa um **réptil de deserto** e pergunta **por que** é vantajoso, e a ATIV 09 usa a rã e pede conclusão mais razão · Q21 usa **duas árvores e a sobrevivência das mudas**, e a ATIV 03 pede uma tabela de três sementes e seus agentes |
 | **Estudos Sociais** | Q22 pergunta **o que distinguiu** o Haiti, e a ATIV 06 pede que o aluno decida por que a reação das potências foi diferente, a ATIV 08 trata da indenização de 1825 · Q23 cobra **o que permaneceu** depois das independências espanholas, assunto que o caderno não mede em nenhuma atividade — **esta é a segunda reescrita**, no lugar de uma questão sobre criollos e peninsulares que repetiria a ATIV 07 · Q24 usa um **trecho impresso sobre o 7 de setembro**, e a ATIV 07 do capítulo 2 pergunta qual mudança 1822 trouxe, sem texto de apoio · Q25 pergunta de que dependia o **voto**, e a ATIV 07 do capítulo 3 pede a leitura do caso da dissolução da Assembleia — o voto censitário aparece lá só como alternativa errada · Q26 pergunta **a quem o Ato Adicional servia**, a partir de uma posição política descrita, e a ATIV 08 pergunta o que o Ato foi |
+| **Inglês** | **Conferido em 24/08/2026, quando o bloco foi produzido**, contra as 10 atividades do caderno. As dez giram em torno de **escolher entre `who` e `which`** — completar, ligar colunas, unir duas frases, achar erro, ordenar palavras. **Q27** cobra o alcance de `that`, e **`that` não aparece em nenhuma das dez** · **Q28** mede o que a vírgula muda, e **nenhuma atividade usa oração entre vírgulas**: o capítulo separa restritiva de explicativa numa seção própria e o caderno só treina a restritiva, sem nomeá-la. Conteúdo do capítulo sem treino registrado · **Q29** imprime um texto e pergunta o que ele permite concluir; **as dez atividades são de forma**, e nenhuma pede leitura · **Q30** cobra a condição de omissão do pronome, e **nenhuma atividade a treina** — o capítulo lhe dedica uma tabela e uma dica prática, e o caderno não a toca. **Três dos quatro assuntos medidos não têm treino registrado no caderno**, o que está apontado no `_MAPA-Inglês.md` |
 
 ### Checagem 7 · caso novo em aplicação e análise
 
-As 17 questões de aplicação e análise usam casos que não aparecem em capítulo nenhum: cartaz da biblioteca, aviso do mural e o treino sob calor (Português); sistema 3x+2y=19 / x−2y=1, arrecadação de arroz e feijão, loja de camisetas e bonés (Operações); câmara sem ar, som na água a 500 Hz, recado sobre o alarme de fim de aula (Física); urna de 20 fichas, jogo de tabuleiro (Matemática Financeira); gametas sem redução, réptil de deserto, duas árvores da mata (Ciências); quadro social da América espanhola, trecho do 7 de setembro, proprietários de província em 1838 (Estudos Sociais).
+Em Inglês, as três de aplicação e análise usam material próprio: o par *My brother who lives in London* com e sem vírgulas, que o capítulo traz só na forma com vírgula e sobre um irmão declarado único; a biblioteca da escola, o ginásio e o senhor Alves, cena montada para a questão — o capítulo usa amigos em Nova York, o livro na mesa e o cachorro do vizinho; e a condição de omissão, que o capítulo enuncia em tabela e a prova cobra aplicada.
+
+As 17 questões de aplicação e análise dos outros blocos usam casos que não aparecem em capítulo nenhum: cartaz da biblioteca, aviso do mural e o treino sob calor (Português); sistema 3x+2y=19 / x−2y=1, arrecadação de arroz e feijão, loja de camisetas e bonés (Operações); câmara sem ar, som na água a 500 Hz, recado sobre o alarme de fim de aula (Física); urna de 20 fichas, jogo de tabuleiro (Matemática Financeira); gametas sem redução, réptil de deserto, duas árvores da mata (Ciências); quadro social da América espanhola, trecho do 7 de setembro, proprietários de província em 1838 (Estudos Sociais).
 
 Nenhum reaproveita exemplo do capítulo. Em Operações, isso foi checado com cuidado: o capítulo trabalha cantina, cadernos e canetas, galinhas e coelhos, pai e filho, planos de telefonia — e a prova usa pacotes de arroz e feijão e uma loja de camisetas e bonés, com números que não aparecem em nenhum exemplo.
 
@@ -327,6 +362,7 @@ Nenhum reaproveita exemplo do capítulo. Em Operações, isso foi checado com cu
 
 | Data | O que mudou |
 |---|---|
+| 24/08/2026 | **O bloco de Inglês entrou, e a prova fechou as 30 questões previstas.** A premissa de 19/08 — *"Inglês não tem conteúdo neste pipeline"* — era falsa, e é a mesma classe de erro de Operações e Física, corrigida dois dias antes: a pasta `Inglês - Ok` está no Drive desde **14/08/2026**. Foram produzidas **Q27 a Q30** — o alcance de `that`, o que as vírgulas mudam numa oração relativa, um texto impresso com três relativas e a condição que permite omitir o pronome. A numeração das 26 anteriores **não mudou**: Inglês é a última linha da tabela da coordenação. A chave — **b · c · d · b** — levou as letras de 7·6·7·6 a 7·8·8·7. As **quatro versões adaptadas** receberam o mesmo bloco. A checagem 6 achou o traço mais forte do bloco: **três dos quatro assuntos medidos não têm nenhuma atividade de caderno** — o caderno treina só a escolha entre `who` e `which`. |
 | 19/08/2026 | Versão inicial do 8º ano — bloco 1 do 3º bimestre, 26 questões em 6 blocos de disciplina, sob o [`07-AVALIACAO.md`](../../METODOLOGIA/07-AVALIACAO.md). |
 | 19/08/2026 | **Reescrita da questão de meiose em Ciências.** A primeira versão pedia, entre quatro afirmações, a que descrevia corretamente a passagem de metade para o conjunto completo — que é o desenho exato da ATIV 08 do caderno, inclusive nas alternativas. Passou a pedir a **consequência** de gametas produzidos sem a redução. Subiu de reconhecimento para aplicação, e a banda do bloco foi recalibrada trocando a questão do fruto de aplicação para reconhecimento. |
 | 19/08/2026 | **Troca do segundo essencial do capítulo 1 de Estudos Sociais.** A escolha natural era *criollos e peninsulares*, que a ATIV 07 do caderno já cobra em formato de alternativas quase idêntico ao que a prova faria. Foi substituída por *o que permaneceu depois das independências hispano-americanas*, que o caderno não mede. A troca puxou a questão de reconhecimento para aplicação e melhorou o bloco. |

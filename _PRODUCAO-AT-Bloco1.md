@@ -19,7 +19,7 @@ Anos: **6º · 7º · 8º · 9º · 1ª série · 2ª série · 3ª série**.
 | Ciências / Biologia | `Ciências/` (6º–8º) · `Biologia/` (9º e EM) | — |
 | Estudos Sociais | `Estudos Sociais/` (6º–9º) · no EM: `História/` + `Geografia/` + `Filosofia/` + `Sociologia/` | no EM são 4 pastas para um bloco. Distribuir as questões e registrar a divisão |
 | Química | `Química/` — só 9º e EM | não existe no 6º–8º, como a própria tabela indica |
-| **Inglês** | **não existe** | ❌ **fora, e confirmado em 19/08/2026: Inglês não tem conteúdo neste pipeline.** Não é pendência a resolver — é ausência definitiva nesta rodada. Registrar e seguir |
+| **Inglês** | **`Inglês - Ok/`, no Drive** | ✅ **dentro, desde 24/08/2026. A linha anterior desta tabela estava errada.** Ela dizia *"Inglês não tem conteúdo neste pipeline — ausência definitiva nesta rodada"*, e essa afirmação atravessou a rodada inteira sem ser conferida contra o Drive. A pasta `Inglês - Ok` foi criada em **14/08/2026**, cinco dias **antes** da decisão de 19/08, e traz capítulo-fonte e caderno de atividades do 1º ano à 2ª série do Ensino Médio. **É a terceira vez que a mesma classe de erro aparece nesta rodada** — Operações e Física em 22/08, Inglês agora —, e as três vezes o padrão foi o mesmo: declarar ausência sem abrir o Drive. **Exceção: a 3ª série não tem conteúdo de Inglês**, e a ausência dela é real, conferida arquivo a arquivo |
 
 Arquivo-fonte: `<Disciplina>/<Ano>/bl1_<Disciplina>_<ano>.md`. Ele traz os capítulos do bloco e **o número de aulas de cada um** no cabeçalho — é dali que sai a distribuição do §3.3.
 
@@ -36,10 +36,12 @@ Da tabela da coordenação, em `_PARAMETROS/`:
 | Ciências / Biologia | 5 | 5 | 6 |
 | Estudos Sociais | 5 | 5 | 6 |
 | Química | — | 4 | 4 |
-| ~~Inglês~~ | ~~4~~ | ~~4~~ | ~~4~~ |
-| **Produzível** | **26** | **31** | **36** |
+| Inglês | 4 | 4 | 4 |
+| **Produzível** | **30** | **35** | **40** |
 
-O total da prova **não fecha** 30/35/40 nesta rodada, por causa de Inglês. Isso é esperado e vai registrado — não compense inventando questões em outra disciplina.
+**O total fecha 30/35/40 desde 24/08/2026**, quando o bloco de Inglês entrou no 6º, 7º, 8º e 9º ano. Até essa data a prova saía com 26/31/36, por causa da premissa falsa registrada no §2.
+
+⚠️ **A 3ª série continua em 36 de 40, e essa ausência é real.** Não existe conteúdo de Inglês da 3ª série no Drive — nem capítulo, nem caderno —, conferido em 24/08/2026. **A 1ª e a 2ª série têm o conteúdo e ainda não receberam o bloco**: ficaram fora do escopo da rodada de 24/08, que cobriu só o EF2. É pendência aberta, não ausência.
 
 ## 4. Questão de interpretação (`07` §4.1)
 
@@ -66,7 +68,9 @@ AVALIACAO/<Ano>/
 
 A checagem #6 se faz **contra a folha**, questão a questão, em `~/ATIVIDADES/CADERNO/<Disciplina>/<Ano>.md`. É no `_MAPA` que ela se registra.
 
-**Disciplinas sem caderno** — Física, Operações e tudo da 3ª série: a checagem #6 não se aplica; registrar "sem caderno correspondente" e seguir.
+**Disciplinas sem caderno** — ~~Física, Operações~~ e tudo da 3ª série: a checagem #6 não se aplica; registrar "sem caderno correspondente" e seguir.
+
+⚠️ **Corrigido em 22/08 e de novo em 24/08.** Operações e Física **têm** caderno, no Drive, e Inglês também — nos nove anos, menos a 3ª série. A frase riscada acima é o registro do erro, mantida à vista de propósito: **três premissas de ausência foram declaradas nesta rodada sem que ninguém abrisse o Drive, e as três estavam erradas.** Antes de escrever "não existe conteúdo" em qualquer linha deste briefing, procure a pasta.
 
 ## 7. O que nunca fazer
 

@@ -1,6 +1,6 @@
 # Avaliação Teste — 8º Ano
 
-> **3º Bimestre · Bloco 1** · 26 questões
+> **3º Bimestre · Bloco 1** · 30 questões
 > Nome: ______________________________  Turma: ______  Data: ____/____/____
 
 ---
@@ -364,3 +364,58 @@ a) o Ato Adicional de 1834 — criou assembleias provinciais sem romper a unidad
 b) a Constituição de 1824 — reservou as decisões locais ao Poder Moderador  
 c) a República Rio-Grandense — separou a província do Império  
 d) o Golpe da Maioridade de 1840 — devolveu às províncias a escolha do regente
+
+---
+## Inglês
+
+### QUESTÃO 27
+
+Na tabela do capítulo, *that* tem uso mais amplo que *who* e *which*.
+
+**Assinale esse uso mais amplo.**
+
+a) só para pessoas, no lugar de *who*  
+b) para pessoas e para coisas, no lugar dos dois  
+c) só para coisas, no lugar de *which*  
+d) para lugar e para tempo, no lugar de *where* e *when*
+
+---
+
+### QUESTÃO 28
+
+Leia: *My brother who lives in London is a doctor* e *My brother, who lives in London, is a doctor*.
+
+**Assinale o que as vírgulas mudam.**
+
+a) sem vírgula, há um irmão só, e a oração é um dado a mais  
+b) as vírgulas trocam *who* por *which*  
+c) sem vírgula, há mais de um irmão, e a oração diz de qual  
+d) as vírgulas põem a frase no passado
+
+---
+
+### QUESTÃO 29
+
+Leia. A situação é hipotética.
+
+> The library which opened last month is next to the gym. The students who use it every day say it is very quiet. Mr. Alves, who works there in the afternoon, helps them.
+
+**Assinale a leitura certa.**
+
+a) o senhor Alves trabalha sozinho, e a biblioteca só abre à tarde  
+b) todos os alunos usam a biblioteca todo dia  
+c) a biblioteca fica ao lado da quadra porque é nova  
+d) a biblioteca fica ao lado da quadra, e Alves trabalha lá à tarde
+
+---
+
+### QUESTÃO 30
+
+O pronome relativo sai da frase em alguns casos.
+
+**Assinale quando ele pode sair.**
+
+a) quando vem antes de um verbo, sendo sujeito  
+b) quando vem antes de sujeito e verbo, sendo objeto  
+c) quando a frase tem vírgulas  
+d) quando o pronome é *which*
